@@ -18,6 +18,9 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from pathlib import Path
 
+# ── Zona horaria Colombia ────────────────────────────────────────────────────────
+COLOMBIA_TZ = datetime.timezone(datetime.timedelta(hours=-5))
+
 # ── Configuración ──────────────────────────────────────────────────────────────
 
 SCRIPT_DIR      = Path(__file__).parent
@@ -55,7 +58,7 @@ TEXTO_POR_MEDIO = 1500
 # ── Logging ────────────────────────────────────────────────────────────────────
 
 def log(msg):
-    ts = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    ts = datetime.datetime.now(tz=COLOMBIA_TZ).strftime("%Y-%m-%d %H:%M:%S")
     line = f"[{ts}] {msg}"
     print(line)
     with open(LOG_FILE, "a", encoding="utf-8") as f:
@@ -132,7 +135,7 @@ def guardar_memoria(briefing: dict):
     MEMORIA_F.write_text(json.dumps(resumen, ensure_ascii=False, indent=2), encoding="utf-8")
 
 def llamar_api(contexto: str, api_key: str) -> dict:
-    ahora = datetime.datetime.now()
+    ahora = datetime.datetime.now(tz=COLOMBIA_TZ)
     dias  = ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"][ahora.weekday()]
     meses = ["","enero","febrero","marzo","abril","mayo","junio",
              "julio","agosto","septiembre","octubre","noviembre","diciembre"]
@@ -253,12 +256,12 @@ def render_seccion(titulo: str, items: list) -> str:
     </div>"""
 
 def generar_html(briefing: dict) -> str:
-    ahora = datetime.datetime.now()
+    ahora = datetime.datetime.now(tz=COLOMBIA_TZ)
     dias_s = ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"]
     meses_s = ["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"]
     fecha_bonita = f"{dias_s[ahora.weekday()]} {ahora.day} de {meses_s[ahora.month]} de {ahora.year}"
     hora_str = ahora.strftime("%H:%M")
-    segunda = (datetime.date(2026,6,21) - datetime.date.today()).days
+    segunda = (datetime.date(2026,6,21) - datetime.datetime.now(tz=COLOMBIA_TZ).date()).days
 
     s = briefing.get("secciones", {})
     t = briefing.get("termometro", {})
@@ -448,12 +451,12 @@ body{{font-family:Georgia,'Times New Roman',serif;background:#F4F1EC;color:#1a12
 
 def generar_html_email(briefing: dict) -> str:
     """HTML email estilo editorial FT/Economist — estilos inline para Gmail."""
-    ahora = datetime.datetime.now()
+    ahora = datetime.datetime.now(tz=COLOMBIA_TZ)
     dias_s  = ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"]
     meses_s = ["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"]
     fecha_bonita = f"{dias_s[ahora.weekday()]} {ahora.day} de {meses_s[ahora.month]} de {ahora.year}"
     hora_str = ahora.strftime("%H:%M")
-    segunda = (datetime.date(2026,6,21) - datetime.date.today()).days
+    segunda = (datetime.date(2026,6,21) - datetime.datetime.now(tz=COLOMBIA_TZ).date()).days
 
     s = briefing.get("secciones", {})
     t = briefing.get("termometro", {})
@@ -626,7 +629,7 @@ def enviar_email(html_content: str, titular: str, destinatarios: list, gmail_pas
         log("Sin destinatarios — email omitido.")
         return
 
-    ahora   = datetime.datetime.now()
+    ahora   = datetime.datetime.now(tz=COLOMBIA_TZ)
     meses   = ["","enero","febrero","marzo","abril","mayo","junio",
                "julio","agosto","septiembre","octubre","noviembre","diciembre"]
     fecha   = f"{ahora.day} de {meses[ahora.month]}"
