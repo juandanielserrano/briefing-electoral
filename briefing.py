@@ -67,9 +67,14 @@ def log(msg):
 # ── Destinatarios ──────────────────────────────────────────────────────────────
 
 def leer_destinatarios() -> list:
-    """Lee destinatarios.txt e ignora comentarios y líneas vacías."""
+    """Lee destinatarios desde variable de entorno DESTINATARIOS o desde destinatarios.txt."""
+    env_dest = os.environ.get("DESTINATARIOS", "").strip()
+    if env_dest:
+        correos = [c.strip() for c in env_dest.split(",") if c.strip()]
+        log(f"Destinatarios desde variable de entorno: {len(correos)}")
+        return correos
     if not DESTINATARIOS_F.exists():
-        log(f"AVISO: No se encontró {DESTINATARIOS_F}. No se enviará email.")
+        log(f"AVISO: No se encontró {DESTINATARIOS_F} ni variable DESTINATARIOS. No se enviará email.")
         return []
     correos = []
     for linea in DESTINATARIOS_F.read_text(encoding="utf-8").splitlines():

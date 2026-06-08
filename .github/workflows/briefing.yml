@@ -4,13 +4,13 @@ on:
   schedule:
     - cron: '0 11 * * *'   # 6:00am Colombia (UTC-5)
     - cron: '0 22 * * *'   # 5:00pm Colombia
-  workflow_dispatch:         # permite correrlo manualmente desde GitHub
+  workflow_dispatch:
 
 jobs:
   generar-briefing:
     runs-on: ubuntu-latest
     permissions:
-      contents: write        # necesario para hacer commit de memoria.json
+      contents: write
 
     steps:
       - name: Checkout
@@ -28,6 +28,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          DESTINATARIOS: ${{ secrets.DESTINATARIOS }}
         run: python3 briefing.py
 
       - name: Guardar memoria
