@@ -1,0 +1,22 @@
+# Destinatarios del Briefing Electoral Colombia 2026
+# ─────────────────────────────────────────────────
+# - Un correo por línea
+# - Las líneas que empiezan con # son comentarios y se ignoran
+# - Líneas en blanco también se ignoran
+# - Guarda el archivo y el próximo envío usará esta lista
+
+juandanielserrano@gmail.com
+#natalia.vargas.aragon@gmail.com
+#lorena.panqueva@gmail.com
+#valenpache@gmail.com
+#claramariasanin@gmail.com
+#jserranoq51@gmail.com
+#mariaadelaidaserrano@gmail.com
+#serranosaninma@gmail.com
+#marianaserranosanin@gmail.com
+#martinserranosanin@gmail.com
+
+
+# Ejemplo para agregar más:
+# otrapersona@gmail.com
+# colega@empresa.com
