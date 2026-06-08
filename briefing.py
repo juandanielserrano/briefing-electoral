@@ -297,6 +297,18 @@ def generar_html(briefing: dict) -> str:
 
     secciones_html = render_noticias(noticias)
 
+    bloque_editorial = (
+        "<div class=\"editorial\"><div class=\"editorial-lbl\">An&aacute;lisis</div>"
+        "<p class=\"editorial-txt\">" + editorial + "</p></div>"
+    ) if editorial else ""
+    bloque_termometro_nota = (
+        "<div class=\"thermo-sep\"></div><span class=\"thermo-nota\">" + nota_t + "</span>"
+    ) if nota_t else ""
+    bloque_atento = (
+        "<div class=\"atento\"><div class=\"atento-lbl\">Para estar atento</div><p>"
+        + atento + "</p></div>"
+    ) if atento else ""
+
     return f"""<!DOCTYPE html>
 <html lang="es">
 <head>
@@ -399,18 +411,18 @@ body{{font-family:Georgia,'Times New Roman',serif;background:#F4F1EC;color:#1a12
       <div class="titular-txt">{titular}</div>
     </div>
 
-    {"<div class='editorial'><div class='editorial-lbl'>An&aacute;lisis</div><p class='editorial-txt'>" + editorial + "</p></div>" if editorial else ""}
+    {bloque_editorial}
 
     <div class="termometro">
       <div class="thermo-item">De la Espriella &nbsp;{chip(t.get('espriella','estable'))}</div>
       <div class="thermo-sep"></div>
       <div class="thermo-item">Cepeda &nbsp;{chip(t.get('cepeda','estable'))}</div>
-      {"<div class='thermo-sep'></div><span class='thermo-nota'>" + nota_t + "</span>" if nota_t else ""}
+      {bloque_termometro_nota}
     </div>
 
     {secciones_html}
 
-    {"<div class='atento'><div class='atento-lbl'>Para estar atento</div><p>" + atento + "</p></div>" if atento else ""}
+    {bloque_atento}
 
   </div>
 
@@ -483,6 +495,33 @@ def generar_html_email(briefing: dict) -> str:
 
     secciones = noticias_email(noticias_e)
 
+    td_style_nota = "padding-left:12px;border-left:1px solid #d4cfc6"
+    span_style_nota = "font-size:11px;color:#777;font-style:italic;font-family:Helvetica,Arial,sans-serif"
+    bloque_nota_e = (
+        "<td style=\"" + td_style_nota + "\"><span style=\"" + span_style_nota + "\">"
+        + nota_t + "</span></td>"
+    ) if nota_t else ""
+
+    bloque_editorial_e = (
+        "<tr><td style=\"padding:14px 0;border-top:1px solid #d4cfc6;border-bottom:1px solid #d4cfc6\">"
+        "<p style=\"margin:0 0 5px;font-size:9px;text-transform:uppercase;letter-spacing:.1em;"
+        "color:#1a1208;font-weight:bold;font-family:Helvetica,Arial,sans-serif\">An&#225;lisis</p>"
+        "<p style=\"margin:0;font-size:13px;color:#1a1208;line-height:1.8;font-family:Georgia,serif\">"
+        + editorial_e + "</p></td></tr>"
+    ) if editorial_e else ""
+
+    bloque_atento_e = (
+        "<tr><td style=\"padding:4px 0 24px\">"
+        "<table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" "
+        "style=\"background:#FFF8E7;border-left:3px solid #C8860A\">"
+        "<tr><td style=\"padding:12px 14px\">"
+        "<p style=\"margin:0 0 5px;font-size:9px;text-transform:uppercase;letter-spacing:.1em;"
+        "color:#C8860A;font-weight:bold;font-family:Helvetica,Arial,sans-serif\">Para estar atento</p>"
+        "<p style=\"margin:0;font-size:12px;color:#6b5000;line-height:1.6;"
+        "font-family:Helvetica,Arial,sans-serif\">" + atento + "</p>"
+        "</td></tr></table></td></tr>"
+    ) if atento else ""
+
     return f"""<!DOCTYPE html>
 <html lang="es">
 <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
@@ -531,7 +570,7 @@ def generar_html_email(briefing: dict) -> str:
     </td></tr>
 
     <!-- Editorial -->
-    {"<tr><td style='padding:14px 0;border-top:1px solid #d4cfc6;border-bottom:1px solid #d4cfc6;margin:14px 0'><p style='margin:0 0 5px;font-size:9px;text-transform:uppercase;letter-spacing:.1em;color:#1a1208;font-weight:bold;font-family:Helvetica,Arial,sans-serif'>Análisis</p><p style='margin:0;font-size:13px;color:#1a1208;line-height:1.8;font-family:Georgia,serif'>" + editorial_e + "</p></td></tr>" if editorial_e else ""}
+    {bloque_editorial_e}
 
     <!-- Termómetro -->
     <tr><td style="padding:14px 0">
@@ -544,7 +583,7 @@ def generar_html_email(briefing: dict) -> str:
           <td style="padding:0 12px;border-left:1px solid #d4cfc6;white-space:nowrap">
             <span style="font-size:12px;color:#555;font-family:Helvetica,Arial,sans-serif">Cepeda &nbsp;</span>{chip_e(t.get("cepeda","estable"))}
           </td>
-          {"<td style='padding-left:12px;border-left:1px solid #d4cfc6'><span style=\'font-size:11px;color:#777;font-style:italic;font-family:Helvetica,Arial,sans-serif\'>" + nota_t + "</span></td>" if nota_t else ""}
+          {bloque_nota_e}
         </tr></table>
       </td></tr>
       </table>
