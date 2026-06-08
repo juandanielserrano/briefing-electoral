@@ -1,0 +1,28 @@
+name: Briefing Electoral
+
+on:
+  schedule:
+    - cron: '0 11 * * *'   # 6:00am Colombia (UTC-5)
+    - cron: '0 22 * * *'   # 5:00pm Colombia
+  workflow_dispatch:         # permite correrlo manualmente desde GitHub
+
+jobs:
+  generar-briefing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install anthropic
+
+      - name: Correr briefing
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python3 briefing.py
