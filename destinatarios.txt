@@ -5,16 +5,21 @@
 # - Líneas en blanco también se ignoran
 # - Guarda el archivo y el próximo envío usará esta lista
 
+#cd /Users/serrano/Documents/Developer/Claude/briefing_electoral
+#git add destinatarios.txt
+#git commit -m "actualizar destinatarios"
+#git push origin main
+
 juandanielserrano@gmail.com
-#natalia.vargas.aragon@gmail.com
-#lorena.panqueva@gmail.com
-#valenpache@gmail.com
-#claramariasanin@gmail.com
-#jserranoq51@gmail.com
-#mariaadelaidaserrano@gmail.com
-#serranosaninma@gmail.com
-#marianaserranosanin@gmail.com
-#martinserranosanin@gmail.com
+natalia.vargas.aragon@gmail.com
+lorena.panqueva@gmail.com
+valenpache@gmail.com
+claramariasanin@gmail.com
+jserranoq51@gmail.com
+mariaadelaidaserrano@gmail.com
+serranosaninma@gmail.com
+marianaserranosanin@gmail.com
+martinserranosanin@gmail.com
 
 
 # Ejemplo para agregar más:
