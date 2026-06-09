@@ -687,7 +687,10 @@ def main():
         briefing     = llamar_api(contexto, api_key)
         titular      = briefing.get("titular_del_dia", "")
         log(f"Briefing generado: {titular[:60]}")
-        guardar_memoria(briefing)
+        if os.environ.get("MODO", "produccion").strip().lower() != "pruebas":
+            guardar_memoria(briefing)
+        else:
+            log("MODO PRUEBAS — memoria no actualizada")
         html_content = generar_html(briefing)
         OUTPUT_HTML.write_text(html_content, encoding="utf-8")
         log(f"HTML guardado en: {OUTPUT_HTML}")
