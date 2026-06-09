@@ -69,20 +69,29 @@ def log(msg):
 # ── Destinatarios ──────────────────────────────────────────────────────────────
 
 def leer_destinatarios() -> list:
-    """Lee destinatarios desde variable de entorno DESTINATARIOS o desde destinatarios.txt."""
+    """Lee destinatarios según el modo: pruebas (solo admin) o produccion (lista completa)."""
+    modo = os.environ.get("MODO", "produccion").strip().lower()
+    email_admin = os.environ.get("EMAIL_ADMIN", "juandanielserrano@gmail.com").strip()
+
+    if modo == "pruebas":
+        log(f"MODO PRUEBAS — enviando solo a {email_admin}")
+        return [email_admin]
+
+    # Modo producción: leer desde variable de entorno o archivo
     env_dest = os.environ.get("DESTINATARIOS", "").strip()
     if env_dest:
         correos = [c.strip() for c in env_dest.split(",") if c.strip()]
-        log(f"Destinatarios desde variable de entorno: {len(correos)}")
+        log(f"MODO PRODUCCIÓN — {len(correos)} destinatario(s)")
         return correos
     if not DESTINATARIOS_F.exists():
-        log(f"AVISO: No se encontró {DESTINATARIOS_F} ni variable DESTINATARIOS. No se enviará email.")
-        return []
+        log(f"AVISO: No se encontró {DESTINATARIOS_F} ni variable DESTINATARIOS.")
+        return [email_admin]
     correos = []
     for linea in DESTINATARIOS_F.read_text(encoding="utf-8").splitlines():
         linea = linea.strip()
         if linea and not linea.startswith("#"):
             correos.append(linea)
+    log(f"MODO PRODUCCIÓN — {len(correos)} destinatario(s) desde archivo")
     return correos
 
 # ── Scraping ───────────────────────────────────────────────────────────────────

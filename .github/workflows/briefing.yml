@@ -4,7 +4,9 @@ on:
   schedule:
     - cron: '0 11 * * *'   # 6:00am Colombia (UTC-5)
     - cron: '0 22 * * *'   # 5:00pm Colombia
-  workflow_dispatch:
+  workflow_dispatch:         # ejecución manual desde GitHub
+  repository_dispatch:       # ejecución desde cron-job.org
+    types: [run-briefing]
 
 jobs:
   generar-briefing:
@@ -29,6 +31,8 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           DESTINATARIOS: ${{ secrets.DESTINATARIOS }}
+          MODO: ${{ secrets.MODO }}
+          EMAIL_ADMIN: ${{ secrets.EMAIL_ADMIN }}
         run: python3 briefing.py
 
       - name: Guardar memoria
