@@ -41,6 +41,8 @@ MEDIOS = [
     ("El Colombiano",    "https://www.elcolombiano.com/colombia/politica"),
     ("La República",     "https://www.larepublica.co/politica"),
     ("Dos Orillas",      "https://www.dosrillas.com"),
+    ("Razón Pública",    "https://razonpublica.com/categoria/politica-y-gobierno-temas/"),
+    ("Cuestión Pública", "https://cuestionpublica.com/categoria/politica/"),
 ]
 
 HEADERS = {
