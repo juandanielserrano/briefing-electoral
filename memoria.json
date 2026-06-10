@@ -1,39 +1,34 @@
 {
   "fecha": "miércoles 10 de junio de 2026",
-  "hora": "06:01",
-  "titular_del_dia": "De la Espriella desafía fallo judicial y mantiene su eslogan mientras Cepeda rechaza debate tripartito",
-  "editorial": "La campaña entra en su fase más errática. De la Espriella mantiene una ventaja de siete puntos pero enfrenta una secuencia de turbulencias judiciales que, paradójicamente, están fortaleciendo su narrativa de persecución. La orden de desmontar símbolos patrios y su eslogan, que él desafió públicamente en Cartagena, alimenta su relato antisistema. Cepeda, mientras tanto, comete un error táctico al rechazar el debate con las fórmulas vicepresidenciales: proyecta debilidad cuando debería presionar. Las renuncias en el Congreso con miras a regionales confirman que la clase política ya descuenta resultado. La dinámica favorece a De la Espriella, pero once días son suficientes para que una campaña se fracture desde dentro.",
+  "hora": "17:25",
+  "titular_del_dia": "Petro enfrenta solicitud de suspensión a once días de la segunda vuelta",
+  "editorial": "La campaña quedó clausurada por un acontecimiento externo que reorganiza toda la narrativa final. La congresista Gloria Arizabaleta presentó solicitud formal para suspender a Petro del cargo, argumentando participación indebida en política electoral. Aunque el trámite carece de viabilidad jurídica inmediata —requiere Comisión de Acusación y mayorías calificadas— su impacto político es inmediato: De la Espriella obtiene combustible adicional para su narrativa antisistema, mientras Cepeda hereda la contaminación de un presidente cuya toxicidad electoral ya era evidente. Ambos candidatos hablan de 'autoatentado' y 'cortina de humo', confirmando que nadie cree en la procedencia técnica pero todos entienden su potencial electoral. Con ventaja de siete puntos y once días restantes, De la Espriella ve cómo los acontecimientos externos terminan de construir su caso mejor de lo que su propia campaña podría hacer.",
   "noticias": [
     {
-      "titular": "Tribunal ordena a De la Espriella retirar publicidad con bandera y eslogan 'Firmes por la patria'",
-      "contexto": "Decisión judicial a pocos días de la segunda vuelta prohíbe uso de símbolos patrios en su campaña. De la Espriella respondió desafiante en mitin en Cartagena manteniendo el eslogan, y su equipo interpuso tutela contra el fallo.",
-      "fuente": "La FM / El Colombiano"
+      "titular": "Congresista Gloria Arizabaleta solicita suspensión de Petro por presunta participación electoral y remite decisión al Senado",
+      "contexto": "La representante del Valle firmó documento pidiendo suspensión del presidente a once días de la segunda vuelta. Luego reconoció que el texto se filtró porque 'se le fue en un correo'. El trámite requiere Comisión de Acusación y mayorías que no existen, pero genera ruido político masivo.",
+      "fuente": "El Colombiano / La FM"
     },
     {
-      "titular": "Cepeda rechaza debate tripartito con fórmulas vicepresidenciales: 'Es entre usted y yo'",
-      "contexto": "El candidato del Pacto Histórico se negó a participar en formato de debate que incluiría a los candidatos a vicepresidente, argumentando que la elección es presidencial.",
+      "titular": "De la Espriella califica solicitud de suspensión de Petro como 'autoatentado legislativo' y agradece nuevo apoyo de Trump",
+      "contexto": "El candidato desestimó la viabilidad del trámite, llamándolo 'estupidez', mientras aprovechó para reportar a Trump sobre las denuncias de compra de votos. Doble movimiento: minimiza drama institucional y refuerza vínculo internacional.",
+      "fuente": "La FM"
+    },
+    {
+      "titular": "Petro desde la ONU denuncia 'extorsión' y dice que solicitud de suspensión viola la ley",
+      "contexto": "El presidente respondió señalando que la Comisión de Acusación 'no es la que suspende' y confirmó que terminará su mandato. También se disculpó por polémica frase sobre Hitler pronunciada en ese foro.",
+      "fuente": "La FM"
+    },
+    {
+      "titular": "Movimiento de Santiago Botero respalda a Cepeda con condiciones",
+      "contexto": "Nueva adhesión para la campaña del Pacto Histórico, aunque condicionada, en medio del deterioro de posicionamiento en las últimas 48 horas.",
       "fuente": "La Silla Vacía"
     },
     {
-      "titular": "Ola de renuncias en el Congreso: cuatro senadores y presidente de la Cámara dejan sus cargos",
-      "contexto": "Movimiento coordinado con miras a elecciones regionales confirma que legisladores ya proyectan escenario post-presidencial y priorizan posicionamiento territorial.",
-      "fuente": "La FM"
-    },
-    {
-      "titular": "Campaña de Cepeda anuncia acciones legales contra De la Espriella por lista de supuestos compradores de votos",
-      "contexto": "Equipo de Cepeda contraataca judicialmente después de que De la Espriella publicara lista acusándolos de compra de votos, asegurando que no hay pruebas.",
-      "fuente": "La FM"
-    },
-    {
-      "titular": "Carlos Carrillo renuncia a la UNGRD en plena segunda vuelta tras críticas por nombramiento de Quintero",
-      "contexto": "La salida del director de la entidad se produce después de que analistas señalaran que el nombramiento de Quintero en equipo de Cepeda fue contraproducente para su campaña.",
-      "fuente": "El Colombiano"
-    },
-    {
-      "titular": "Claudia López se declara neutral: 'No le voy a endosar a nadie ningún voto'",
-      "contexto": "La exalcaldesa de Bogotá deja en libertad a sus electores, negándole a ambos candidatos un respaldo que podría ser decisivo en la capital.",
-      "fuente": "El Colombiano"
+      "titular": "La Silla Vacía analiza estrategia de Milei, Kast y Noboa como guion para populismo de derecha en segunda vuelta",
+      "contexto": "Medio especializado traza paralelos entre victorias de derecha en Argentina, Chile y Ecuador con la candidatura de De la Espriella, identificando patrones de narrativa y movilización electoral.",
+      "fuente": "La Silla Vacía"
     }
   ],
-  "para_estar_atento": "La respuesta judicial a la tutela de De la Espriella contra el fallo que prohíbe su eslogan definirá si la narrativa de persecución se consolida o se diluye. Hay que vigilar si Cepeda recalibra estrategia ante evidencia de que evitar debates proyecta debilidad."
+  "para_estar_atento": "El trámite de suspensión de Petro será formalmente descartado en horas, pero su efecto electoral ya se produjo. Hay que vigilar si Cepeda logra descontaminar su campaña del ruido presidencial o si los últimos once días quedan secuestrados por la disfuncionalidad institucional."
 }
