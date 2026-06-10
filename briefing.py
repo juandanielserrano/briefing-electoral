@@ -27,6 +27,7 @@ SCRIPT_DIR      = Path(__file__).parent
 OUTPUT_HTML     = SCRIPT_DIR / "briefing.html"
 LOG_FILE        = SCRIPT_DIR / "briefing.log"
 DESTINATARIOS_F = SCRIPT_DIR / "destinatarios.txt"
+CONFIG_F         = SCRIPT_DIR / "config.txt"
 MEMORIA_F       = SCRIPT_DIR / "memoria.json"
 
 EMAIL_REMITENTE = "juandanielserrano@gmail.com"
