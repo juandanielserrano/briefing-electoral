@@ -34,16 +34,22 @@ EMAIL_REMITENTE = "juandanielserrano@gmail.com"
 EMAIL_NOMBRE    = "Briefing Electoral"
 
 MEDIOS = [
+    # Centro-derecha
     ("El Tiempo",        "https://www.eltiempo.com/politica/elecciones-colombia-2026"),
+    ("El Colombiano",    "https://www.elcolombiano.com/colombia/politica"),
+    ("La FM",            "https://www.lafm.com.co/politica"),
+    ("Semana",           "https://www.semana.com/nacion/"),
+    # Centro
     ("El Espectador",    "https://www.elespectador.com/politica/elecciones-2026"),
     ("La Silla Vacía",   "https://www.lasillavacia.com"),
     ("Caracol Noticias", "https://noticias.caracoltv.com/colombia/politica"),
-    ("La FM",            "https://www.lafm.com.co/politica"),
-    ("El Colombiano",    "https://www.elcolombiano.com/colombia/politica"),
-    ("La República",     "https://www.larepublica.co/politica"),
-    ("Dos Orillas",      "https://www.dosrillas.com"),
-    ("Razón Pública",    "https://razonpublica.com/categoria/politica-y-gobierno-temas/"),
+    ("W Radio",          "https://www.wradio.com.co/noticias/"),
+    ("Blu Radio",        "https://www.bluradio.com/nacion"),
+    # Izquierda / críticos
+    ("Las2Orillas",      "https://www.las2orillas.co/"),
+    ("Verdad Abierta",   "https://verdadabierta.com/"),
     ("Cuestión Pública", "https://cuestionpublica.com/categoria/politica/"),
+    ("El Turbión",       "https://elturbion.com/"),
 ]
 
 HEADERS = {
@@ -109,14 +115,44 @@ def fetch_texto(url: str) -> str:
         req = urllib.request.Request(url, headers=HEADERS)
         with urllib.request.urlopen(req, timeout=15) as r:
             raw = r.read().decode("utf-8", errors="ignore")
+
+        # Extraer dominio base para construir URLs absolutas
+        from urllib.parse import urlparse, urljoin
+        base = urlparse(url)
+        base_url = f"{base.scheme}://{base.netloc}"
+
+        # Eliminar scripts y estilos
         raw = re.sub(r"<script[^>]*>.*?</script>", " ", raw, flags=re.DOTALL | re.IGNORECASE)
         raw = re.sub(r"<style[^>]*>.*?</style>",   " ", raw, flags=re.DOTALL | re.IGNORECASE)
         raw = re.sub(r"<!--.*?-->", " ", raw, flags=re.DOTALL)
+
+        # Extraer enlaces con texto antes de eliminar tags
+        enlaces = []
+        for m in re.finditer(r'<a[^>]+href=["\']([^"\']+)["\'][^>]*>(.*?)</a>', raw, re.IGNORECASE | re.DOTALL):
+            href, texto = m.group(1), m.group(2)
+            texto = re.sub(r"<[^>]+>", " ", texto)
+            texto = html.unescape(texto).strip()
+            if len(texto) > 30 and not href.startswith(("#", "javascript", "mailto")):
+                if href.startswith("/"):
+                    href = base_url + href
+                elif not href.startswith("http"):
+                    href = urljoin(url, href)
+                if base.netloc in href:  # solo links del mismo dominio
+                    enlaces.append(f"{texto} | {href}")
+
+        # Texto plano
         raw = re.sub(r"</?(p|br|h[1-6]|li|div|article|section)[^>]*>", "\n", raw, flags=re.IGNORECASE)
         raw = re.sub(r"<[^>]+>", " ", raw)
         raw = html.unescape(raw)
         lines = [l.strip() for l in raw.splitlines() if len(l.strip()) > 40]
-        return "\n".join(lines)[:TEXTO_POR_MEDIO]
+        texto_plano = "\n".join(lines)[:TEXTO_POR_MEDIO // 2]
+
+        # Combinar: texto plano + enlaces extraídos
+        enlaces_unicos = list(dict.fromkeys(enlaces))[:20]  # máximo 20 enlaces únicos
+        enlaces_str = "\n".join(enlaces_unicos)
+
+        return f"{texto_plano}\n\nENLACES DISPONIBLES:\n{enlaces_str}"
+
     except Exception as e:
         return f"[Error al cargar {url}: {e}]"
 
@@ -265,6 +301,7 @@ Reglas:
 - En "noticias" incluye solo hechos nuevos o con desarrollo relevante desde el último briefing.
 - Máximo 6 noticias. Sin repetir lo que ya se cubrió antes.
 - No inventes hechos. Sé directo y preciso.
+- Para el campo "url" de cada noticia, usa el enlace exacto que aparece en la sección "ENLACES DISPONIBLES" del contenido scrapeado. Si no encuentras un enlace que corresponda a esa noticia, deja el campo vacío.
 """
 
     payload = json.dumps({
@@ -362,7 +399,7 @@ def generar_html(briefing: dict) -> str:
             r2  = html.escape(it.get("contexto","") or it.get("resumen",""))
             fu  = html.escape(it.get("fuente",""))
             url = it.get("url","")
-            ver = f'<a class="ver-nota" href="{html.escape(url)}" target="_blank">Ver nota &#8594;</a>' if url else ""
+            ver = f'<a class="ver-nota" href="{html.escape(url)}" target="_blank">{html.escape(url[:60])}{"..." if len(url)>60 else ""} &#8594;</a>' if url else ""
             badge = f'<span class="badge">{fu}</span>' if fu else ""
             cards += f'''<div class="card">
               <div class="card-head"><span class="card-titular">{t2}</span>{badge}</div>
@@ -576,7 +613,7 @@ def generar_html_email(briefing: dict) -> str:
             r2  = html.escape(it.get("contexto","") or it.get("resumen",""))
             fu  = html.escape(it.get("fuente",""))
             url = it.get("url","")
-            ver = f'<a href="{html.escape(url)}" style="font-size:11px;color:#CC0000;text-decoration:none;font-weight:bold;font-family:Helvetica,Arial,sans-serif">Ver nota &#8594;</a>' if url else ""
+            ver = f'<a href="{html.escape(url)}" style="font-size:10px;color:#888;text-decoration:none;font-family:Helvetica,Arial,sans-serif;word-break:break-all">{html.escape(url[:70])}{"..." if len(url)>70 else ""}</a>' if url else ""
             badge = f'<span style="font-size:9px;padding:2px 6px;border:1px solid #d4cfc6;color:#888;font-family:Helvetica,Arial,sans-serif;text-transform:uppercase;letter-spacing:.03em">{fu}</span>' if fu else ""
             out += f'''<tr><td style="padding-bottom:12px;border-top:1px solid #d4cfc6;padding-top:12px">
               <table width="100%" cellpadding="0" cellspacing="0"><tr>
@@ -748,7 +785,7 @@ def enviar_email(html_content: str, titular: str, destinatarios: list, gmail_pas
     msg["Subject"] = asunto
     msg["From"]    = f"{EMAIL_NOMBRE} <{EMAIL_REMITENTE}>"
     msg["To"]      = EMAIL_REMITENTE
-    msg["Bcc"]     = ", ".join(destinatarios)
+    # No agregar Bcc al header — se pasa directamente a sendmail para que sea invisible
     msg.attach(MIMEText(html_content, "html", "utf-8"))
 
     try:
