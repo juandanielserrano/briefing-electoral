@@ -1,3 +1,39 @@
 {
-
+  "fecha": "martes 9 de junio de 2026",
+  "hora": "19:39",
+  "titular_del_dia": "Cepeda rechaza debate con De la Espriella mientras los tribunales cercan al candidato de derecha",
+  "editorial": "La campaña entra en su fase más tensa con Cepeda refugiado en una estrategia de distancia: rechaza debatir directamente con De la Espriella argumentando que es \"entre usted y yo\", sin las fórmulas vicepresidenciales. Es una táctica de quien busca no legitimar al adversario ni exponer las fracturas internas del progresismo. Mientras tanto, De la Espriella enfrenta dos órdenes judiciales que erosionan su narrativa patriótica: prohibición de usar símbolos patrios y el lema \"Firmes por la patria\". La judicialización de la campaña favorece a Cepeda, pero su negativa al debate puede leerse como debilidad. En paralelo, las renuncias en el Congreso y la salida de Carlos Carrillo de la UNGRD -criticando el nombramiento de Quintero como \"tiro en el pie\"- muestran fisuras en el oficialismo que De la Espriella aún no capitaliza eficientemente.",
+  "noticias": [
+    {
+      "titular": "Cepeda rechaza debatir con De la Espriella sin las fórmulas vicepresidenciales",
+      "contexto": "El candidato del Pacto Histórico condiciona el debate a que sea solo entre los presidenciales, argumentando \"es entre usted y yo\". Una decisión que evita exponer a su fórmula pero que puede interpretarse como evasión.",
+      "fuente": "La Silla Vacía"
+    },
+    {
+      "titular": "Tribunal ordena a De la Espriella desmontar símbolos patrios de su campaña",
+      "contexto": "Segunda orden judicial en días contra el candidato de derecha: primero fue la camiseta de la Selección, ahora la bandera de Colombia y el lema \"Firmes por la patria\". La judicialización de su narrativa patriótica es un golpe simbólico.",
+      "fuente": "La FM"
+    },
+    {
+      "titular": "Carlos Carrillo renuncia a la UNGRD y critica nombramiento de Quintero como \"tiro en el pie\" para Cepeda",
+      "contexto": "El saliente director de Gestión del Riesgo se va criticando públicamente una decisión de campaña del oficialismo. Evidencia tensiones internas y descontento con la estrategia de Cepeda en momento crítico.",
+      "fuente": "El Colombiano"
+    },
+    {
+      "titular": "Campaña de Cepeda anuncia acciones legales contra De la Espriella por lista de supuestos compradores de votos",
+      "contexto": "El equipo de Cepeda judicializa denuncias sobre compra de votos, buscando desgastar al adversario. Se suma a denuncias en Puerto Berrío y Santa Marta que intentan vincular prácticas clientelares con la campaña de derecha.",
+      "fuente": "La FM"
+    },
+    {
+      "titular": "Influencers fueron la estrategia para conquistar el voto de última hora en primera vuelta",
+      "contexto": "Análisis post-electoral revela que Abelardo usó a Westcol, Paloma a Mr. Stiven y Cepeda a Coronell para mover votos en redes. Confirma que la batalla por indecisos se dio en plataformas digitales, patrón que se repetirá en segunda vuelta.",
+      "fuente": "La Silla Vacía"
+    },
+    {
+      "titular": "Ola de renuncias en el Congreso: cuatro senadores y el presidente de la Cámara dejan sus cargos",
+      "contexto": "Movimiento significativo hacia las regionales 2027 que vacía al Congreso en plena campaña presidencial. Resta capacidad de maniobra legislativa al oficialismo pero también dispersa el foco político del país.",
+      "fuente": "La FM"
+    }
+  ],
+  "para_estar_atento": "Si Cepeda mantiene la negativa al debate, De la Espriella intentará convertirlo en tema central acusándolo de cobardía. Y si los tribunales siguen fallando contra el candidato de derecha, su equipo puede radicalizar el discurso anti-establishment judicial, con riesgos de polarización mayor."
 }
