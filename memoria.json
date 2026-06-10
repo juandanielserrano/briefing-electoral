@@ -1,1 +1,39 @@
-{}
+{
+  "fecha": "miércoles 10 de junio de 2026",
+  "hora": "06:01",
+  "titular_del_dia": "De la Espriella desafía fallo judicial y mantiene su eslogan mientras Cepeda rechaza debate tripartito",
+  "editorial": "La campaña entra en su fase más errática. De la Espriella mantiene una ventaja de siete puntos pero enfrenta una secuencia de turbulencias judiciales que, paradójicamente, están fortaleciendo su narrativa de persecución. La orden de desmontar símbolos patrios y su eslogan, que él desafió públicamente en Cartagena, alimenta su relato antisistema. Cepeda, mientras tanto, comete un error táctico al rechazar el debate con las fórmulas vicepresidenciales: proyecta debilidad cuando debería presionar. Las renuncias en el Congreso con miras a regionales confirman que la clase política ya descuenta resultado. La dinámica favorece a De la Espriella, pero once días son suficientes para que una campaña se fracture desde dentro.",
+  "noticias": [
+    {
+      "titular": "Tribunal ordena a De la Espriella retirar publicidad con bandera y eslogan 'Firmes por la patria'",
+      "contexto": "Decisión judicial a pocos días de la segunda vuelta prohíbe uso de símbolos patrios en su campaña. De la Espriella respondió desafiante en mitin en Cartagena manteniendo el eslogan, y su equipo interpuso tutela contra el fallo.",
+      "fuente": "La FM / El Colombiano"
+    },
+    {
+      "titular": "Cepeda rechaza debate tripartito con fórmulas vicepresidenciales: 'Es entre usted y yo'",
+      "contexto": "El candidato del Pacto Histórico se negó a participar en formato de debate que incluiría a los candidatos a vicepresidente, argumentando que la elección es presidencial.",
+      "fuente": "La Silla Vacía"
+    },
+    {
+      "titular": "Ola de renuncias en el Congreso: cuatro senadores y presidente de la Cámara dejan sus cargos",
+      "contexto": "Movimiento coordinado con miras a elecciones regionales confirma que legisladores ya proyectan escenario post-presidencial y priorizan posicionamiento territorial.",
+      "fuente": "La FM"
+    },
+    {
+      "titular": "Campaña de Cepeda anuncia acciones legales contra De la Espriella por lista de supuestos compradores de votos",
+      "contexto": "Equipo de Cepeda contraataca judicialmente después de que De la Espriella publicara lista acusándolos de compra de votos, asegurando que no hay pruebas.",
+      "fuente": "La FM"
+    },
+    {
+      "titular": "Carlos Carrillo renuncia a la UNGRD en plena segunda vuelta tras críticas por nombramiento de Quintero",
+      "contexto": "La salida del director de la entidad se produce después de que analistas señalaran que el nombramiento de Quintero en equipo de Cepeda fue contraproducente para su campaña.",
+      "fuente": "El Colombiano"
+    },
+    {
+      "titular": "Claudia López se declara neutral: 'No le voy a endosar a nadie ningún voto'",
+      "contexto": "La exalcaldesa de Bogotá deja en libertad a sus electores, negándole a ambos candidatos un respaldo que podría ser decisivo en la capital.",
+      "fuente": "El Colombiano"
+    }
+  ],
+  "para_estar_atento": "La respuesta judicial a la tutela de De la Espriella contra el fallo que prohíbe su eslogan definirá si la narrativa de persecución se consolida o se diluye. Hay que vigilar si Cepeda recalibra estrategia ante evidencia de que evitar debates proyecta debilidad."
+}
