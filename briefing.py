@@ -124,31 +124,63 @@ def recopilar_medios() -> str:
 # ── Llamada a la API ───────────────────────────────────────────────────────────
 
 def cargar_memoria() -> str:
-    """Lee el resumen del último briefing guardado para evitar repetición."""
+    """Lee el briefing anterior y lo formatea como contexto para el modelo."""
     if not MEMORIA_F.exists():
         return ""
     try:
         data = json.loads(MEMORIA_F.read_text(encoding="utf-8"))
-        return data.get("resumen", "")
+        if not data or data == {}:
+            return ""
+        fecha = data.get("fecha", "")
+        hora  = data.get("hora", "")
+        titular = data.get("titular_del_dia", "")
+        editorial = data.get("editorial", "")
+        atento = data.get("para_estar_atento", "")
+        noticias = data.get("noticias", [])
+
+        lines = []
+        if fecha and hora:
+            lines.append(f"Último briefing: {fecha} a las {hora}")
+        if titular:
+            lines.append(f"Titular del día anterior: {titular}")
+        if editorial:
+            lines.append(f"Análisis anterior: {editorial}")
+        if noticias:
+            lines.append("Noticias ya cubiertas (no repetir salvo desarrollo nuevo):")
+            for n in noticias:
+                t = n.get("titular", "")
+                c = n.get("contexto", "")
+                f = n.get("fuente", "")
+                entrada = f"  - [{f}] {t}"
+                if c:
+                    entrada += f": {c}"
+                lines.append(entrada)
+        if atento:
+            lines.append(f"Pendiente de seguimiento: {atento}")
+        return "\n".join(lines)
     except Exception:
         return ""
 
 def guardar_memoria(briefing: dict):
-    """Guarda un resumen compacto del briefing actual para la próxima ejecución."""
-    titulares = []
-    for seccion in briefing.get("secciones", {}).values():
-        for it in seccion:
-            t = it.get("titular", "").strip()
-            if t:
-                titulares.append(t)
-    resumen = {
+    """Guarda el briefing completo para contexto en la próxima ejecución."""
+    noticias = briefing.get("noticias", [])
+    noticias_memoria = [
+        {
+            "titular": it.get("titular", "").strip(),
+            "contexto": it.get("contexto", "").strip(),
+            "fuente": it.get("fuente", "").strip()
+        }
+        for it in noticias if it.get("titular", "").strip()
+    ]
+    memoria = {
         "fecha": briefing.get("fecha", ""),
         "hora": briefing.get("hora", ""),
         "titular_del_dia": briefing.get("titular_del_dia", ""),
-        "resumen": briefing.get("editorial", ""),
-        "titulares": titulares[:10]
+        "editorial": briefing.get("editorial", ""),
+        "noticias": noticias_memoria,
+        "para_estar_atento": briefing.get("para_estar_atento", "")
     }
-    MEMORIA_F.write_text(json.dumps(resumen, ensure_ascii=False, indent=2), encoding="utf-8")
+    MEMORIA_F.write_text(json.dumps(memoria, ensure_ascii=False, indent=2), encoding="utf-8")
 
 def llamar_api(contexto: str, api_key: str) -> dict:
     ahora = datetime.datetime.now(tz=COLOMBIA_TZ)
@@ -162,10 +194,14 @@ def llamar_api(contexto: str, api_key: str) -> dict:
     bloque_memoria = ""
     if memoria:
         bloque_memoria = f"""
-CONTEXTO DEL BRIEFING ANTERIOR:
+BRIEFING ANTERIOR (para contexto y continuidad):
 {memoria}
 
-Con base en lo anterior, enfócate en lo que ha CAMBIADO o es NUEVO desde ese briefing. No repitas hechos ya cubiertos salvo que hayan tenido un desarrollo relevante.
+Instrucciones de continuidad:
+- NO repitas noticias ya cubiertas a menos que hayan tenido un desarrollo nuevo y relevante.
+- Si una noticia anterior evolucionó, cúbrela indicando qué cambió específicamente.
+- El editorial debe reflejar la evolución de la campaña desde el último briefing, no repetir el análisis anterior.
+- En "para_estar_atento" da seguimiento a los temas pendientes del briefing anterior si aplica.
 """
 
     prompt = f"""Eres un analista político colombiano senior con el estilo editorial del Financial Times: directo, analítico, sin adjetivos innecesarios, con visión de hacia dónde van los hechos. Hoy es {fecha_str}, {hora_str} (hora Colombia).
