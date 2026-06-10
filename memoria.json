@@ -1,34 +1,34 @@
 {
-  "fecha": "martes 9 de junio de 2026",
-  "hora": "20:23",
-  "titular_del_dia": "Exministros y académicos proponen acuerdo de despolarización mientras Claudia López libera su voto",
-  "editorial": "La campaña entra en una fase de reconfiguración con señales contradictorias. Mientras un grupo de exministros y académicos propone un acuerdo para reducir la polarización —gesto que beneficia a Cepeda al moderar el clima político—, Claudia López rehúsa endosar votos a ningún candidato, dejando huérfanos a electores centristas que podrían inclinar la balanza. La negativa al debate de Cepeda se mantiene sin consecuencias visibles, y De la Espriella no logra capitalizar ni las restricciones judiciales ni las fisuras del oficialismo. La Universidad del Valle entra en paro estudiantil para hacer campaña por Cepeda, evidenciando la movilización territorial que el progresismo sí está logrando. Sin movimientos dramáticos en encuestas ni en estrategia, la carrera se define ahora en la calle y en la capacidad de sacar votantes el 21 de junio.",
+  "fecha": "miércoles 10 de junio de 2026",
+  "hora": "17:25",
+  "titular_del_dia": "Petro enfrenta solicitud de suspensión a once días de la segunda vuelta",
+  "editorial": "La campaña quedó clausurada por un acontecimiento externo que reorganiza toda la narrativa final. La congresista Gloria Arizabaleta presentó solicitud formal para suspender a Petro del cargo, argumentando participación indebida en política electoral. Aunque el trámite carece de viabilidad jurídica inmediata —requiere Comisión de Acusación y mayorías calificadas— su impacto político es inmediato: De la Espriella obtiene combustible adicional para su narrativa antisistema, mientras Cepeda hereda la contaminación de un presidente cuya toxicidad electoral ya era evidente. Ambos candidatos hablan de 'autoatentado' y 'cortina de humo', confirmando que nadie cree en la procedencia técnica pero todos entienden su potencial electoral. Con ventaja de siete puntos y once días restantes, De la Espriella ve cómo los acontecimientos externos terminan de construir su caso mejor de lo que su propia campaña podría hacer.",
   "noticias": [
     {
-      "titular": "Exministros y académicos proponen acuerdo para evitar polarización",
-      "contexto": "Grupo de figuras técnicas propone un acuerdo de despolarización en plena segunda vuelta. Iniciativa que modera el clima pero que políticamente beneficia más a Cepeda al restar urgencia al voto anti-petrismo.",
+      "titular": "Congresista Gloria Arizabaleta solicita suspensión de Petro por presunta participación electoral y remite decisión al Senado",
+      "contexto": "La representante del Valle firmó documento pidiendo suspensión del presidente a once días de la segunda vuelta. Luego reconoció que el texto se filtró porque 'se le fue en un correo'. El trámite requiere Comisión de Acusación y mayorías que no existen, pero genera ruido político masivo.",
+      "fuente": "El Colombiano / La FM"
+    },
+    {
+      "titular": "De la Espriella califica solicitud de suspensión de Petro como 'autoatentado legislativo' y agradece nuevo apoyo de Trump",
+      "contexto": "El candidato desestimó la viabilidad del trámite, llamándolo 'estupidez', mientras aprovechó para reportar a Trump sobre las denuncias de compra de votos. Doble movimiento: minimiza drama institucional y refuerza vínculo internacional.",
+      "fuente": "La FM"
+    },
+    {
+      "titular": "Petro desde la ONU denuncia 'extorsión' y dice que solicitud de suspensión viola la ley",
+      "contexto": "El presidente respondió señalando que la Comisión de Acusación 'no es la que suspende' y confirmó que terminará su mandato. También se disculpó por polémica frase sobre Hitler pronunciada en ese foro.",
+      "fuente": "La FM"
+    },
+    {
+      "titular": "Movimiento de Santiago Botero respalda a Cepeda con condiciones",
+      "contexto": "Nueva adhesión para la campaña del Pacto Histórico, aunque condicionada, en medio del deterioro de posicionamiento en las últimas 48 horas.",
       "fuente": "La Silla Vacía"
     },
     {
-      "titular": "Claudia López libera su voto y no endosa a ningún candidato",
-      "contexto": "La exalcaldesa de Bogotá declara que no le va a endosar a nadie ningún voto, dejando en libertad a sus electores. Decisión que deja huérfano al voto centrista en un momento decisivo.",
-      "fuente": "El Colombiano"
-    },
-    {
-      "titular": "Universidad del Valle entra en paro para hacer campaña por Cepeda",
-      "contexto": "Asamblea estudiantil de Univalle decide entrar en paro específicamente para hacer campaña por el candidato del Pacto Histórico. Evidencia capacidad de movilización territorial del progresismo.",
-      "fuente": "El Colombiano"
-    },
-    {
-      "titular": "JEP expulsa al coronel (r) Pastor Ruiz por no aportar a la verdad",
-      "contexto": "La Jurisdicción Especial para la Paz toma una decisión que reactiva el debate sobre justicia transicional en plena campaña, tema sensible para ambos candidatos con posiciones opuestas.",
+      "titular": "La Silla Vacía analiza estrategia de Milei, Kast y Noboa como guion para populismo de derecha en segunda vuelta",
+      "contexto": "Medio especializado traza paralelos entre victorias de derecha en Argentina, Chile y Ecuador con la candidatura de De la Espriella, identificando patrones de narrativa y movilización electoral.",
       "fuente": "La Silla Vacía"
-    },
-    {
-      "titular": "Procuraduría halló 290 procesos contra Petro sin avances en Comisión de Acusación",
-      "contexto": "Revelación sobre parálisis en investigaciones contra el presidente puede ser usada por De la Espriella para argumentar impunidad del oficialismo, aunque llega tarde en la campaña.",
-      "fuente": "El Colombiano"
     }
   ],
-  "para_estar_atento": "La propuesta de acuerdo de despolarización puede generar adhesiones públicas que muevan segmentos centristas. Y la posición de Claudia López podría evolucionar si recibe presión de sectores que buscan frenar a Cepeda."
+  "para_estar_atento": "El trámite de suspensión de Petro será formalmente descartado en horas, pero su efecto electoral ya se produjo. Hay que vigilar si Cepeda logra descontaminar su campaña del ruido presidencial o si los últimos once días quedan secuestrados por la disfuncionalidad institucional."
 }

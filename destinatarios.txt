@@ -1,5 +1,4 @@
-# Lista de destinatarios — los correos se gestionan como secret en GitHub Actions
-# Para uso local, agrega correos aquí
+# Lista de destinatarios - uno por línea
 
 juandanielserrano@gmail.com
 natalia.vargas.aragon@gmail.com
@@ -13,3 +12,4 @@ marianaserranosanin@gmail.com
 martinserranosanin@gmail.com
 catomocol@yahoo.com
 lizarralde51@gmail.com
+jorpal@yahoo.com
