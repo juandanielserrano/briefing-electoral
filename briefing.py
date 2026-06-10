@@ -43,7 +43,6 @@ MEDIOS = [
     ("Dos Orillas",      "https://www.dosrillas.com"),
     ("Razón Pública",    "https://razonpublica.com/categoria/politica-y-gobierno-temas/"),
     ("Cuestión Pública", "https://cuestionpublica.com/categoria/politica/"),
-    ("Wikipedia Encuestas", "https://es.wikipedia.org/wiki/Anexo:Sondeos_de_intenci%C3%B3n_de_voto_para_las_elecciones_presidenciales_de_Colombia_de_2026"),
 ]
 
 HEADERS = {
@@ -206,6 +205,13 @@ Instrucciones de continuidad:
 """
 
     prompt = f"""Eres un analista político colombiano senior con el estilo editorial del Financial Times: directo, analítico, sin adjetivos innecesarios, con visión de hacia dónde van los hechos. Hoy es {fecha_str}, {hora_str} (hora Colombia).
+
+ENCUESTAS DE SEGUNDA VUELTA CONOCIDAS (de más reciente a más antigua):
+- CB Global Data (campo 1-4 jun): De la Espriella 49,6% vs Cepeda 43,3% (escenario voto directo). Firma reconocida, metodología presencial y online.
+- CB Global Data (campo 1-4 jun): De la Espriella 46,7% vs Cepeda 41,9% (intención definitiva).
+- AtlasIntel para Semana (campo 1-2 jun): De la Espriella 50,3% vs Cepeda 42,6%. Firma más precisa en primera vuelta, metodología online de alta frecuencia.
+
+Si en el contenido de los medios encuentras una encuesta más reciente, úsala. Si no, usa la más reciente de esta lista (CB Global Data del 1-4 jun).
 {bloque_memoria}
 A continuación tienes el contenido extraído de los principales medios colombianos:
 
@@ -376,7 +382,7 @@ def generar_html(briefing: dict) -> str:
         enc_cep = "42,6"
         enc_diff = "7,7"
 
-        bloque_editorial = (
+    bloque_editorial = (
         "<div class=\"editorial\"><div class=\"editorial-lbl\">An&aacute;lisis</div>"
         "<p class=\"editorial-txt\">" + editorial + "</p></div>"
     ) if editorial else ""
@@ -591,7 +597,7 @@ def generar_html_email(briefing: dict) -> str:
         enc_cep = "42,6"
         enc_diff = "7,7"
 
-        td_style_nota = "padding-left:12px;border-left:1px solid #d4cfc6"
+    td_style_nota = "padding-left:12px;border-left:1px solid #d4cfc6"
     span_style_nota = "font-size:11px;color:#777;font-style:italic;font-family:Helvetica,Arial,sans-serif"
     bloque_nota_e = (
         "<td style=\"" + td_style_nota + "\"><span style=\"" + span_style_nota + "\">"
