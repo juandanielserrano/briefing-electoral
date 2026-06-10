@@ -68,30 +68,37 @@ def log(msg):
 
 # ── Destinatarios ──────────────────────────────────────────────────────────────
 
+def leer_config() -> dict:
+    """Lee config.txt y devuelve un dict con MODO y EMAIL_ADMIN."""
+    config = {"MODO": "produccion", "EMAIL_ADMIN": "juandanielserrano@gmail.com"}
+    if not CONFIG_F.exists():
+        return config
+    for linea in CONFIG_F.read_text(encoding="utf-8").splitlines():
+        linea = linea.strip()
+        if linea and not linea.startswith("#") and "=" in linea:
+            clave, valor = linea.split("=", 1)
+            config[clave.strip()] = valor.strip()
+    return config
+
 def leer_destinatarios() -> list:
-    """Lee destinatarios según el modo: pruebas (solo admin) o produccion (lista completa)."""
-    modo = os.environ.get("MODO", "produccion").strip().lower()
-    email_admin = os.environ.get("EMAIL_ADMIN", "juandanielserrano@gmail.com").strip()
+    """Lee destinatarios según el modo definido en config.txt."""
+    config = leer_config()
+    modo = os.environ.get("MODO", config.get("MODO", "produccion")).strip().lower()
+    email_admin = os.environ.get("EMAIL_ADMIN", config.get("EMAIL_ADMIN", "juandanielserrano@gmail.com")).strip()
 
     if modo == "pruebas":
         log(f"MODO PRUEBAS — enviando solo a {email_admin}")
         return [email_admin]
 
-    # Modo producción: leer desde variable de entorno o archivo
-    env_dest = os.environ.get("DESTINATARIOS", "").strip()
-    if env_dest:
-        correos = [c.strip() for c in env_dest.split(",") if c.strip()]
-        log(f"MODO PRODUCCIÓN — {len(correos)} destinatario(s)")
-        return correos
     if not DESTINATARIOS_F.exists():
-        log(f"AVISO: No se encontró {DESTINATARIOS_F} ni variable DESTINATARIOS.")
+        log(f"AVISO: No se encontró {DESTINATARIOS_F}. Enviando solo a admin.")
         return [email_admin]
     correos = []
     for linea in DESTINATARIOS_F.read_text(encoding="utf-8").splitlines():
         linea = linea.strip()
         if linea and not linea.startswith("#"):
             correos.append(linea)
-    log(f"MODO PRODUCCIÓN — {len(correos)} destinatario(s) desde archivo")
+    log(f"MODO PRODUCCIÓN — {len(correos)} destinatario(s)")
     return correos
 
 # ── Scraping ───────────────────────────────────────────────────────────────────
@@ -739,7 +746,8 @@ def enviar_email(html_content: str, titular: str, destinatarios: list, gmail_pas
     msg = MIMEMultipart("alternative")
     msg["Subject"] = asunto
     msg["From"]    = f"{EMAIL_NOMBRE} <{EMAIL_REMITENTE}>"
-    msg["To"]      = ", ".join(destinatarios)
+    msg["To"]      = EMAIL_REMITENTE
+    msg["Bcc"]     = ", ".join(destinatarios)
     msg.attach(MIMEText(html_content, "html", "utf-8"))
 
     try:
@@ -771,7 +779,9 @@ def main():
         briefing     = llamar_api(contexto, api_key)
         titular      = briefing.get("titular_del_dia", "")
         log(f"Briefing generado: {titular[:60]}")
-        if os.environ.get("MODO", "produccion").strip().lower() != "pruebas":
+        config = leer_config()
+        modo_actual = os.environ.get("MODO", config.get("MODO", "produccion")).strip().lower()
+        if modo_actual != "pruebas":
             guardar_memoria(briefing)
         else:
             log("MODO PRUEBAS — memoria no actualizada")
