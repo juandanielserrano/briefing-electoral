@@ -27,9 +27,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-          DESTINATARIOS: ${{ secrets.DESTINATARIOS }}
-          MODO: ${{ secrets.MODO }}
-          EMAIL_ADMIN: ${{ secrets.EMAIL_ADMIN }}
+
         run: python3 briefing.py
 
       - name: Guardar memoria
