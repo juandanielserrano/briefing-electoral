@@ -43,6 +43,7 @@ MEDIOS = [
     ("Dos Orillas",      "https://www.dosrillas.com"),
     ("Razón Pública",    "https://razonpublica.com/categoria/politica-y-gobierno-temas/"),
     ("Cuestión Pública", "https://cuestionpublica.com/categoria/politica/"),
+    ("Wikipedia Encuestas", "https://es.wikipedia.org/wiki/Anexo:Sondeos_de_intenci%C3%B3n_de_voto_para_las_elecciones_presidenciales_de_Colombia_de_2026"),
 ]
 
 HEADERS = {
@@ -221,6 +222,13 @@ Responde ÚNICAMENTE con un objeto JSON válido. Sin texto adicional, sin backti
   "hora": "{hora_str}",
   "titular_del_dia": "Una frase corta que capture el tema dominante del momento",
   "editorial": "1-2 párrafos de síntesis analítica. Qué está pasando realmente en la campaña y hacia dónde va. Voz de analista senior, no de periodista. Sin bullets. Prosa fluida. Máximo 120 palabras.",
+  "encuesta": {{
+    "firma": "Nombre de la firma encuestadora más reciente disponible",
+    "fecha": "Fecha del trabajo de campo (ej: 5-7 jun)",
+    "espriella": "Porcentaje como número sin símbolo, ej: 50.3",
+    "cepeda": "Porcentaje como número sin símbolo, ej: 42.6",
+    "nota": "Una línea sobre la calidad o metodología de esta firma (ej: acertó en primera vuelta, metodología online, margen de error alto)"
+  }},
   "termometro": {{
     "espriella": "subiendo|estable|bajando",
     "cepeda": "subiendo|estable|bajando",
@@ -239,6 +247,7 @@ Responde ÚNICAMENTE con un objeto JSON válido. Sin texto adicional, sin backti
 
 Reglas:
 - El campo "editorial" es obligatorio y debe ser prosa analítica, no un resumen de titulares.
+- El campo "encuesta" debe reflejar la encuesta más reciente disponible en el contenido scrapeado de Wikipedia y los medios. Prioriza AtlasIntel por ser la firma con mayor precisión demostrada en primera vuelta. Si hay una encuesta más reciente de otra firma, úsala e indica el nombre. Incluye la fecha exacta del trabajo de campo.
 - En "noticias" incluye solo hechos nuevos o con desarrollo relevante desde el último briefing.
 - Máximo 6 noticias. Sin repetir lo que ya se cubrió antes.
 - No inventes hechos. Sé directo y preciso.
@@ -352,7 +361,22 @@ def generar_html(briefing: dict) -> str:
 
     secciones_html = render_noticias(noticias)
 
-    bloque_editorial = (
+    enc = briefing.get("encuesta", {})
+    enc_firma = html.escape(enc.get("firma", "AtlasIntel"))
+    enc_fecha = html.escape(enc.get("fecha", "2 jun"))
+    enc_nota  = html.escape(enc.get("nota", ""))
+    try:
+        esp_v = float(str(enc.get("espriella", "50.3")).replace(",","."))
+        cep_v = float(str(enc.get("cepeda", "42.6")).replace(",","."))
+        enc_esp = str(esp_v).replace(".",",")
+        enc_cep = str(cep_v).replace(".",",")
+        enc_diff = str(round(esp_v - cep_v, 1)).replace(".",",")
+    except Exception:
+        enc_esp = "50,3"
+        enc_cep = "42,6"
+        enc_diff = "7,7"
+
+        bloque_editorial = (
         "<div class=\"editorial\"><div class=\"editorial-lbl\">An&aacute;lisis</div>"
         "<p class=\"editorial-txt\">" + editorial + "</p></div>"
     ) if editorial else ""
@@ -391,6 +415,7 @@ body{{font-family:Georgia,'Times New Roman',serif;background:#F4F1EC;color:#1a12
 .score-lbl{{font-size:9px;text-transform:uppercase;letter-spacing:.08em;color:#888;font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',sans-serif;font-weight:600}}
 .score-val{{font-size:22px;font-weight:bold;line-height:1.2;margin-top:2px}}
 .score-sub{{font-size:10px;color:#888;font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',sans-serif;margin-top:1px}}
+.score-nota{{font-size:9px;color:#aaa;font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',sans-serif;margin-top:2px;font-style:italic}}
 
 /* Titular */
 .titular-wrapper{{border-top:3px solid #1a1208;padding:14px 0 16px}}
@@ -455,9 +480,10 @@ body{{font-family:Georgia,'Times New Roman',serif;background:#F4F1EC;color:#1a12
         <div class="score-sub">primera vuelta</div>
       </div>
       <div class="score-item">
-        <div class="score-lbl">AtlasIntel (2 jun)</div>
-        <div class="score-val" style="font-size:16px">50,3&thinsp;&mdash;&thinsp;42,6</div>
-        <div class="score-sub">De la E. +7,7 pts</div>
+        <div class="score-lbl">{enc_firma} ({enc_fecha})</div>
+        <div class="score-val" style="font-size:16px">{enc_esp}&thinsp;&mdash;&thinsp;{enc_cep}</div>
+        <div class="score-sub">De la E. +{enc_diff} pts</div>
+        {"<div class='score-nota'>" + enc_nota + "</div>" if enc_nota else ""}
       </div>
     </div>
 
@@ -550,7 +576,22 @@ def generar_html_email(briefing: dict) -> str:
 
     secciones = noticias_email(noticias_e)
 
-    td_style_nota = "padding-left:12px;border-left:1px solid #d4cfc6"
+    enc = briefing.get("encuesta", {})
+    enc_firma = html.escape(enc.get("firma", "AtlasIntel"))
+    enc_fecha = html.escape(enc.get("fecha", "2 jun"))
+    enc_nota  = html.escape(enc.get("nota", ""))
+    try:
+        esp_v = float(str(enc.get("espriella", "50.3")).replace(",","."))
+        cep_v = float(str(enc.get("cepeda", "42.6")).replace(",","."))
+        enc_esp = str(esp_v).replace(".",",")
+        enc_cep = str(cep_v).replace(".",",")
+        enc_diff = str(round(esp_v - cep_v, 1)).replace(".",",")
+    except Exception:
+        enc_esp = "50,3"
+        enc_cep = "42,6"
+        enc_diff = "7,7"
+
+        td_style_nota = "padding-left:12px;border-left:1px solid #d4cfc6"
     span_style_nota = "font-size:11px;color:#777;font-style:italic;font-family:Helvetica,Arial,sans-serif"
     bloque_nota_e = (
         "<td style=\"" + td_style_nota + "\"><span style=\"" + span_style_nota + "\">"
@@ -611,9 +652,10 @@ def generar_html_email(briefing: dict) -> str:
           <p style="margin:0;font-size:10px;color:#888;font-family:Helvetica,Arial,sans-serif">primera vuelta</p>
         </td>
         <td width="34%" style="text-align:center;padding:0 8px">
-          <p style="margin:0;font-size:9px;text-transform:uppercase;letter-spacing:.07em;color:#888;font-family:Helvetica,Arial,sans-serif;font-weight:bold">AtlasIntel (2 jun)</p>
-          <p style="margin:3px 0 1px;font-size:16px;font-weight:bold;color:#1a1208;font-family:Helvetica,Arial,sans-serif">50,3 &mdash; 42,6%</p>
-          <p style="margin:0;font-size:10px;color:#888;font-family:Helvetica,Arial,sans-serif">De la E. +7,7 pts</p>
+          <p style="margin:0;font-size:9px;text-transform:uppercase;letter-spacing:.07em;color:#888;font-family:Helvetica,Arial,sans-serif;font-weight:bold">{enc_firma} ({enc_fecha})</p>
+          <p style="margin:3px 0 1px;font-size:16px;font-weight:bold;color:#1a1208;font-family:Helvetica,Arial,sans-serif">{enc_esp} &mdash; {enc_cep}%</p>
+          <p style="margin:0;font-size:10px;color:#888;font-family:Helvetica,Arial,sans-serif">De la E. +{enc_diff} pts</p>
+          {"<p style='margin:1px 0 0;font-size:9px;color:#aaa;font-style:italic;font-family:Helvetica,Arial,sans-serif'>" + enc_nota + "</p>" if enc_nota else ""}
         </td>
       </tr></table>
     </td></tr>
