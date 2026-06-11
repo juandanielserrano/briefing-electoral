@@ -1,34 +1,39 @@
 {
-  "fecha": "miércoles 10 de junio de 2026",
-  "hora": "17:25",
-  "titular_del_dia": "Petro enfrenta solicitud de suspensión a once días de la segunda vuelta",
-  "editorial": "La campaña quedó clausurada por un acontecimiento externo que reorganiza toda la narrativa final. La congresista Gloria Arizabaleta presentó solicitud formal para suspender a Petro del cargo, argumentando participación indebida en política electoral. Aunque el trámite carece de viabilidad jurídica inmediata —requiere Comisión de Acusación y mayorías calificadas— su impacto político es inmediato: De la Espriella obtiene combustible adicional para su narrativa antisistema, mientras Cepeda hereda la contaminación de un presidente cuya toxicidad electoral ya era evidente. Ambos candidatos hablan de 'autoatentado' y 'cortina de humo', confirmando que nadie cree en la procedencia técnica pero todos entienden su potencial electoral. Con ventaja de siete puntos y once días restantes, De la Espriella ve cómo los acontecimientos externos terminan de construir su caso mejor de lo que su propia campaña podría hacer.",
+  "fecha": "jueves 11 de junio de 2026",
+  "hora": "06:01",
+  "titular_del_dia": "Trump redobla apoyo a De la Espriella mientras Petro exige no intervención",
+  "editorial": "La campaña entra en su recta final con el teatro institucional clausurado y la batalla internacional abierta. Trump refuerza públicamente su respaldo a De la Espriella —\"contará con apoyo y fuerza total\" de EE.UU.— en un movimiento sin precedente de injerencia explícita que Petro ya no puede ignorar: el presidente pide formalmente que Washington no intervenga, confesando con ello su impotencia. Mientras tanto, el ruido sobre la suspensión presidencial se disipa en tecnicismos jurídicos que nadie toma en serio, y De la Espriella llena plazas en Cartagena desafiando medidas cautelares sin consecuencia visible. Cepeda intenta construir narrativa económica moderada y apelar a indecisos, pero la campaña transcurre en un plano que él no controla: Trump, Petro y el desgaste institucional marcan el territorio donde los últimos diez días se resolverán. Con siete puntos arriba, De la Espriella tiene el lujo de administrar acontecimientos que otros producen.",
   "noticias": [
     {
-      "titular": "Congresista Gloria Arizabaleta solicita suspensión de Petro por presunta participación electoral y remite decisión al Senado",
-      "contexto": "La representante del Valle firmó documento pidiendo suspensión del presidente a once días de la segunda vuelta. Luego reconoció que el texto se filtró porque 'se le fue en un correo'. El trámite requiere Comisión de Acusación y mayorías que no existen, pero genera ruido político masivo.",
-      "fuente": "El Colombiano / La FM"
+      "titular": "Trump reitera apoyo a De la Espriella: asegura que 'si gana contará con apoyo y fuerza total' de EE.UU.",
+      "contexto": "Segundo mensaje público de Trump en días, esta vez más explícito sobre respaldo bilateral futuro. Injerencia electoral sin precedente en campaña colombiana.",
+      "fuente": "El Tiempo"
     },
     {
-      "titular": "De la Espriella califica solicitud de suspensión de Petro como 'autoatentado legislativo' y agradece nuevo apoyo de Trump",
-      "contexto": "El candidato desestimó la viabilidad del trámite, llamándolo 'estupidez', mientras aprovechó para reportar a Trump sobre las denuncias de compra de votos. Doble movimiento: minimiza drama institucional y refuerza vínculo internacional.",
+      "titular": "Petro responde a Trump y pide formalmente no intervenir en campaña electoral",
+      "contexto": "Presidente colombiano reacciona públicamente al respaldo estadounidense a De la Espriella con mensaje directo: 'No usted'. Muestra debilidad presidencial al tener que solicitar lo obvio.",
+      "fuente": "El Tiempo"
+    },
+    {
+      "titular": "De la Espriella colma Plaza de la Aduana en Cartagena y desafía medida cautelar del Tribunal",
+      "contexto": "Candidato realiza acto masivo en la costa y lanza respuesta desafiante a orden judicial que le prohíbe usar lema 'Firmes por la Patria'. Demuestra que restricciones no tienen efecto práctico.",
+      "fuente": "El Colombiano"
+    },
+    {
+      "titular": "Aida Quilcué rechaza debate con Restrepo: 'Usted no quiere debatir, quiere fanfarronear'",
+      "contexto": "Fórmula vicepresidencial de Cepeda descarta cara a cara con dupla de De la Espriella argumentando falta de condiciones de respeto. Movimiento defensivo que cede iniciativa.",
       "fuente": "La FM"
     },
     {
-      "titular": "Petro desde la ONU denuncia 'extorsión' y dice que solicitud de suspensión viola la ley",
-      "contexto": "El presidente respondió señalando que la Comisión de Acusación 'no es la que suspende' y confirmó que terminará su mandato. También se disculpó por polémica frase sobre Hitler pronunciada en ese foro.",
+      "titular": "Gloria Arizabaleta abre segundo proceso contra Petro tras solicitud de suspensión",
+      "contexto": "Congresista que promovió suspensión presidencial presenta nueva denuncia, manteniendo ruido institucional aunque sin viabilidad jurídica inmediata.",
       "fuente": "La FM"
     },
     {
-      "titular": "Movimiento de Santiago Botero respalda a Cepeda con condiciones",
-      "contexto": "Nueva adhesión para la campaña del Pacto Histórico, aunque condicionada, en medio del deterioro de posicionamiento en las últimas 48 horas.",
-      "fuente": "La Silla Vacía"
-    },
-    {
-      "titular": "La Silla Vacía analiza estrategia de Milei, Kast y Noboa como guion para populismo de derecha en segunda vuelta",
-      "contexto": "Medio especializado traza paralelos entre victorias de derecha en Argentina, Chile y Ecuador con la candidatura de De la Espriella, identificando patrones de narrativa y movilización electoral.",
-      "fuente": "La Silla Vacía"
+      "titular": "MOE alerta sobre 'eliminación del contrario' como patrón de campaña en segunda vuelta",
+      "contexto": "Misión de Observación Electoral reporta escalada de violencia política nunca antes vista: insultos pasaron a amenazas y violencia física durante primera vuelta.",
+      "fuente": "Semana"
     }
   ],
-  "para_estar_atento": "El trámite de suspensión de Petro será formalmente descartado en horas, pero su efecto electoral ya se produjo. Hay que vigilar si Cepeda logra descontaminar su campaña del ruido presidencial o si los últimos once días quedan secuestrados por la disfuncionalidad institucional."
+  "para_estar_atento": "Cepeda presenta su programa económico intentando moderar imagen del petrismo, mientras crecen denuncias de constreñimiento electoral en Antioquia y Santa Marta. Los últimos diez días transcurrirán con movilización territorial intensiva y vigilancia sobre posible intervención de actores armados ilegales en zonas rurales."
 }
