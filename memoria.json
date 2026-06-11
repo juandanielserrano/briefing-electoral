@@ -1,39 +1,39 @@
 {
   "fecha": "jueves 11 de junio de 2026",
-  "hora": "06:01",
-  "titular_del_dia": "Trump redobla apoyo a De la Espriella mientras Petro exige no intervención",
-  "editorial": "La campaña entra en su recta final con el teatro institucional clausurado y la batalla internacional abierta. Trump refuerza públicamente su respaldo a De la Espriella —\"contará con apoyo y fuerza total\" de EE.UU.— en un movimiento sin precedente de injerencia explícita que Petro ya no puede ignorar: el presidente pide formalmente que Washington no intervenga, confesando con ello su impotencia. Mientras tanto, el ruido sobre la suspensión presidencial se disipa en tecnicismos jurídicos que nadie toma en serio, y De la Espriella llena plazas en Cartagena desafiando medidas cautelares sin consecuencia visible. Cepeda intenta construir narrativa económica moderada y apelar a indecisos, pero la campaña transcurre en un plano que él no controla: Trump, Petro y el desgaste institucional marcan el territorio donde los últimos diez días se resolverán. Con siete puntos arriba, De la Espriella tiene el lujo de administrar acontecimientos que otros producen.",
+  "hora": "17:01",
+  "titular_del_dia": "Procuraduría desmonta teatro institucional y Nueva encuesta amplía ventaja de De la Espriella",
+  "editorial": "La campaña cierra su primera semana definitiva con dos movimientos que consolidan la ventaja de De la Espriella. Primero, la Procuraduría suspende a Gloria Arizabaleta, cerrando el circo de la supuesta suspensión presidencial que solo generó ruido sin consecuencia. Segundo, AtlasIntel publica nueva encuesta ampliando la brecha a 7.7 puntos (52,2% vs 44,5%), confirmando tendencia ascendente del candidato de derecha. Mientras Cepeda apela a denuncias penales por paramilitarismo —movimiento desesperado que De la Espriella despacha como 'cortinas de humo'—, su rival acumula victorias judiciales: juez revoca prohibición de usar camiseta de la Selección. Con diez días restantes, Cepeda no logra cambiar el eje de la conversación ni frenar la dinámica favorable a su oponente. La batalla judicial reemplaza la batalla política, síntoma de una campaña que no encuentra tracción.",
   "noticias": [
     {
-      "titular": "Trump reitera apoyo a De la Espriella: asegura que 'si gana contará con apoyo y fuerza total' de EE.UU.",
-      "contexto": "Segundo mensaje público de Trump en días, esta vez más explícito sobre respaldo bilateral futuro. Injerencia electoral sin precedente en campaña colombiana.",
+      "titular": "Nueva encuesta AtlasIntel amplía ventaja de De la Espriella a 7.7 puntos: 52,2% vs 44,5%",
+      "contexto": "AtlasIntel, la firma más precisa en primera vuelta, publica nueva medición mostrando aumento de la brecha respecto a su sondeo anterior (50,3% vs 42,6% del 1-2 jun). Tendencia ascendente para De la Espriella se consolida a diez días de la votación.",
       "fuente": "El Tiempo"
     },
     {
-      "titular": "Petro responde a Trump y pide formalmente no intervenir en campaña electoral",
-      "contexto": "Presidente colombiano reacciona públicamente al respaldo estadounidense a De la Espriella con mensaje directo: 'No usted'. Muestra debilidad presidencial al tener que solicitar lo obvio.",
-      "fuente": "El Tiempo"
+      "titular": "Procuraduría suspende a Gloria Arizabaleta tras escándalo por intento de suspensión presidencial",
+      "contexto": "El órgano de control retira del cargo a la representante que firmó orden de suspensión contra Petro, clausurando episodio que dominó la agenda 48 horas pero sin consecuencias reales. Arizabaleta confesó que documento 'se le fue' en un correo.",
+      "fuente": "El Tiempo / El Colombiano"
     },
     {
-      "titular": "De la Espriella colma Plaza de la Aduana en Cartagena y desafía medida cautelar del Tribunal",
-      "contexto": "Candidato realiza acto masivo en la costa y lanza respuesta desafiante a orden judicial que le prohíbe usar lema 'Firmes por la Patria'. Demuestra que restricciones no tienen efecto práctico.",
-      "fuente": "El Colombiano"
+      "titular": "Juez revoca prohibición a De la Espriella de usar camiseta de la Selección Colombia",
+      "contexto": "Nueva victoria judicial del candidato de derecha. Tribunal tumba medida cautelar que le impedía usar símbolos de la tricolor en campaña. Segunda restricción judicial que cae en días, tras fallo sobre lema 'Firmes por la Patria'.",
+      "fuente": "El Tiempo / La FM"
     },
     {
-      "titular": "Aida Quilcué rechaza debate con Restrepo: 'Usted no quiere debatir, quiere fanfarronear'",
-      "contexto": "Fórmula vicepresidencial de Cepeda descarta cara a cara con dupla de De la Espriella argumentando falta de condiciones de respeto. Movimiento defensivo que cede iniciativa.",
-      "fuente": "La FM"
+      "titular": "Cepeda anuncia denuncia penal contra De la Espriella por paramilitarismo; rival responde: 'cortinas de humo'",
+      "contexto": "Candidato del Pacto anuncia denuncia ante Fiscalía y CPI por presuntos vínculos de su rival con paramilitares. De la Espriella descarta ofensiva: 'Entraste en pérdida, Cepeda'. Movimiento defensivo que no altera dinámica de campaña.",
+      "fuente": "El Tiempo / La FM"
     },
     {
-      "titular": "Gloria Arizabaleta abre segundo proceso contra Petro tras solicitud de suspensión",
-      "contexto": "Congresista que promovió suspensión presidencial presenta nueva denuncia, manteniendo ruido institucional aunque sin viabilidad jurídica inmediata.",
-      "fuente": "La FM"
+      "titular": "Consejo de Estado retira al CNE facultad de suspender encuestas sin sanción en firme",
+      "contexto": "Sección Quinta determina que tribunal electoral se extralimitó al adjudicarse potestad de medidas cautelares restrictivas sobre sondeos. Fallo limita capacidad del CNE de intervenir publicación de encuestas durante campaña.",
+      "fuente": "La FM / Semana"
     },
     {
-      "titular": "MOE alerta sobre 'eliminación del contrario' como patrón de campaña en segunda vuelta",
-      "contexto": "Misión de Observación Electoral reporta escalada de violencia política nunca antes vista: insultos pasaron a amenazas y violencia física durante primera vuelta.",
-      "fuente": "Semana"
+      "titular": "Procuraduría también suspende a Agmeth Escaf por declaraciones contra De la Espriella",
+      "contexto": "Congresista del Pacto suspendido hasta segunda vuelta por frase ofensiva contra candidato de derecha. Segunda suspensión que ordena Procuraduría en el día, evidenciando activismo institucional en plena campaña.",
+      "fuente": "El Tiempo / La FM"
     }
   ],
-  "para_estar_atento": "Cepeda presenta su programa económico intentando moderar imagen del petrismo, mientras crecen denuncias de constreñimiento electoral en Antioquia y Santa Marta. Los últimos diez días transcurrirán con movilización territorial intensiva y vigilancia sobre posible intervención de actores armados ilegales en zonas rurales."
+  "para_estar_atento": "MOE mantiene alerta en 386 municipios por orden público y logística electoral. Transparencia por Colombia denuncia que ningún candidato ha reportado gastos de campaña de segunda vuelta. Últimos nueve días definirán movilización territorial intensiva en regiones clave."
 }
