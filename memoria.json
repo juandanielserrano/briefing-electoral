@@ -1,39 +1,39 @@
 {
   "fecha": "viernes 12 de junio de 2026",
-  "hora": "06:01",
-  "titular_del_dia": "Llegada de El Niño y escalada en Bolívar: tensión climática e institucional a nueve días de votación",
-  "editorial": "La campaña entra en su recta final con De la Espriella acumulando victorias judiciales —Consejo de Estado ratifica su candidatura pese a doble nacionalidad— mientras Cepeda despliega finalmente su plan de gobierno, apostando a moderar el petrismo con Clara López como vocera económica. Pero dos factores exógenos sacuden el tablero: primero, el Gobierno confirma arribo anticipado de El Niño, el más intenso desde 1950, disparando alerta energética que podría condicionar el voto urbano; segundo, declaraciones de funcionaria de ANT prometiendo 'remontada insuperable' de Cepeda en Bolívar revelan presión institucional en terreno clave. De la Espriella suma respaldos deportivos (Nairo, Borja, Valderrama) mientras intensifica retórica contra Cepeda como 'colaborador de criminales'. Con brecha estable en 7-8 puntos, la batalla no es ya ideológica sino de movilización bajo presión climática e institucional creciente.",
+  "hora": "17:01",
+  "titular_del_dia": "Caos institucional eclipsa campaña: Arizabaleta intenta suspender a Petro y es destituida en 24 horas",
+  "editorial": "La recta final de campaña quedó sepultada bajo un terremoto institucional sin precedentes. Gloria Arizabaleta, del Pacto Histórico, intentó suspender preventivamente a Petro desde la Comisión de Acusación —documento que filtró por error en un correo—, la Procuraduría la suspendió en horas y ahora enfrenta proceso penal. El episodio expone fracturas internas del petrismo y entrega a De la Espriella un argumento sobre caos institucional que refuerza su narrativa antioficialista. Mientras, la Corte Suprema le devuelve al candidato de derecha el uso de símbolos patrios, cerrando otro frente judicial favorable. Cepeda, atrapado entre defender al Gobierno y desmarcarse del escándalo, pierde días críticos de campaña. La ventaja de 7-8 puntos de De la Espriella luce más sólida bajo turbulencia que beneficia al outsider. Nueve días para votación, cero margen de error.",
   "noticias": [
     {
-      "titular": "Gobierno confirma llegada de El Niño tres meses antes: será el más intenso desde 1950",
-      "contexto": "MinMinas anuncia fenómeno climático llegó anticipadamente y pide ahorro energético urgente. Crisis energética potencial en plena campaña podría afectar voto urbano contra oficialismo.",
-      "fuente": "Blu Radio / La Silla Vacía"
+      "titular": "Procuraduría suspende a Gloria Arizabaleta tras filtrar auto para suspender preventivamente a Petro",
+      "contexto": "Representante del Pacto que preside Comisión de Acusación filtró por error documento ordenando suspensión del Presidente. Procuraduría la suspendió en menos de 24 horas. Caso pasa a Corte Suprema para proceso penal. Explosión política a nueve días de votación sacude campaña de Cepeda.",
+      "fuente": "El Tiempo"
     },
     {
-      "titular": "Coordinadora de ANT promete 'remontada insuperable' de Cepeda en Bolívar: estallan denuncias",
-      "contexto": "Funcionaria de Agencia Nacional de Tierras hace campaña abierta prometiendo triunfo de Cepeda en departamento estratégico. Evidencia presión institucional en región clave para resultado final.",
-      "fuente": "El Colombiano"
+      "titular": "Corte Suprema revierte prohibición: De la Espriella puede usar bandera y eslogan 'Firmes por la Patria'",
+      "contexto": "Alto tribunal admitió tutela contra decisión del Tribunal de Bogotá que impedía uso de símbolos patrios. Cuarta victoria judicial consecutiva para candidato de derecha. Fórmula Restrepo celebra decisión que llega en momento clave para cierre de campaña.",
+      "fuente": "Semana"
     },
     {
-      "titular": "Consejo de Estado ratifica candidatura de De la Espriella: doble nacionalidad no inhabilita",
-      "contexto": "Máximo tribunal administrativo rechaza demanda que buscaba tumbar inscripción por nacionalidad estadounidense. Tercera victoria judicial consecutiva del candidato de derecha cierra frente legal.",
-      "fuente": "Semana / La FM / Blu Radio"
+      "titular": "Petro vuelve a participar activamente en campaña: pide votar masivamente para no perder logros",
+      "contexto": "Presidente intensifica intervención electoral directa a nueve días de votación. Movimiento arriesgado que podría activar voto antioficialista tras escándalo Arizabaleta y crisis institucional en su propio partido.",
+      "fuente": "Blu Radio"
     },
     {
-      "titular": "Cepeda publica plan de gobierno a 10 días de votación: modera petrismo con Clara López de vocera",
-      "contexto": "Candidato del Pacto presenta finalmente programa económico con exministra López promoviendo 'eliminación de privilegios' pero sin mencionar Constituyente. Movimiento tardío busca capturar centro esquivo.",
-      "fuente": "El Tiempo / La FM / La Silla Vacía"
-    },
-    {
-      "titular": "De la Espriella suma respaldos deportivos: Nairo Quintana, Borja y Valderrama se pronuncian",
-      "contexto": "Campaña de derecha acumula adhesiones del mundo deportivo en estrategia de construcción simbólica nacionalista. Movimiento calculado tras victoria judicial sobre uso de camiseta tricolor.",
+      "titular": "MinDefensa alerta por posibles disturbios violentos tras resultados del 21 de junio",
+      "contexto": "Ministro de Defensa advierte que inteligencia militar detectó planes de alteración del orden público post-electoral. Declaraciones elevan tensión y anticipan escenario de no reconocimiento de resultados por alguno de los bandos.",
       "fuente": "La Silla Vacía"
     },
     {
-      "titular": "Trump reitera apoyo a De la Espriella: 'Contará con fuerza total de EE.UU. si gana'",
-      "contexto": "Presidente estadounidense repite respaldo público a candidato de derecha. Europarlamentarios denuncian injerencia y piden respeto a soberanía electoral colombiana.",
-      "fuente": "El Tiempo / La FM"
+      "titular": "Oviedo se reúne con Uribe en Rionegro pero mantiene neutralidad electoral",
+      "contexto": "Excandidato del Centro Esperanza visitó a expresidente en su finca antioqueña. Encuentro interpretado como gesto de acercamiento, pero Oviedo sigue sin declarar apoyo explícito a De la Espriella, dejando en el aire votación de su electorado centrista.",
+      "fuente": "La FM"
+    },
+    {
+      "titular": "MinHacienda advierte: quien gane necesitará reforma tributaria de $30 billones",
+      "contexto": "Gobierno reconoce hueco fiscal estructural que obligará al próximo presidente a nueva tributaria masiva independiente de quién sea. Admisión complica promesas de campaña de ambos candidatos y anticipa turbulencia económica 2026-2027.",
+      "fuente": "Blu Radio"
     }
   ],
-  "para_estar_atento": "Crisis energética por El Niño podría convertirse en tema electoral contra oficialismo. Seguimiento a presiones institucionales en Bolívar y otros departamentos clave. Últimos nueve días definirán capacidad de movilización territorial bajo condiciones climáticas adversas."
+  "para_estar_atento": "Impacto electoral del escándalo Arizabaleta sobre votación petrista. Seguimiento a posibles nuevas intervenciones de Petro que podrían activar voto de castigo. Cierre de campaña Cepeda en Plaza Santamaría (Bogotá) será termómetro de capacidad de movilización tras semana catastrófica."
 }
