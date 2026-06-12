@@ -1,39 +1,39 @@
 {
-  "fecha": "jueves 11 de junio de 2026",
-  "hora": "17:01",
-  "titular_del_dia": "Procuraduría desmonta teatro institucional y Nueva encuesta amplía ventaja de De la Espriella",
-  "editorial": "La campaña cierra su primera semana definitiva con dos movimientos que consolidan la ventaja de De la Espriella. Primero, la Procuraduría suspende a Gloria Arizabaleta, cerrando el circo de la supuesta suspensión presidencial que solo generó ruido sin consecuencia. Segundo, AtlasIntel publica nueva encuesta ampliando la brecha a 7.7 puntos (52,2% vs 44,5%), confirmando tendencia ascendente del candidato de derecha. Mientras Cepeda apela a denuncias penales por paramilitarismo —movimiento desesperado que De la Espriella despacha como 'cortinas de humo'—, su rival acumula victorias judiciales: juez revoca prohibición de usar camiseta de la Selección. Con diez días restantes, Cepeda no logra cambiar el eje de la conversación ni frenar la dinámica favorable a su oponente. La batalla judicial reemplaza la batalla política, síntoma de una campaña que no encuentra tracción.",
+  "fecha": "viernes 12 de junio de 2026",
+  "hora": "06:01",
+  "titular_del_dia": "Llegada de El Niño y escalada en Bolívar: tensión climática e institucional a nueve días de votación",
+  "editorial": "La campaña entra en su recta final con De la Espriella acumulando victorias judiciales —Consejo de Estado ratifica su candidatura pese a doble nacionalidad— mientras Cepeda despliega finalmente su plan de gobierno, apostando a moderar el petrismo con Clara López como vocera económica. Pero dos factores exógenos sacuden el tablero: primero, el Gobierno confirma arribo anticipado de El Niño, el más intenso desde 1950, disparando alerta energética que podría condicionar el voto urbano; segundo, declaraciones de funcionaria de ANT prometiendo 'remontada insuperable' de Cepeda en Bolívar revelan presión institucional en terreno clave. De la Espriella suma respaldos deportivos (Nairo, Borja, Valderrama) mientras intensifica retórica contra Cepeda como 'colaborador de criminales'. Con brecha estable en 7-8 puntos, la batalla no es ya ideológica sino de movilización bajo presión climática e institucional creciente.",
   "noticias": [
     {
-      "titular": "Nueva encuesta AtlasIntel amplía ventaja de De la Espriella a 7.7 puntos: 52,2% vs 44,5%",
-      "contexto": "AtlasIntel, la firma más precisa en primera vuelta, publica nueva medición mostrando aumento de la brecha respecto a su sondeo anterior (50,3% vs 42,6% del 1-2 jun). Tendencia ascendente para De la Espriella se consolida a diez días de la votación.",
-      "fuente": "El Tiempo"
+      "titular": "Gobierno confirma llegada de El Niño tres meses antes: será el más intenso desde 1950",
+      "contexto": "MinMinas anuncia fenómeno climático llegó anticipadamente y pide ahorro energético urgente. Crisis energética potencial en plena campaña podría afectar voto urbano contra oficialismo.",
+      "fuente": "Blu Radio / La Silla Vacía"
     },
     {
-      "titular": "Procuraduría suspende a Gloria Arizabaleta tras escándalo por intento de suspensión presidencial",
-      "contexto": "El órgano de control retira del cargo a la representante que firmó orden de suspensión contra Petro, clausurando episodio que dominó la agenda 48 horas pero sin consecuencias reales. Arizabaleta confesó que documento 'se le fue' en un correo.",
-      "fuente": "El Tiempo / El Colombiano"
+      "titular": "Coordinadora de ANT promete 'remontada insuperable' de Cepeda en Bolívar: estallan denuncias",
+      "contexto": "Funcionaria de Agencia Nacional de Tierras hace campaña abierta prometiendo triunfo de Cepeda en departamento estratégico. Evidencia presión institucional en región clave para resultado final.",
+      "fuente": "El Colombiano"
     },
     {
-      "titular": "Juez revoca prohibición a De la Espriella de usar camiseta de la Selección Colombia",
-      "contexto": "Nueva victoria judicial del candidato de derecha. Tribunal tumba medida cautelar que le impedía usar símbolos de la tricolor en campaña. Segunda restricción judicial que cae en días, tras fallo sobre lema 'Firmes por la Patria'.",
-      "fuente": "El Tiempo / La FM"
+      "titular": "Consejo de Estado ratifica candidatura de De la Espriella: doble nacionalidad no inhabilita",
+      "contexto": "Máximo tribunal administrativo rechaza demanda que buscaba tumbar inscripción por nacionalidad estadounidense. Tercera victoria judicial consecutiva del candidato de derecha cierra frente legal.",
+      "fuente": "Semana / La FM / Blu Radio"
     },
     {
-      "titular": "Cepeda anuncia denuncia penal contra De la Espriella por paramilitarismo; rival responde: 'cortinas de humo'",
-      "contexto": "Candidato del Pacto anuncia denuncia ante Fiscalía y CPI por presuntos vínculos de su rival con paramilitares. De la Espriella descarta ofensiva: 'Entraste en pérdida, Cepeda'. Movimiento defensivo que no altera dinámica de campaña.",
-      "fuente": "El Tiempo / La FM"
+      "titular": "Cepeda publica plan de gobierno a 10 días de votación: modera petrismo con Clara López de vocera",
+      "contexto": "Candidato del Pacto presenta finalmente programa económico con exministra López promoviendo 'eliminación de privilegios' pero sin mencionar Constituyente. Movimiento tardío busca capturar centro esquivo.",
+      "fuente": "El Tiempo / La FM / La Silla Vacía"
     },
     {
-      "titular": "Consejo de Estado retira al CNE facultad de suspender encuestas sin sanción en firme",
-      "contexto": "Sección Quinta determina que tribunal electoral se extralimitó al adjudicarse potestad de medidas cautelares restrictivas sobre sondeos. Fallo limita capacidad del CNE de intervenir publicación de encuestas durante campaña.",
-      "fuente": "La FM / Semana"
+      "titular": "De la Espriella suma respaldos deportivos: Nairo Quintana, Borja y Valderrama se pronuncian",
+      "contexto": "Campaña de derecha acumula adhesiones del mundo deportivo en estrategia de construcción simbólica nacionalista. Movimiento calculado tras victoria judicial sobre uso de camiseta tricolor.",
+      "fuente": "La Silla Vacía"
     },
     {
-      "titular": "Procuraduría también suspende a Agmeth Escaf por declaraciones contra De la Espriella",
-      "contexto": "Congresista del Pacto suspendido hasta segunda vuelta por frase ofensiva contra candidato de derecha. Segunda suspensión que ordena Procuraduría en el día, evidenciando activismo institucional en plena campaña.",
+      "titular": "Trump reitera apoyo a De la Espriella: 'Contará con fuerza total de EE.UU. si gana'",
+      "contexto": "Presidente estadounidense repite respaldo público a candidato de derecha. Europarlamentarios denuncian injerencia y piden respeto a soberanía electoral colombiana.",
       "fuente": "El Tiempo / La FM"
     }
   ],
-  "para_estar_atento": "MOE mantiene alerta en 386 municipios por orden público y logística electoral. Transparencia por Colombia denuncia que ningún candidato ha reportado gastos de campaña de segunda vuelta. Últimos nueve días definirán movilización territorial intensiva en regiones clave."
+  "para_estar_atento": "Crisis energética por El Niño podría convertirse en tema electoral contra oficialismo. Seguimiento a presiones institucionales en Bolívar y otros departamentos clave. Últimos nueve días definirán capacidad de movilización territorial bajo condiciones climáticas adversas."
 }
