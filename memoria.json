@@ -1,39 +1,39 @@
 {
   "fecha": "sábado 13 de junio de 2026",
-  "hora": "06:01",
-  "titular_del_dia": "Nueva encuesta amplía ventaja de De la Espriella a 7,6 puntos con Trump reforzando respaldo internacional",
-  "editorial": "La campaña entró en piloto automático a ocho días de votación. Guarumo-Ecoanalítica confirma la tendencia: De la Espriella 52,6%, Cepeda 45%, margen idéntico al de firmas anteriores. No hay remontada visible. Trump volvió a intervenir prometiendo \"apoyo y fuerza total\" si gana el candidato de derecha, consolidando narrativa de respaldo internacional que contrasta con el aislamiento diplomático del petrismo. Cepeda intentó montarse a la ola mundialista proponiendo a Colombia como sede, pero es ruido marginal. El oficialismo perdió la iniciativa tras el escándalo Arizabaleta y no logra recuperarla. Los cierres de campaña —Buga para De la Espriella, Santamaría para Cepeda— mostrarán capacidad real de movilización, pero las tendencias están cristalizadas. Sin cisne negro, la derecha ganará el 21 de junio.",
+  "hora": "17:01",
+  "titular_del_dia": "De la Espriella exhibe exámenes médicos mientras Cepeda cierra campaña dividiendo actos en dos ciudades",
+  "editorial": "A ocho días de la votación, la campaña muestra signos de agotamiento creativo. De la Espriella convirtió en espectáculo público su estado de salud en Barranquilla, una movida de agenda que busca llenar espacio mediático más que generar debate sustantivo. Cepeda fragmentó su cierre de campaña entre Bogotá y Bucaramanga, evidenciando las limitaciones de movilización que arrastra desde el escándalo Arizabaleta. Las encuestas permanecen congeladas: Guarumo-Ecoanalítica ratifica 7,6 puntos de ventaja para la derecha, consistente con AtlasIntel y CB Global. No hay remontada. La Registraduría despliega 65 delegados al exterior para supervisar conteo, señal de tensión institucional ante posibles cuestionamientos post-electorales. La carrera está decidida salvo implosión de último momento.",
   "noticias": [
     {
-      "titular": "Encuesta Guarumo-Ecoanalítica cierra carrera con De la Espriella 52,6% vs Cepeda 45%",
-      "contexto": "Nueva medición publicada por El Tiempo confirma ventaja de 7,6 puntos para candidato de derecha. Es la encuesta final antes de cierre de campaña, consistente con mediciones anteriores de CB Global y AtlasIntel.",
-      "fuente": "El Tiempo"
+      "titular": "De la Espriella se realizó exámenes médicos públicos y propone que sea obligatorio para todos los candidatos presidenciales",
+      "contexto": "Candidato de derecha aceptó reto público y reveló resultados de pruebas médicas en Barranquilla. Propone crear ley que obligue a aspirantes a la Presidencia a revelar estado de salud. Movida mediática en recta final de campaña.",
+      "fuente": "La FM"
     },
     {
-      "titular": "Trump refuerza respaldo a De la Espriella: 'Si gana contará con apoyo y fuerza total' de EE.UU.",
-      "contexto": "Presidente estadounidense vuelve a pronunciarse públicamente sobre elecciones colombianas, segunda vez que expresa respaldo explícito al candidato de derecha. Movimiento fortalece narrativa de De la Espriella sobre restauración de relaciones internacionales.",
-      "fuente": "El Tiempo"
-    },
-    {
-      "titular": "Cepeda se monta a ola mundialista y propone que Colombia sea sede de futuro torneo internacional",
-      "contexto": "Candidato de izquierda busca capitalizar ambiente festivo del mundial en curso para generar narrativa positiva. La Silla Vacía reporta movimiento como intento de cambiar agenda tras semana catastrófica por escándalo Arizabaleta.",
-      "fuente": "La Silla Vacía"
-    },
-    {
-      "titular": "Buga y Bogotá: candidatos preparan cierres de campaña en plazas que definen sus bastiones",
-      "contexto": "De la Espriella cierra en Buga (Valle), territorio conservador y religioso. Cepeda en Santamaría (Bogotá), su principal bastión urbano. Eventos serán termómetro final de capacidad de movilización antes de jornada electoral.",
+      "titular": "Cepeda divide cierre de campaña en dos ciudades: actos en Bogotá y Bucaramanga el mismo día",
+      "contexto": "A diferencia del cierre único anunciado anteriormente en Santamaría, candidato de izquierda fragmentó su jornada final entre capital y Santander. Señal de dificultades para concentrar movilización masiva en un solo evento.",
       "fuente": "El Colombiano"
     },
     {
-      "titular": "Petro vuelve a rayar participación en política por canal de WhatsApp destacando caída de pobreza",
-      "contexto": "Presidente continúa interviniendo directamente en campaña pidiendo votar masivamente 'para no perder logros'. La Silla Vacía y Blu Radio reportan nuevas declaraciones que podrían activar voto antioficialista en recta final.",
-      "fuente": "La Silla Vacía / Blu Radio"
+      "titular": "Registraduría enviará 65 delegados al exterior para supervisar conteo de votos en segunda vuelta",
+      "contexto": "Despliegue inusual de observadores oficiales para vigilar escrutinio en consulados. 1,4 millones de colombianos habilitados para votar fuera del país. Medida preventiva ante posibles cuestionamientos de resultados.",
+      "fuente": "El Tiempo / Blu Radio"
     },
     {
-      "titular": "Registrador Penagos llama a candidatos a respetar resultados y MinDefensa anticipa PMU por riesgo de disturbios",
-      "contexto": "Autoridades electorales y de seguridad elevan tono preventivo. Hernán Penagos hace llamado público al respeto de resultados. MinDefensa anuncia anticipación de Puesto de Mando Unificado ante alertas de inteligencia sobre posibles alteraciones post-electorales.",
-      "fuente": "El Tiempo / La FM"
+      "titular": "MinDefensa anuncia decreto para prohibir uso de celulares en mesas de votación el día de elecciones",
+      "contexto": "Nueva medida de seguridad electoral busca evitar constreñimiento al votante. Complementa anticipación de Puesto de Mando Unificado ya anunciado. Instituciones elevan precauciones ante riesgo de alteraciones.",
+      "fuente": "La FM"
+    },
+    {
+      "titular": "Conferencia Episcopal rechaza uso político de sus mensajes en campaña electoral",
+      "contexto": "Iglesia Católica emite pronunciamiento distanciándose de instrumentalización de declaraciones episcopales con fines electorales. Movida reactiva sugiere que alguna campaña ha usado mensajes religiosos sin autorización.",
+      "fuente": "Blu Radio"
+    },
+    {
+      "titular": "Cepeda confirma que cerrará puertas al fracking si gana presidencia",
+      "contexto": "Candidato de izquierda ratifica compromiso con cierre de exploración no convencional de hidrocarburos. Postura ya conocida, pero reiterada en cierre de campaña como señal a base ambiental petrista.",
+      "fuente": "La FM"
     }
   ],
-  "para_estar_atento": "Cierres de campaña en Buga y Bogotá medirán capacidad real de movilización de bases. Seguimiento a posibles nuevas intervenciones de Petro que podrían activar último voto de castigo antioficialista. Votación en exterior comienza próximamente."
+  "para_estar_atento": "Arranca próximamente votación anticipada en el exterior con 1,4 millones de habilitados. Cierre oficial de campaña a mitad de semana definirá capacidades reales de movilización final. Seguimiento a nuevas intervenciones presidenciales que podrían activar último voto antioficialista."
 }
