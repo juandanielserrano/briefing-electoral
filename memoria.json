@@ -1,39 +1,39 @@
 {
-  "fecha": "viernes 12 de junio de 2026",
-  "hora": "17:01",
-  "titular_del_dia": "Caos institucional eclipsa campaña: Arizabaleta intenta suspender a Petro y es destituida en 24 horas",
-  "editorial": "La recta final de campaña quedó sepultada bajo un terremoto institucional sin precedentes. Gloria Arizabaleta, del Pacto Histórico, intentó suspender preventivamente a Petro desde la Comisión de Acusación —documento que filtró por error en un correo—, la Procuraduría la suspendió en horas y ahora enfrenta proceso penal. El episodio expone fracturas internas del petrismo y entrega a De la Espriella un argumento sobre caos institucional que refuerza su narrativa antioficialista. Mientras, la Corte Suprema le devuelve al candidato de derecha el uso de símbolos patrios, cerrando otro frente judicial favorable. Cepeda, atrapado entre defender al Gobierno y desmarcarse del escándalo, pierde días críticos de campaña. La ventaja de 7-8 puntos de De la Espriella luce más sólida bajo turbulencia que beneficia al outsider. Nueve días para votación, cero margen de error.",
+  "fecha": "sábado 13 de junio de 2026",
+  "hora": "06:01",
+  "titular_del_dia": "Nueva encuesta amplía ventaja de De la Espriella a 7,6 puntos con Trump reforzando respaldo internacional",
+  "editorial": "La campaña entró en piloto automático a ocho días de votación. Guarumo-Ecoanalítica confirma la tendencia: De la Espriella 52,6%, Cepeda 45%, margen idéntico al de firmas anteriores. No hay remontada visible. Trump volvió a intervenir prometiendo \"apoyo y fuerza total\" si gana el candidato de derecha, consolidando narrativa de respaldo internacional que contrasta con el aislamiento diplomático del petrismo. Cepeda intentó montarse a la ola mundialista proponiendo a Colombia como sede, pero es ruido marginal. El oficialismo perdió la iniciativa tras el escándalo Arizabaleta y no logra recuperarla. Los cierres de campaña —Buga para De la Espriella, Santamaría para Cepeda— mostrarán capacidad real de movilización, pero las tendencias están cristalizadas. Sin cisne negro, la derecha ganará el 21 de junio.",
   "noticias": [
     {
-      "titular": "Procuraduría suspende a Gloria Arizabaleta tras filtrar auto para suspender preventivamente a Petro",
-      "contexto": "Representante del Pacto que preside Comisión de Acusación filtró por error documento ordenando suspensión del Presidente. Procuraduría la suspendió en menos de 24 horas. Caso pasa a Corte Suprema para proceso penal. Explosión política a nueve días de votación sacude campaña de Cepeda.",
+      "titular": "Encuesta Guarumo-Ecoanalítica cierra carrera con De la Espriella 52,6% vs Cepeda 45%",
+      "contexto": "Nueva medición publicada por El Tiempo confirma ventaja de 7,6 puntos para candidato de derecha. Es la encuesta final antes de cierre de campaña, consistente con mediciones anteriores de CB Global y AtlasIntel.",
       "fuente": "El Tiempo"
     },
     {
-      "titular": "Corte Suprema revierte prohibición: De la Espriella puede usar bandera y eslogan 'Firmes por la Patria'",
-      "contexto": "Alto tribunal admitió tutela contra decisión del Tribunal de Bogotá que impedía uso de símbolos patrios. Cuarta victoria judicial consecutiva para candidato de derecha. Fórmula Restrepo celebra decisión que llega en momento clave para cierre de campaña.",
-      "fuente": "Semana"
+      "titular": "Trump refuerza respaldo a De la Espriella: 'Si gana contará con apoyo y fuerza total' de EE.UU.",
+      "contexto": "Presidente estadounidense vuelve a pronunciarse públicamente sobre elecciones colombianas, segunda vez que expresa respaldo explícito al candidato de derecha. Movimiento fortalece narrativa de De la Espriella sobre restauración de relaciones internacionales.",
+      "fuente": "El Tiempo"
     },
     {
-      "titular": "Petro vuelve a participar activamente en campaña: pide votar masivamente para no perder logros",
-      "contexto": "Presidente intensifica intervención electoral directa a nueve días de votación. Movimiento arriesgado que podría activar voto antioficialista tras escándalo Arizabaleta y crisis institucional en su propio partido.",
-      "fuente": "Blu Radio"
-    },
-    {
-      "titular": "MinDefensa alerta por posibles disturbios violentos tras resultados del 21 de junio",
-      "contexto": "Ministro de Defensa advierte que inteligencia militar detectó planes de alteración del orden público post-electoral. Declaraciones elevan tensión y anticipan escenario de no reconocimiento de resultados por alguno de los bandos.",
+      "titular": "Cepeda se monta a ola mundialista y propone que Colombia sea sede de futuro torneo internacional",
+      "contexto": "Candidato de izquierda busca capitalizar ambiente festivo del mundial en curso para generar narrativa positiva. La Silla Vacía reporta movimiento como intento de cambiar agenda tras semana catastrófica por escándalo Arizabaleta.",
       "fuente": "La Silla Vacía"
     },
     {
-      "titular": "Oviedo se reúne con Uribe en Rionegro pero mantiene neutralidad electoral",
-      "contexto": "Excandidato del Centro Esperanza visitó a expresidente en su finca antioqueña. Encuentro interpretado como gesto de acercamiento, pero Oviedo sigue sin declarar apoyo explícito a De la Espriella, dejando en el aire votación de su electorado centrista.",
-      "fuente": "La FM"
+      "titular": "Buga y Bogotá: candidatos preparan cierres de campaña en plazas que definen sus bastiones",
+      "contexto": "De la Espriella cierra en Buga (Valle), territorio conservador y religioso. Cepeda en Santamaría (Bogotá), su principal bastión urbano. Eventos serán termómetro final de capacidad de movilización antes de jornada electoral.",
+      "fuente": "El Colombiano"
     },
     {
-      "titular": "MinHacienda advierte: quien gane necesitará reforma tributaria de $30 billones",
-      "contexto": "Gobierno reconoce hueco fiscal estructural que obligará al próximo presidente a nueva tributaria masiva independiente de quién sea. Admisión complica promesas de campaña de ambos candidatos y anticipa turbulencia económica 2026-2027.",
-      "fuente": "Blu Radio"
+      "titular": "Petro vuelve a rayar participación en política por canal de WhatsApp destacando caída de pobreza",
+      "contexto": "Presidente continúa interviniendo directamente en campaña pidiendo votar masivamente 'para no perder logros'. La Silla Vacía y Blu Radio reportan nuevas declaraciones que podrían activar voto antioficialista en recta final.",
+      "fuente": "La Silla Vacía / Blu Radio"
+    },
+    {
+      "titular": "Registrador Penagos llama a candidatos a respetar resultados y MinDefensa anticipa PMU por riesgo de disturbios",
+      "contexto": "Autoridades electorales y de seguridad elevan tono preventivo. Hernán Penagos hace llamado público al respeto de resultados. MinDefensa anuncia anticipación de Puesto de Mando Unificado ante alertas de inteligencia sobre posibles alteraciones post-electorales.",
+      "fuente": "El Tiempo / La FM"
     }
   ],
-  "para_estar_atento": "Impacto electoral del escándalo Arizabaleta sobre votación petrista. Seguimiento a posibles nuevas intervenciones de Petro que podrían activar voto de castigo. Cierre de campaña Cepeda en Plaza Santamaría (Bogotá) será termómetro de capacidad de movilización tras semana catastrófica."
+  "para_estar_atento": "Cierres de campaña en Buga y Bogotá medirán capacidad real de movilización de bases. Seguimiento a posibles nuevas intervenciones de Petro que podrían activar último voto de castigo antioficialista. Votación en exterior comienza próximamente."
 }
