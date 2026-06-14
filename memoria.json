@@ -1,39 +1,39 @@
 {
-  "fecha": "sábado 13 de junio de 2026",
-  "hora": "17:01",
-  "titular_del_dia": "De la Espriella exhibe exámenes médicos mientras Cepeda cierra campaña dividiendo actos en dos ciudades",
-  "editorial": "A ocho días de la votación, la campaña muestra signos de agotamiento creativo. De la Espriella convirtió en espectáculo público su estado de salud en Barranquilla, una movida de agenda que busca llenar espacio mediático más que generar debate sustantivo. Cepeda fragmentó su cierre de campaña entre Bogotá y Bucaramanga, evidenciando las limitaciones de movilización que arrastra desde el escándalo Arizabaleta. Las encuestas permanecen congeladas: Guarumo-Ecoanalítica ratifica 7,6 puntos de ventaja para la derecha, consistente con AtlasIntel y CB Global. No hay remontada. La Registraduría despliega 65 delegados al exterior para supervisar conteo, señal de tensión institucional ante posibles cuestionamientos post-electorales. La carrera está decidida salvo implosión de último momento.",
+  "fecha": "domingo 14 de junio de 2026",
+  "hora": "06:01",
+  "titular_del_dia": "Procuraduría suspende a Arizabaleta mientras Trump refuerza su respaldo a De la Espriella",
+  "editorial": "A siete días de la votación, el terremoto institucional desplaza la campaña sustantiva. La Procuraduría suspendió a Gloria Arizabaleta tras su fallido intento de suspender a Petro, cortando en seco una jugada que activaba el peor escenario: cuestionamiento preventivo de resultados y movilización institucional desde el Pacto. Trump duplica apuesta pública por De la Espriella, señal de que Washington ve la elección definida y prepara terreno bilateral. Las encuestas permanecen estáticas: Guarumo ratifica 7,6 puntos, AtlasIntel mantiene 7,7. No hay remontada ni erosión. La campaña de Cepeda cierra fragmentada entre Bogotá y Bucaramanga, evidencia de límites de movilización. Circula comunicado falso del ELN respaldando a Cepeda, marcador de guerra sucia en recta final. La carrera está cerrada salvo cisne negro de última hora.",
   "noticias": [
     {
-      "titular": "De la Espriella se realizó exámenes médicos públicos y propone que sea obligatorio para todos los candidatos presidenciales",
-      "contexto": "Candidato de derecha aceptó reto público y reveló resultados de pruebas médicas en Barranquilla. Propone crear ley que obligue a aspirantes a la Presidencia a revelar estado de salud. Movida mediática en recta final de campaña.",
-      "fuente": "La FM"
+      "titular": "Procuraduría suspende a Gloria Arizabaleta tras auto que ordenó suspensión preventiva de Petro",
+      "contexto": "El órgano de control actuó de inmediato contra la representante del Pacto que el viernes firmó auto suspendiendo a Petro de funciones. Arizabaleta debe retractarse. Investigación penal en Corte Suprema avanza. Movida cierra ventana a estrategia de cuestionamiento institucional preventivo.",
+      "fuente": "El Tiempo"
     },
     {
-      "titular": "Cepeda divide cierre de campaña en dos ciudades: actos en Bogotá y Bucaramanga el mismo día",
-      "contexto": "A diferencia del cierre único anunciado anteriormente en Santamaría, candidato de izquierda fragmentó su jornada final entre capital y Santander. Señal de dificultades para concentrar movilización masiva en un solo evento.",
-      "fuente": "El Colombiano"
+      "titular": "Trump vuelve a pronunciarse sobre De la Espriella: 'Si gana contará con apoyo y fuerza total de EE.UU.'",
+      "contexto": "Segunda intervención pública del presidente estadounidense en menos de una semana respaldando al candidato de derecha. Señal de que Washington anticipa resultado y prepara relación bilateral pos-Petro. Fortalece narrativa de De la Espriella sobre reinserción internacional.",
+      "fuente": "El Tiempo"
     },
     {
-      "titular": "Registraduría enviará 65 delegados al exterior para supervisar conteo de votos en segunda vuelta",
-      "contexto": "Despliegue inusual de observadores oficiales para vigilar escrutinio en consulados. 1,4 millones de colombianos habilitados para votar fuera del país. Medida preventiva ante posibles cuestionamientos de resultados.",
-      "fuente": "El Tiempo / Blu Radio"
+      "titular": "Verificado: comunicado del ELN anunciando apoyo a Cepeda es falso",
+      "contexto": "El Tiempo desmiente documento viral en redes que atribuía respaldo de la guerrilla al candidato de izquierda. Pieza de desinformación busca asociar a Cepeda con grupo armado activo. Guerra sucia se intensifica en recta final; marca patrón de contenido apócrifo con objetivo electoral.",
+      "fuente": "El Tiempo"
     },
     {
-      "titular": "MinDefensa anuncia decreto para prohibir uso de celulares en mesas de votación el día de elecciones",
-      "contexto": "Nueva medida de seguridad electoral busca evitar constreñimiento al votante. Complementa anticipación de Puesto de Mando Unificado ya anunciado. Instituciones elevan precauciones ante riesgo de alteraciones.",
-      "fuente": "La FM"
+      "titular": "Denuncian ataque violento contra seguidores de De la Espriella en Chía: agresión con armas blancas deja un herido",
+      "contexto": "Incidente registrado durante actividad de campaña en municipio aledaño a Bogotá. Una persona resultó herida con cuchillos. Primeros reportes de violencia física entre simpatizantes en fase final de campaña. Eleva preocupación sobre riesgo de disturbios en jornada electoral.",
+      "fuente": "Semana"
     },
     {
-      "titular": "Conferencia Episcopal rechaza uso político de sus mensajes en campaña electoral",
-      "contexto": "Iglesia Católica emite pronunciamiento distanciándose de instrumentalización de declaraciones episcopales con fines electorales. Movida reactiva sugiere que alguna campaña ha usado mensajes religiosos sin autorización.",
-      "fuente": "Blu Radio"
+      "titular": "La Silla Vacía revela inconsistencias en anuncios de De la Espriella sobre edificio que financia su campaña",
+      "contexto": "Investigación muestra que cuando el candidato afirmó que proyecto inmobiliario en Bogotá estaba vendido completamente, aún había inventario disponible. Tampoco tiene licencia de construcción vigente pese a declaraciones públicas. Cuestiona transparencia sobre fuentes de financiación.",
+      "fuente": "La Silla Vacía"
     },
     {
-      "titular": "Cepeda confirma que cerrará puertas al fracking si gana presidencia",
-      "contexto": "Candidato de izquierda ratifica compromiso con cierre de exploración no convencional de hidrocarburos. Postura ya conocida, pero reiterada en cierre de campaña como señal a base ambiental petrista.",
-      "fuente": "La FM"
+      "titular": "Simpatizantes de De la Espriella en Londres denuncian presunta desigualdad en selección de jurados",
+      "contexto": "Seguidores del candidato de derecha reportan irregularidades en conformación de mesas de votación en Reino Unido. Primera alerta específica sobre proceso electoral en el exterior donde vota población con perfil mayoritariamente opositor a Petro. Registraduría ya desplegó 65 delegados para supervisión.",
+      "fuente": "El Tiempo"
     }
   ],
-  "para_estar_atento": "Arranca próximamente votación anticipada en el exterior con 1,4 millones de habilitados. Cierre oficial de campaña a mitad de semana definirá capacidades reales de movilización final. Seguimiento a nuevas intervenciones presidenciales que podrían activar último voto antioficialista."
+  "para_estar_atento": "Inicia votación anticipada en el exterior esta semana con 1,4 millones de habilitados. Seguimiento a reacción de Petro ante suspensión de Arizabaleta y si mantiene silencio sobre reconocimiento de resultados. Cierre oficial de campaña a mitad de semana mostrará capacidades finales de movilización de ambos candidatos."
 }
