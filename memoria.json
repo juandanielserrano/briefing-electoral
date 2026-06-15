@@ -1,39 +1,39 @@
 {
-  "fecha": "domingo 14 de junio de 2026",
-  "hora": "17:01",
-  "titular_del_dia": "Petro cancela gira y declara empate técnico mientras las encuestas mantienen ventaja de De la Espriella",
-  "editorial": "A siete días del balotaje, la campaña oficial colapsa. Petro cancela en secreto su gira nacional prevista para esta semana final, señal de repliegue táctico o anticipación de derrota. Simultáneamente declara 'empate técnico' cuando todas las mediciones mantienen ventaja de De la Espriella entre 6 y 7 puntos. El ponderador de La Silla ratifica 51-44. La estrategia de Cepeda fragmenta: cierra en Bogotá y Bucaramanga, ausente del resto del país. De la Espriella capitaliza terreno publicando historia clínica completa, movimiento inédito que controla narrativa y exhiba transparencia. La guerra jurídica arrecia: Néstor Humberto Martínez denuncia contactos de Cepeda con Clan del Golfo en 2016, mientras irregularidades en propaganda oficial (San Gil, Bolívar) multiplican denuncias. Ambiente electoral se degrada: Defensoría alerta deterioro democrático, MinDefensa prohibirá celulares en mesas. La carrera está matemáticamente definida salvo evento extraordinario.",
+  "fecha": "lunes 15 de junio de 2026",
+  "hora": "06:01",
+  "titular_del_dia": "A seis días del balotaje, De la Espriella mantiene ventaja mientras denuncias cruzadas marcan cierres de campaña",
+  "editorial": "La campaña cierra con las matemáticas intactas y la narrativa degradada. De la Espriella mantiene 6-7 puntos de ventaja en todas las mediciones mientras Cepeda fragmenta territorio: cerró en Soledad y Bogotá, ausente del resto del país. La última semana exhibe repliegue táctico del oficialismo tras cancelación secreta de gira presidencial. El deterioro del debate alcanza nuevo nivel: De la Espriella denuncia amenazas de grupos armados en Cauca y Nariño con castigos colectivos si aparecen votos a su favor, señalamiento grave que eleva tensión institucional. Simultáneamente acusa al gobernador de Nariño de constreñimiento electoral. La votación en exterior arranca hoy con 1,4 millones habilitados. Sin evento extraordinario, la elección está matemáticamente definida. La pregunta ya no es quién gana sino con qué margen y en qué ambiente institucional se reconocerá el resultado.",
   "noticias": [
     {
-      "titular": "Petro cancela en secreto gira nacional prevista para última semana de campaña",
-      "contexto": "El presidente suspendió recorrido territorial planeado para apoyar a Cepeda en recta final. Movimiento no anunciado oficialmente marca repliegue del oficialismo en fase decisiva.",
-      "fuente": "El Tiempo"
+      "titular": "De la Espriella denuncia que grupos armados en Cauca y Nariño amenazan con castigos colectivos si aparecen votos a su favor",
+      "contexto": "Candidato opositor hace denuncia grave sobre presión armada territorial durante cierre de campaña en Buga. Acusa directamente al gobernador de Nariño de ser 'bandido' por presunto constreñimiento electoral. Escalada de denuncias sobre integridad del proceso.",
+      "fuente": "El Tiempo / La FM / Semana"
     },
     {
-      "titular": "Petro habla de 'empate técnico' pero De la Espriella lidera todas las mediciones por 6-7 puntos",
-      "contexto": "Presidente contradice evidencia empírica al declarar empate cuando encuestas muestran ventaja consistente de opositor. Primera desconexión pública del oficialismo con datos duros.",
-      "fuente": "El Tiempo"
+      "titular": "Registraduría abre votación anticipada en exterior con 1,4 millones de colombianos habilitados para segunda vuelta",
+      "contexto": "Inicia hoy lunes la jornada electoral anticipada para colombianos en el exterior, seis días antes del balotaje nacional. Primer indicador cuantitativo de movilización electoral antes del domingo.",
+      "fuente": "La FM"
     },
     {
-      "titular": "De la Espriella publica historia clínica completa, Petro responde cuestionando violación de privacidad",
-      "contexto": "Candidato opositor hace públicos exámenes médicos en movimiento sin precedente. Petro contraataca afirmando que historia clínica está protegida, sin mostrar la suya pese a decir que lo haría.",
-      "fuente": "La FM / La Silla Vacía"
+      "titular": "Expresidente César Gaviria sometido a cirugía abdominal y permanece en recuperación en Bogotá",
+      "contexto": "Líder liberal y figura clave del centrismo que respaldó a De la Espriella fue intervenido quirúrgicamente. Su ausencia pública en recta final de campaña por razones de salud. Evoluciona favorablemente según fuentes oficiales.",
+      "fuente": "El Colombiano / La FM / Blu Radio"
     },
     {
-      "titular": "Néstor Humberto Martínez denuncia en columna 'turbios contactos' de Cepeda con Clan del Golfo en 2016",
-      "contexto": "Exfiscal publica acusación sobre presuntos vínculos del candidato de izquierda con estructura criminal durante plebiscito. Guerra sucia jurídica escala en fase final.",
-      "fuente": "El Tiempo"
+      "titular": "Cierres de campaña: De la Espriella en Buga con llamado religioso, Cepeda en Soledad y Bogotá sin presencia nacional",
+      "contexto": "Candidato opositor cierra en Buga (Valle) pidiendo 'sanación de la Nación', estrategia de tono conciliador. Cepeda concentra actos en Soledad (Atlántico) y Bogotá, confirmando repliegue territorial ya denunciado. Contraste geográfico marca diferencia de capacidad de movilización.",
+      "fuente": "El Tiempo / La FM / El Colombiano"
     },
     {
-      "titular": "Polémica por propaganda de Cepeda en fachada de Alcaldía de San Gil y denuncia contra gobernador de Cesar",
-      "contexto": "Publicidad electoral del candidato oficial aparece en edificio municipal de Santander. Por separado, interponen queja contra gobernador Zuleta por propaganda a De la Espriella en Feria Ganadera. Multiplicación de irregularidades institucionales.",
-      "fuente": "La FM / El Tiempo"
+      "titular": "De la Espriella declara objetivos militares a cabecillas de grupos armados ilegales",
+      "contexto": "Candidato opositor anuncia que de llegar a presidencia declarará objetivo militar a líderes de estructuras criminales. Endurecimiento de discurso de seguridad en fase final de campaña, diferenciándose de política de paz total.",
+      "fuente": "La FM"
     },
     {
-      "titular": "MinDefensa anuncia decreto que prohibirá uso de celulares en mesas de votación para evitar constreñimiento",
-      "contexto": "Medida preventiva ante riesgo de presión electoral y documentación indebida en jornada. Señal de preocupación oficial por integridad del proceso.",
+      "titular": "Cepeda promete cerrar definitivamente la puerta al fracking si gana la Presidencia",
+      "contexto": "Candidato oficialista ratifica compromiso de prohibición total de exploración no convencional en recta final. Apuesta por consolidar voto ambientalista y de izquierda dura ante estrechez de margen. Diferenciación clara con postura de De la Espriella favorable a exploración.",
       "fuente": "La FM"
     }
   ],
-  "para_estar_atento": "Inicia votación anticipada en exterior esta semana con 1,4 millones habilitados. Cierre oficial de campaña miércoles 17 muestra capacidad final de movilización. Seguimiento a si Petro reconoce resultados de primera vuelta antes del domingo."
+  "para_estar_atento": "Resultados de votación en exterior esta semana darán primer indicador cuantitativo de movilización. MinDefensa adelanta PMU y prohíbe celulares en mesas para garantizar integridad. Seguimiento crítico: si Petro reconoce públicamente resultados de primera vuelta antes del domingo 21."
 }
