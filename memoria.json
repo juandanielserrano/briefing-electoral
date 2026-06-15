@@ -1,39 +1,39 @@
 {
   "fecha": "lunes 15 de junio de 2026",
-  "hora": "06:01",
-  "titular_del_dia": "A seis días del balotaje, De la Espriella mantiene ventaja mientras denuncias cruzadas marcan cierres de campaña",
-  "editorial": "La campaña cierra con las matemáticas intactas y la narrativa degradada. De la Espriella mantiene 6-7 puntos de ventaja en todas las mediciones mientras Cepeda fragmenta territorio: cerró en Soledad y Bogotá, ausente del resto del país. La última semana exhibe repliegue táctico del oficialismo tras cancelación secreta de gira presidencial. El deterioro del debate alcanza nuevo nivel: De la Espriella denuncia amenazas de grupos armados en Cauca y Nariño con castigos colectivos si aparecen votos a su favor, señalamiento grave que eleva tensión institucional. Simultáneamente acusa al gobernador de Nariño de constreñimiento electoral. La votación en exterior arranca hoy con 1,4 millones habilitados. Sin evento extraordinario, la elección está matemáticamente definida. La pregunta ya no es quién gana sino con qué margen y en qué ambiente institucional se reconocerá el resultado.",
+  "hora": "17:01",
+  "titular_del_dia": "Cepeda contraataca con denuncia penal contra De la Espriella por saqueo en salud mientras Procuraduría investiga propaganda oficial",
+  "editorial": "La campaña abandona definitivamente el terreno programático y se convierte en intercambio de denuncias penales cruzadas. Cepeda interpone hoy ante Fiscalía acusación contra De la Espriella por presunta participación en saqueo de recursos de Salud Vida EPS, movimiento táctico que busca erosionar la ventaja del opositor usando su propio pasado como abogado del sector salud. Simultáneamente, Procuraduría abre investigación contra gobernador Zuleta por propaganda oficial a favor de De la Espriella en Feria Ganadera de Córdoba. Las matemáticas no se mueven: CB Global Data confirma ventaja de 6-7 puntos. Lo que está en juego ya no es quién gana sino con qué nivel de legitimidad mutua se reconocerá el resultado. Petro permanece ausente del reconocimiento de primera vuelta. La votación en exterior arrancó hoy sin incidentes reportados.",
   "noticias": [
     {
-      "titular": "De la Espriella denuncia que grupos armados en Cauca y Nariño amenazan con castigos colectivos si aparecen votos a su favor",
-      "contexto": "Candidato opositor hace denuncia grave sobre presión armada territorial durante cierre de campaña en Buga. Acusa directamente al gobernador de Nariño de ser 'bandido' por presunto constreñimiento electoral. Escalada de denuncias sobre integridad del proceso.",
-      "fuente": "El Tiempo / La FM / Semana"
-    },
-    {
-      "titular": "Registraduría abre votación anticipada en exterior con 1,4 millones de colombianos habilitados para segunda vuelta",
-      "contexto": "Inicia hoy lunes la jornada electoral anticipada para colombianos en el exterior, seis días antes del balotaje nacional. Primer indicador cuantitativo de movilización electoral antes del domingo.",
+      "titular": "Cepeda interpone denuncia penal ante Fiscalía contra De la Espriella por presunta participación en saqueo de Salud Vida EPS",
+      "contexto": "Candidato oficialista pasa de la denuncia política a la acción judicial. Presentará ante Fiscalía caso relacionado con empresa de salud donde De la Espriella ejerció como abogado. Contraataque directo en recta final.",
       "fuente": "La FM"
     },
     {
-      "titular": "Expresidente César Gaviria sometido a cirugía abdominal y permanece en recuperación en Bogotá",
-      "contexto": "Líder liberal y figura clave del centrismo que respaldó a De la Espriella fue intervenido quirúrgicamente. Su ausencia pública en recta final de campaña por razones de salud. Evoluciona favorablemente según fuentes oficiales.",
-      "fuente": "El Colombiano / La FM / Blu Radio"
+      "titular": "Procuraduría investiga al gobernador Erasmo Zuleta por presunta propaganda política con recursos públicos en Feria Ganadera de Córdoba",
+      "contexto": "Órgano de control abre investigación formal contra mandatario regional por posible promoción electoral a favor de De la Espriella durante evento oficial. Desarrollo nuevo: la queja anunciada días atrás se convierte en investigación disciplinaria.",
+      "fuente": "El Colombiano"
     },
     {
-      "titular": "Cierres de campaña: De la Espriella en Buga con llamado religioso, Cepeda en Soledad y Bogotá sin presencia nacional",
-      "contexto": "Candidato opositor cierra en Buga (Valle) pidiendo 'sanación de la Nación', estrategia de tono conciliador. Cepeda concentra actos en Soledad (Atlántico) y Bogotá, confirmando repliegue territorial ya denunciado. Contraste geográfico marca diferencia de capacidad de movilización.",
-      "fuente": "El Tiempo / La FM / El Colombiano"
+      "titular": "Néstor Humberto Martínez denuncia en columna 'turbios contactos' de Cepeda con Clan del Golfo en vísperas del plebiscito de 2016",
+      "contexto": "Expresidente de la Corte y exfiscal General publica acusación grave contra candidato oficialista vinculándolo con organización criminal. Escalada del ataque de figuras jurídicas de peso contra Cepeda en fase final.",
+      "fuente": "El Tiempo"
     },
     {
-      "titular": "De la Espriella declara objetivos militares a cabecillas de grupos armados ilegales",
-      "contexto": "Candidato opositor anuncia que de llegar a presidencia declarará objetivo militar a líderes de estructuras criminales. Endurecimiento de discurso de seguridad en fase final de campaña, diferenciándose de política de paz total.",
-      "fuente": "La FM"
+      "titular": "Defensoría del Pueblo alerta por desinformación y ataques que marcan recta final de campaña presidencial",
+      "contexto": "Órgano de control advierte deterioro institucional del debate democrático a días de la votación. Señalamiento oficial sobre calidad del cierre de campaña confirma degradación denunciada por observadores.",
+      "fuente": "El Tiempo"
     },
     {
-      "titular": "Cepeda promete cerrar definitivamente la puerta al fracking si gana la Presidencia",
-      "contexto": "Candidato oficialista ratifica compromiso de prohibición total de exploración no convencional en recta final. Apuesta por consolidar voto ambientalista y de izquierda dura ante estrechez de margen. Diferenciación clara con postura de De la Espriella favorable a exploración.",
-      "fuente": "La FM"
+      "titular": "Invamer desmiente encuesta falsa que circula en redes sobre segunda vuelta presidencial",
+      "contexto": "Firma encuestadora confirma que imagen viral con supuestos resultados es fabricada. Primer caso documentado de desinformación electoral mediante encuesta apócrifa en esta campaña.",
+      "fuente": "El Tiempo"
+    },
+    {
+      "titular": "Thierry Ways publica 'cartilla para indecisos' con seis argumentos para votantes que aún dudan",
+      "contexto": "Analista independiente sistematiza herramienta de decisión para el segmento que define elección. Reconocimiento implícito de que existe margen significativo de voto todavía no consolidado pese a proximidad de jornada.",
+      "fuente": "El Tiempo"
     }
   ],
-  "para_estar_atento": "Resultados de votación en exterior esta semana darán primer indicador cuantitativo de movilización. MinDefensa adelanta PMU y prohíbe celulares en mesas para garantizar integridad. Seguimiento crítico: si Petro reconoce públicamente resultados de primera vuelta antes del domingo 21."
+  "para_estar_atento": "Seguimiento crítico a resultados de votación en exterior durante esta semana como primer indicador cuantitativo de movilización. Verificar si Procuraduría avanza investigación contra Zuleta antes del domingo. Observar si Fiscalía da curso inmediato a denuncia de Cepeda contra De la Espriella o la archiva por extemporánea."
 }
