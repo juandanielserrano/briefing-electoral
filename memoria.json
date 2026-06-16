@@ -1,39 +1,39 @@
 {
-  "fecha": "lunes 15 de junio de 2026",
-  "hora": "17:01",
-  "titular_del_dia": "Cepeda contraataca con denuncia penal contra De la Espriella por saqueo en salud mientras Procuraduría investiga propaganda oficial",
-  "editorial": "La campaña abandona definitivamente el terreno programático y se convierte en intercambio de denuncias penales cruzadas. Cepeda interpone hoy ante Fiscalía acusación contra De la Espriella por presunta participación en saqueo de recursos de Salud Vida EPS, movimiento táctico que busca erosionar la ventaja del opositor usando su propio pasado como abogado del sector salud. Simultáneamente, Procuraduría abre investigación contra gobernador Zuleta por propaganda oficial a favor de De la Espriella en Feria Ganadera de Córdoba. Las matemáticas no se mueven: CB Global Data confirma ventaja de 6-7 puntos. Lo que está en juego ya no es quién gana sino con qué nivel de legitimidad mutua se reconocerá el resultado. Petro permanece ausente del reconocimiento de primera vuelta. La votación en exterior arrancó hoy sin incidentes reportados.",
+  "fecha": "martes 16 de junio de 2026",
+  "hora": "06:01",
+  "titular_del_dia": "Petro cancela gira de cierre mientras PMU se activa para vigilar disturbios electorales",
+  "editorial": "A cinco días de la votación, el oficialismo retira su activo más volátil: Petro cancela en secreto la gira nacional prevista para esta semana final, admisión tácita de que su presencia moviliza más rechazo que adhesión. Mientras tanto, las autoridades instalan el Puesto de Mando Unificado anticipando disturbios postelectorales, señal de que el Estado mismo considera probable el conflicto social. Las matemáticas permanecen inmóviles: De la Espriella mantiene 6-7 puntos de ventaja en todas las mediciones. Lo relevante ya no es el resultado sino la preparación institucional para gestionarlo. La campaña cerró con denuncias cruzadas de constreñimiento: De la Espriella señala al gobernador de Nariño, al de Boyacá y a grupos armados; Cepeda denuncia propaganda oficial en San Gil. El país vota el domingo con las instituciones en alerta roja.",
   "noticias": [
     {
-      "titular": "Cepeda interpone denuncia penal ante Fiscalía contra De la Espriella por presunta participación en saqueo de Salud Vida EPS",
-      "contexto": "Candidato oficialista pasa de la denuncia política a la acción judicial. Presentará ante Fiscalía caso relacionado con empresa de salud donde De la Espriella ejerció como abogado. Contraataque directo en recta final.",
+      "titular": "Petro cancela en secreto gira nacional prevista para última semana de campaña",
+      "contexto": "El presidente suspende sin anuncio público los eventos de cierre previstos en apoyo a Cepeda. Confirmación de que el oficialismo considera su presencia contraproducente en zonas competidas.",
+      "fuente": "El Tiempo"
+    },
+    {
+      "titular": "Autoridades instalan PMU para garantizar seguridad electoral ante riesgo de disturbios",
+      "contexto": "Puesto de Mando Unificado se activa formalmente hoy. Registrador hace llamado público a candidatos para que insten al respeto de resultados. Preparación institucional para escenario de conflicto postelectoral.",
       "fuente": "La FM"
     },
     {
-      "titular": "Procuraduría investiga al gobernador Erasmo Zuleta por presunta propaganda política con recursos públicos en Feria Ganadera de Córdoba",
-      "contexto": "Órgano de control abre investigación formal contra mandatario regional por posible promoción electoral a favor de De la Espriella durante evento oficial. Desarrollo nuevo: la queja anunciada días atrás se convierte en investigación disciplinaria.",
+      "titular": "De la Espriella denuncia a gobernador de Nariño por constreñimiento electoral en cierre de campaña",
+      "contexto": "Durante evento de cierre en Buga, candidato acusa directamente al mandatario regional de presiones sobre funcionarios. Se suma a denuncias previas contra Zuleta (Córdoba) y Amaya (Boyacá).",
+      "fuente": "La FM"
+    },
+    {
+      "titular": "De la Espriella denuncia que grupos armados aplicarían castigos colectivos en municipios donde obtenga votos",
+      "contexto": "Candidato advierte sobre amenazas de violencia postelectoral por parte de estructuras ilegales en zonas de control territorial. Eleva tono de denuncia sobre presión armada en recta final.",
+      "fuente": "Semana"
+    },
+    {
+      "titular": "Polémica por publicidad de Cepeda en fachada de Alcaldía de San Gil, Santander",
+      "contexto": "Se documenta nuevo caso de presunta propaganda oficial. Alcaldía responde a cuestionamientos por instalación de material electoral en edificio público durante campaña.",
+      "fuente": "La FM"
+    },
+    {
+      "titular": "Registrador declara haberse acostado inquieto el día de primera vuelta pero respiró tranquilo a las 4 a.m.",
+      "contexto": "Hernán Penagos revela en entrevista su preocupación operativa durante jornada de votación. Implícitamente confirma que existían riesgos de alteración del proceso que finalmente no se materializaron.",
       "fuente": "El Colombiano"
-    },
-    {
-      "titular": "Néstor Humberto Martínez denuncia en columna 'turbios contactos' de Cepeda con Clan del Golfo en vísperas del plebiscito de 2016",
-      "contexto": "Expresidente de la Corte y exfiscal General publica acusación grave contra candidato oficialista vinculándolo con organización criminal. Escalada del ataque de figuras jurídicas de peso contra Cepeda en fase final.",
-      "fuente": "El Tiempo"
-    },
-    {
-      "titular": "Defensoría del Pueblo alerta por desinformación y ataques que marcan recta final de campaña presidencial",
-      "contexto": "Órgano de control advierte deterioro institucional del debate democrático a días de la votación. Señalamiento oficial sobre calidad del cierre de campaña confirma degradación denunciada por observadores.",
-      "fuente": "El Tiempo"
-    },
-    {
-      "titular": "Invamer desmiente encuesta falsa que circula en redes sobre segunda vuelta presidencial",
-      "contexto": "Firma encuestadora confirma que imagen viral con supuestos resultados es fabricada. Primer caso documentado de desinformación electoral mediante encuesta apócrifa en esta campaña.",
-      "fuente": "El Tiempo"
-    },
-    {
-      "titular": "Thierry Ways publica 'cartilla para indecisos' con seis argumentos para votantes que aún dudan",
-      "contexto": "Analista independiente sistematiza herramienta de decisión para el segmento que define elección. Reconocimiento implícito de que existe margen significativo de voto todavía no consolidado pese a proximidad de jornada.",
-      "fuente": "El Tiempo"
     }
   ],
-  "para_estar_atento": "Seguimiento crítico a resultados de votación en exterior durante esta semana como primer indicador cuantitativo de movilización. Verificar si Procuraduría avanza investigación contra Zuleta antes del domingo. Observar si Fiscalía da curso inmediato a denuncia de Cepeda contra De la Espriella o la archiva por extemporánea."
+  "para_estar_atento": "Seguimiento a desarrollo del PMU y eventuales alertas de seguridad durante esta semana. Verificar si Procuraduría avanza investigación contra gobernadores antes del domingo. Monitorear cierre de votación en exterior como primer indicador cuantitativo de movilización."
 }
