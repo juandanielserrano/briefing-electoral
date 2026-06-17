@@ -1,39 +1,39 @@
 {
-  "fecha": "martes 16 de junio de 2026",
-  "hora": "17:01",
-  "titular_del_dia": "Cepeda anuncia 'acuerdo con el centro' mientras campaña de De la Espriella denuncia coacción armada en suroccidente",
-  "editorial": "A cinco días de la votación, la carrera permanece congelada numéricamente pero en ebullición táctica. De la Espriella mantiene seis puntos de ventaja mientras su campaña eleva el tono sobre coacción armada en suroccidente, complementando denuncias previas contra gobernadores con señalamientos territoriales más amplios. Cepeda ejecuta su última jugada: anuncia 'avance de acuerdo con el centro' tras reunirse con sectores centristas y ratifica el abandono táctico de la constituyente como prioridad. La estrategia es transparente: busca votos de Londoño y Benedetti ofreciendo moderación programática. Mientras tanto, el aparato de vigilancia estatal se expande: la Policía sube a 99 los municipios con riesgo electoral (antes 85), la Defensoría alerta sobre desinformación en recta final, y el CNE registra incremento en testigos electorales. El país no vota aún, pero ya se prepara institucionalmente para gestionar el resultado.",
+  "fecha": "miércoles 17 de junio de 2026",
+  "hora": "06:01",
+  "titular_del_dia": "Petro escala confrontación institucional mientras Cepeda formaliza viraje al centro con Juvinao",
+  "editorial": "A cuatro días de la votación, la campaña se fragmenta en tres frentes paralelos. De la Espriella mantiene su ventaja estructural sin grandes movimientos, concentrado en gestión territorial y mensajes económicos (refinanciación de deuda externa). Cepeda ejecuta la segunda fase de su pivote centrista: tras ratificar el abandono de la constituyente, ahora formaliza acuerdo programático con Catherine Juvinao, recién escindida del Verde. El movimiento busca capturar voto urbano ilustrado, pero ocurre tarde y sin López confirmada. Mientras tanto, el verdadero acontecimiento es la judicialización de Petro: un juez le prohíbe usar redes y alocuciones para pronunciarse sobre elecciones. El presidente responde ordenando acciones legales y denunciando restricciones a testigos electorales en consulados. La polarización ya no es sólo entre candidatos: es entre el oficialismo saliente y el aparato judicial.",
   "noticias": [
     {
-      "titular": "Cepeda anuncia avance de acuerdo con sectores de centro e izquierda y ratifica que constituyente 'no será prioridad'",
-      "contexto": "Tras reunirse con sectores centristas y constituyentes, Cepeda hace explícito el abandono de la constituyente como bandera. Busca capturar voto del centro ofreciendo moderación programática en última semana.",
+      "titular": "Juez ordena a Petro no usar X ni alocuciones para participación en política; presidente anuncia acciones legales",
+      "contexto": "Tutela judicial prohíbe al mandatario pronunciarse sobre elecciones por canales oficiales. Petro rechaza la orden y ordena a sus abogados actuar. Escalamiento de la confrontación institucional en semana electoral.",
       "fuente": "La FM"
     },
     {
-      "titular": "Campaña de De la Espriella denuncia que grupos armados están forzando el voto en suroccidente del país",
-      "contexto": "Nuevo señalamiento territorial que amplía denuncias previas contra gobernadores. La campaña eleva narrativa sobre coacción armada en zonas específicas a cinco días de votación.",
-      "fuente": "Blu Radio"
+      "titular": "Petro denuncia que en algunos consulados no permiten ingreso de testigos electorales y reclama a Cancillería",
+      "contexto": "Presidente señala restricciones al voto en el exterior mientras votación transcurre (cierra hoy miércoles). Suma a narrativa oficialista sobre obstaculización del proceso.",
+      "fuente": "La FM"
     },
     {
-      "titular": "Policía sube a 99 los municipios con riesgos electorales, 14 más que la cifra anterior",
-      "contexto": "Ampliación del perímetro de alerta territorial. Confirma extensión del despliegue de seguridad en zonas de control armado y presión electoral.",
+      "titular": "Catherine Juvinao anuncia acuerdo programático con Cepeda tras escisión del Verde",
+      "contexto": "Tras consumarse separación formal del partido, Juvinao formaliza respaldo a Cepeda con acuerdo de contenido. Movimiento complementa estrategia centrista; La FM especula que López podría sumarse esta semana.",
+      "fuente": "La FM / La Silla Vacía"
+    },
+    {
+      "titular": "Efraín Cepeda propone reconocimiento de resultados como 'primer pacto electoral' de segunda vuelta",
+      "contexto": "Senador conservador hace llamado público a todos los sectores para respetar resultados. Se suma a coro institucional que busca blindar legitimidad ante temor de crisis postelectoral.",
       "fuente": "El Tiempo"
     },
     {
-      "titular": "Defensoría alerta sobre desinformación y ataques que marcan recta final de campaña presidencial",
-      "contexto": "Llamado institucional sobre deterioro del debate público en últimos días. Se suma a advertencias previas del Registrador y señales de preparación para gestión de crisis postelectoral.",
+      "titular": "Cepeda publica certificado médico para desmentir rumores sobre su estado de salud",
+      "contexto": "Candidato exhibe documento que confirma ausencia de recaídas tras superar cáncer en 2022. Responde a campaña de desinformación sobre su capacidad física en recta final.",
+      "fuente": "La FM / La Silla Vacía"
+    },
+    {
+      "titular": "Petro cancela en secreto gira nacional prevista para última semana de campaña",
+      "contexto": "Presidente suspende eventos territoriales programados sin anuncio público. Movimiento coincide con restricción judicial y señala repliegue estratégico del oficialismo en cierre.",
       "fuente": "El Tiempo"
-    },
-    {
-      "titular": "La Silla Vacía revela que campaña de De la Espriella pagó $1.299 millones a 'empresa fantasma'",
-      "contexto": "Primera cuestionamiento financiero documentado sobre gastos de campaña del candidato puntero. Ocurre en semana final sin tiempo para desarrollo judicial.",
-      "fuente": "La Silla Vacía"
-    },
-    {
-      "titular": "Abren investigación a magistrado que ordenó a De la Espriella no usar símbolos patrios en campaña",
-      "contexto": "Desarrollo de controversia por tutela que prohibió uso de frase 'Firmes por la Patria'. Confirma judicialización de elementos simbólicos de campaña.",
-      "fuente": "Blu Radio"
     }
   ],
-  "para_estar_atento": "Verificar si Claudia López anuncia formalmente respaldo a Cepeda esta semana, como especula La FM. Monitorear evolución de denuncia de La Silla Vacía sobre pagos de campaña de De la Espriella. Seguir votación en el exterior (cierra mañana miércoles) como primer indicador cuantitativo de movilización."
+  "para_estar_atento": "Cierre de votación en el exterior hoy miércoles dará primer indicador cuantitativo de movilización. Verificar si Claudia López formaliza respaldo a Cepeda esta semana. Seguir evolución de restricción judicial a Petro y posible respuesta del oficialismo."
 }
