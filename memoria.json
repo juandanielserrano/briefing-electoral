@@ -1,39 +1,39 @@
 {
   "fecha": "miércoles 17 de junio de 2026",
-  "hora": "06:01",
-  "titular_del_dia": "Petro escala confrontación institucional mientras Cepeda formaliza viraje al centro con Juvinao",
-  "editorial": "A cuatro días de la votación, la campaña se fragmenta en tres frentes paralelos. De la Espriella mantiene su ventaja estructural sin grandes movimientos, concentrado en gestión territorial y mensajes económicos (refinanciación de deuda externa). Cepeda ejecuta la segunda fase de su pivote centrista: tras ratificar el abandono de la constituyente, ahora formaliza acuerdo programático con Catherine Juvinao, recién escindida del Verde. El movimiento busca capturar voto urbano ilustrado, pero ocurre tarde y sin López confirmada. Mientras tanto, el verdadero acontecimiento es la judicialización de Petro: un juez le prohíbe usar redes y alocuciones para pronunciarse sobre elecciones. El presidente responde ordenando acciones legales y denunciando restricciones a testigos electorales en consulados. La polarización ya no es sólo entre candidatos: es entre el oficialismo saliente y el aparato judicial.",
+  "hora": "17:01",
+  "titular_del_dia": "Claudia López anuncia voto por Cepeda mientras Milei respalda a De la Espriella",
+  "editorial": "A cuatro días de la votación, la internacionalización marca las últimas 24 horas. Milei se convierte en el primer mandatario en respaldar públicamente a De la Espriella, gesto que refuerza su perfil regional pero con riesgo de activar rechazo en sectores moderados. En paralelo, Claudia López formaliza su voto por Cepeda sin adhesión orgánica, en un movimiento calculado que cierra el cerco de respaldos centristas pero sin capacidad demostrada de arrastre electoral. De la Espriella mantiene ventaja estructural de 7-8 puntos mientras escala su ofensiva sobre las zonas de ubicación temporal con disidencias, buscando vincular directamente a Cepeda con la política de paz de Petro. El oficialismo, restringido judicialmente, opera a través de proxies institucionales. La Procuraduría abre investigación contra siete embajadores por participación política, señal de que el aparato de control mantiene activismo hasta el último día.",
   "noticias": [
     {
-      "titular": "Juez ordena a Petro no usar X ni alocuciones para participación en política; presidente anuncia acciones legales",
-      "contexto": "Tutela judicial prohíbe al mandatario pronunciarse sobre elecciones por canales oficiales. Petro rechaza la orden y ordena a sus abogados actuar. Escalamiento de la confrontación institucional en semana electoral.",
-      "fuente": "La FM"
-    },
-    {
-      "titular": "Petro denuncia que en algunos consulados no permiten ingreso de testigos electorales y reclama a Cancillería",
-      "contexto": "Presidente señala restricciones al voto en el exterior mientras votación transcurre (cierra hoy miércoles). Suma a narrativa oficialista sobre obstaculización del proceso.",
-      "fuente": "La FM"
-    },
-    {
-      "titular": "Catherine Juvinao anuncia acuerdo programático con Cepeda tras escisión del Verde",
-      "contexto": "Tras consumarse separación formal del partido, Juvinao formaliza respaldo a Cepeda con acuerdo de contenido. Movimiento complementa estrategia centrista; La FM especula que López podría sumarse esta semana.",
-      "fuente": "La FM / La Silla Vacía"
-    },
-    {
-      "titular": "Efraín Cepeda propone reconocimiento de resultados como 'primer pacto electoral' de segunda vuelta",
-      "contexto": "Senador conservador hace llamado público a todos los sectores para respetar resultados. Se suma a coro institucional que busca blindar legitimidad ante temor de crisis postelectoral.",
+      "titular": "Javier Milei, presidente de Argentina, anuncia respaldo público a De la Espriella",
+      "contexto": "Primer mandatario extranjero en pronunciarse. Declaró que 'el camino es claro' en apoyo al candidato de derecha. Movimiento inusual que internacionaliza la campaña en recta final.",
       "fuente": "El Tiempo"
     },
     {
-      "titular": "Cepeda publica certificado médico para desmentir rumores sobre su estado de salud",
-      "contexto": "Candidato exhibe documento que confirma ausencia de recaídas tras superar cáncer en 2022. Responde a campaña de desinformación sobre su capacidad física en recta final.",
-      "fuente": "La FM / La Silla Vacía"
+      "titular": "Claudia López anuncia que votará por Iván Cepeda: 'Reconozco su talante serio y conciliador'",
+      "contexto": "Exconcejal formaliza su respaldo sin adhesión orgánica. Cierra el círculo de apoyos centristas anticipado desde días previos. López aclara que es voto personal, no movilización de estructura.",
+      "fuente": "El Tiempo / La FM"
     },
     {
-      "titular": "Petro cancela en secreto gira nacional prevista para última semana de campaña",
-      "contexto": "Presidente suspende eventos territoriales programados sin anuncio público. Movimiento coincide con restricción judicial y señala repliegue estratégico del oficialismo en cierre.",
+      "titular": "De la Espriella acusa a Petro y Cepeda de manipulación electoral por suspender operaciones contra disidencias",
+      "contexto": "Candidato de derecha cuestiona inicio de zonas de ubicación temporal con disidencias de Walter Mendoza en plena semana electoral. Busca vincular directamente a Cepeda con decisiones del gobierno saliente sobre paz.",
+      "fuente": "El Tiempo / La FM"
+    },
+    {
+      "titular": "Procuraduría abre investigación contra siete embajadores por presunta participación en política",
+      "contexto": "Ministerio Público actúa a cuatro días de la segunda vuelta contra representantes diplomáticos por presunta participación indebida en campaña. Movimiento que suma a judicialización del ciclo electoral.",
+      "fuente": "La FM / Semana"
+    },
+    {
+      "titular": "Más de 50 organizaciones hacen llamado a reconocer resultados electorales",
+      "contexto": "Sociedad civil amplifica coro institucional por respeto al resultado. Se suma a declaraciones previas de Procurador, Contralor e Iglesia Católica ante temor de crisis postelectoral.",
+      "fuente": "El Tiempo"
+    },
+    {
+      "titular": "Petro retoma giras de 'balance de gobierno' en Medellín, Cali y Villavicencio",
+      "contexto": "Presidente reactiva agenda territorial tras haberla cancelado días atrás. Denomina los eventos como 'balance de gobierno' para sortear restricción judicial sobre participación electoral directa.",
       "fuente": "El Tiempo"
     }
   ],
-  "para_estar_atento": "Cierre de votación en el exterior hoy miércoles dará primer indicador cuantitativo de movilización. Verificar si Claudia López formaliza respaldo a Cepeda esta semana. Seguir evolución de restricción judicial a Petro y posible respuesta del oficialismo."
+  "para_estar_atento": "Cierre de jornada electoral en el exterior hoy miércoles dará primer indicador de movilización. Verificar si respaldo de Milei genera reacción de otros mandatarios regionales o activa rechazo en votantes indecisos. Seguir si gobierno responde judicialmente a investigación de embajadores."
 }
