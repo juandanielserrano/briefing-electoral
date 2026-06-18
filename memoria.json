@@ -1,39 +1,39 @@
 {
-  "fecha": "miércoles 17 de junio de 2026",
-  "hora": "17:01",
-  "titular_del_dia": "Claudia López anuncia voto por Cepeda mientras Milei respalda a De la Espriella",
-  "editorial": "A cuatro días de la votación, la internacionalización marca las últimas 24 horas. Milei se convierte en el primer mandatario en respaldar públicamente a De la Espriella, gesto que refuerza su perfil regional pero con riesgo de activar rechazo en sectores moderados. En paralelo, Claudia López formaliza su voto por Cepeda sin adhesión orgánica, en un movimiento calculado que cierra el cerco de respaldos centristas pero sin capacidad demostrada de arrastre electoral. De la Espriella mantiene ventaja estructural de 7-8 puntos mientras escala su ofensiva sobre las zonas de ubicación temporal con disidencias, buscando vincular directamente a Cepeda con la política de paz de Petro. El oficialismo, restringido judicialmente, opera a través de proxies institucionales. La Procuraduría abre investigación contra siete embajadores por participación política, señal de que el aparato de control mantiene activismo hasta el último día.",
+  "fecha": "jueves 18 de junio de 2026",
+  "hora": "06:01",
+  "titular_del_dia": "Trump respalda a De la Espriella mientras 11 congresistas demócratas piden investigar al candidato",
+  "editorial": "La internacionalización alcanza su máxima intensidad a 72 horas del cierre. Trump convierte su respaldo público en llamado directo al voto por De la Espriella, escalando la injerencia tras el gesto inicial de Milei. En paralelo, 11 congresistas demócratas solicitan investigar presuntos vínculos del candidato con Álex Saab y las AUC, creando tensión diplomática bilateral. Petro desafía abiertamente la orden judicial que le prohibía participación electoral, atacando a De la Espriella en giras territoriales que profundizan la judicialización del ciclo. La brecha se mantiene estructural en 7-8 puntos mientras las instituciones amplifican llamados al reconocimiento de resultados, señal de que el aparato del Estado anticipa escenarios de contestación postelectoral. La votación exterior transcurrió sin incidentes, primer indicador que sugiere movilización normalizada del electorato en el exterior.",
   "noticias": [
     {
-      "titular": "Javier Milei, presidente de Argentina, anuncia respaldo público a De la Espriella",
-      "contexto": "Primer mandatario extranjero en pronunciarse. Declaró que 'el camino es claro' en apoyo al candidato de derecha. Movimiento inusual que internacionaliza la campaña en recta final.",
-      "fuente": "El Tiempo"
+      "titular": "Donald Trump pide públicamente votar por De la Espriella: 'Él no decepcionará'",
+      "contexto": "Presidente estadounidense escala más allá del respaldo inicial de Milei con un llamado directo al voto. Movimiento sin precedentes que profundiza injerencia extranjera en la recta final.",
+      "fuente": "Blu Radio"
     },
     {
-      "titular": "Claudia López anuncia que votará por Iván Cepeda: 'Reconozco su talante serio y conciliador'",
-      "contexto": "Exconcejal formaliza su respaldo sin adhesión orgánica. Cierra el círculo de apoyos centristas anticipado desde días previos. López aclara que es voto personal, no movilización de estructura.",
-      "fuente": "El Tiempo / La FM"
+      "titular": "11 congresistas estadounidenses piden investigar presuntos vínculos de De la Espriella con Saab y las AUC",
+      "contexto": "Legisladores demócratas solicitan indagación a autoridades sobre presuntas conexiones del candidato. Contraofensiva política desde Washington que tensiona relación bilateral y activa narrativa de campaña de Cepeda.",
+      "fuente": "El Colombiano"
     },
     {
-      "titular": "De la Espriella acusa a Petro y Cepeda de manipulación electoral por suspender operaciones contra disidencias",
-      "contexto": "Candidato de derecha cuestiona inicio de zonas de ubicación temporal con disidencias de Walter Mendoza en plena semana electoral. Busca vincular directamente a Cepeda con decisiones del gobierno saliente sobre paz.",
-      "fuente": "El Tiempo / La FM"
+      "titular": "Petro desacata fallo judicial y arremete contra De la Espriella en giras territoriales",
+      "contexto": "Presidente ignora restricción judicial sobre participación electoral y ataca directamente al candidato de derecha. Justifica su intervención como defensa del buen nombre, profundizando judicialización del ciclo.",
+      "fuente": "La FM"
     },
     {
-      "titular": "Procuraduría abre investigación contra siete embajadores por presunta participación en política",
-      "contexto": "Ministerio Público actúa a cuatro días de la segunda vuelta contra representantes diplomáticos por presunta participación indebida en campaña. Movimiento que suma a judicialización del ciclo electoral.",
-      "fuente": "La FM / Semana"
+      "titular": "Petro amenaza con 'decisiones' contra veedor internacional Bernie Moreno",
+      "contexto": "Mandatario sugiere posibles restricciones de ingreso al país para senador republicano que actuará como veedor. Escalada contra observación internacional que añade tensión a clima preelectoral.",
+      "fuente": "El Colombiano"
     },
     {
-      "titular": "Más de 50 organizaciones hacen llamado a reconocer resultados electorales",
-      "contexto": "Sociedad civil amplifica coro institucional por respeto al resultado. Se suma a declaraciones previas de Procurador, Contralor e Iglesia Católica ante temor de crisis postelectoral.",
-      "fuente": "El Tiempo"
+      "titular": "Disidencias de Nariño imponen toque de queda electoral y amenazan con multas a quienes no voten",
+      "contexto": "Estructuras armadas ordenan restricción de movilidad para el fin de semana electoral y advierten sanciones. Presión armada sobre votación que evidencia control territorial en zonas específicas.",
+      "fuente": "Semana"
     },
     {
-      "titular": "Petro retoma giras de 'balance de gobierno' en Medellín, Cali y Villavicencio",
-      "contexto": "Presidente reactiva agenda territorial tras haberla cancelado días atrás. Denomina los eventos como 'balance de gobierno' para sortear restricción judicial sobre participación electoral directa.",
+      "titular": "Votación en el exterior transcurre sin contratiempos: Registraduría reporta normalidad",
+      "contexto": "Primera jornada electoral concluye sin incidentes mayores. Indicador temprano de movilización que servirá como referencia para proyecciones de participación nacional.",
       "fuente": "El Tiempo"
     }
   ],
-  "para_estar_atento": "Cierre de jornada electoral en el exterior hoy miércoles dará primer indicador de movilización. Verificar si respaldo de Milei genera reacción de otros mandatarios regionales o activa rechazo en votantes indecisos. Seguir si gobierno responde judicialmente a investigación de embajadores."
+  "para_estar_atento": "Seguir si carta de congresistas demócratas genera respuesta formal de autoridades estadounidenses o colombianas. Verificar si desacato judicial de Petro activa nuevas acciones del CNE o tribunales. Primeros datos de participación en el exterior darán señal sobre movilización comparada con primera vuelta."
 }
