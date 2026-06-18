@@ -1,39 +1,39 @@
 {
   "fecha": "jueves 18 de junio de 2026",
-  "hora": "06:01",
-  "titular_del_dia": "Trump respalda a De la Espriella mientras 11 congresistas demócratas piden investigar al candidato",
-  "editorial": "La internacionalización alcanza su máxima intensidad a 72 horas del cierre. Trump convierte su respaldo público en llamado directo al voto por De la Espriella, escalando la injerencia tras el gesto inicial de Milei. En paralelo, 11 congresistas demócratas solicitan investigar presuntos vínculos del candidato con Álex Saab y las AUC, creando tensión diplomática bilateral. Petro desafía abiertamente la orden judicial que le prohibía participación electoral, atacando a De la Espriella en giras territoriales que profundizan la judicialización del ciclo. La brecha se mantiene estructural en 7-8 puntos mientras las instituciones amplifican llamados al reconocimiento de resultados, señal de que el aparato del Estado anticipa escenarios de contestación postelectoral. La votación exterior transcurrió sin incidentes, primer indicador que sugiere movilización normalizada del electorato en el exterior.",
+  "hora": "17:01",
+  "titular_del_dia": "Instituciones cierran filas ante riesgo de contestación mientras Cepeda reabre debate constituyente",
+  "editorial": "A 72 horas del cierre, el aparato institucional anticipa turbulencia postelectoral. Fuerza Pública identifica 49 puntos críticos, Defensoría reporta 161 protestas vinculadas al ciclo, MOE documenta 40 casos de constreñimiento laboral y más de 50 organizaciones exigen reconocimiento de resultados. La señal es inequívoca: el Estado se prepara para un escenario de no aceptación. En paralelo, Cepeda comete error táctico al reabrir la opción constituyente pese a haberla retirado de su programa, reactivando el vector de incertidumbre institucional que favorece a De la Espriella. La brecha se mantiene estructural en rango de 7-8 puntos. Votación exterior transcurre sin novedades, confirmando normalización del proceso en el exterior. El Congreso cierra legislatura hundiendo proyectos clave del gobierno (Ministerio de Igualdad, jurisdicción agraria), profundizando aislamiento de Petro.",
   "noticias": [
     {
-      "titular": "Donald Trump pide públicamente votar por De la Espriella: 'Él no decepcionará'",
-      "contexto": "Presidente estadounidense escala más allá del respaldo inicial de Milei con un llamado directo al voto. Movimiento sin precedentes que profundiza injerencia extranjera en la recta final.",
-      "fuente": "Blu Radio"
+      "titular": "Tribunal de Bogotá rechaza suspensión de candidatura de De la Espriella y CNE ratifica habilitación",
+      "contexto": "Doble cierre judicial: tribunal niega medida cautelar que buscaba frenar candidatura y CNE ratifica definitivamente su habilitación cerrando discusión sobre nacionalidad. Elimina último vector de incertidumbre legal sobre su postulación.",
+      "fuente": "El Tiempo / El Colombiano"
     },
     {
-      "titular": "11 congresistas estadounidenses piden investigar presuntos vínculos de De la Espriella con Saab y las AUC",
-      "contexto": "Legisladores demócratas solicitan indagación a autoridades sobre presuntas conexiones del candidato. Contraofensiva política desde Washington que tensiona relación bilateral y activa narrativa de campaña de Cepeda.",
-      "fuente": "El Colombiano"
-    },
-    {
-      "titular": "Petro desacata fallo judicial y arremete contra De la Espriella en giras territoriales",
-      "contexto": "Presidente ignora restricción judicial sobre participación electoral y ataca directamente al candidato de derecha. Justifica su intervención como defensa del buen nombre, profundizando judicialización del ciclo.",
-      "fuente": "La FM"
-    },
-    {
-      "titular": "Petro amenaza con 'decisiones' contra veedor internacional Bernie Moreno",
-      "contexto": "Mandatario sugiere posibles restricciones de ingreso al país para senador republicano que actuará como veedor. Escalada contra observación internacional que añade tensión a clima preelectoral.",
-      "fuente": "El Colombiano"
-    },
-    {
-      "titular": "Disidencias de Nariño imponen toque de queda electoral y amenazan con multas a quienes no voten",
-      "contexto": "Estructuras armadas ordenan restricción de movilidad para el fin de semana electoral y advierten sanciones. Presión armada sobre votación que evidencia control territorial en zonas específicas.",
-      "fuente": "Semana"
-    },
-    {
-      "titular": "Votación en el exterior transcurre sin contratiempos: Registraduría reporta normalidad",
-      "contexto": "Primera jornada electoral concluye sin incidentes mayores. Indicador temprano de movilización que servirá como referencia para proyecciones de participación nacional.",
+      "titular": "Cepeda no descarta constituyente pese a haberla retirado de su plan de gobierno: 'Es una posibilidad'",
+      "contexto": "Candidato reabre debate sobre constituyente tras haberla retirado formalmente de su programa. Declaración reactiva temor institucional y entrega munición a narrativa de incertidumbre que impulsa campaña de De la Espriella.",
       "fuente": "El Tiempo"
+    },
+    {
+      "titular": "MOE alerta sobre al menos 40 denuncias por constreñimiento laboral en Bogotá y Antioquia",
+      "contexto": "Misión de Observación Electoral identifica presiones laborales para incidir en votación, concentradas en dos regiones clave. Señal de movilización institucional oficialista para cerrar brecha.",
+      "fuente": "Blu Radio / La Silla Vacía"
+    },
+    {
+      "titular": "Procuraduría reporta 181 investigaciones contra funcionarios por participación indebida en política",
+      "contexto": "Eljach entrega balance final de proceso electoral: 181 expedientes abiertos contra servidores públicos por intervención electoral. Cifra evidencia nivel de activación institucional del gobierno en la campaña.",
+      "fuente": "El Tiempo / La Silla Vacía"
+    },
+    {
+      "titular": "Fuerza Pública identifica 49 puntos bajo vigilancia ante riesgo de disturbios postelectorales",
+      "contexto": "Mindefensa confirma despliegue de más de 408.000 uniformados y mapeo de zonas críticas para prevenir alteración del orden tras anuncio de resultados. Preparación operativa para escenario de no aceptación.",
+      "fuente": "El Tiempo / Semana"
+    },
+    {
+      "titular": "Congreso hunde tres proyectos clave del gobierno: Ministerio de Igualdad, jurisdicción agraria y mesada 14",
+      "contexto": "Cierre de legislatura sepulta iniciativas emblemáticas de Petro y Francia Márquez. Derrota en el Legislativo profundiza aislamiento del gobierno a 72 horas de la votación y debilita posición de Cepeda como heredero.",
+      "fuente": "Blu Radio / La FM"
     }
   ],
-  "para_estar_atento": "Seguir si carta de congresistas demócratas genera respuesta formal de autoridades estadounidenses o colombianas. Verificar si desacato judicial de Petro activa nuevas acciones del CNE o tribunales. Primeros datos de participación en el exterior darán señal sobre movilización comparada con primera vuelta."
+  "para_estar_atento": "Viernes 19 inicia ley seca en todo el país y cierre formal de campaña. Registrador anticipa que en dos horas tras cierre de urnas habrá resultados concluyentes. Monitorear si declaraciones de Cepeda sobre constituyente generan reacción en mercados o pronunciamientos institucionales de última hora."
 }
