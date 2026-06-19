@@ -1,39 +1,39 @@
 {
   "fecha": "viernes 19 de junio de 2026",
-  "hora": "06:01",
-  "titular_del_dia": "Cierre de campaña con ventaja estructural intacta mientras Petro radicaliza el discurso institucional",
-  "editorial": "A 48 horas del cierre, la brecha se mantiene en rango de 7-8 puntos sin movimiento significativo. De la Espriella cierra sin sobresaltos jurídicos tras doble respaldo judicial y proyecta gobernabilidad con promesas de 90 decretos y 10 billones en salud. El ecosistema institucional muestra signos de fractura terminal: Uribe convocado a indagatoria por Fiscalía reactiva polarización del bloque opositor, mientras Petro amenaza con veto a observador estadounidense Bernie Moreno y descalifica alerta de seguridad de embajada de EEUU. Paola Holguín renuncia al Centro Democrático profundizando fragmentación del uribismo. La radicalización presidencial en las últimas 48 horas busca movilización de última hora pero arriesga acelerar el distanciamiento entre Cepeda y el aparato estatal que necesitará si gana.",
+  "hora": "17:01",
+  "titular_del_dia": "En las últimas horas de campaña, la tensión se desplaza del discurso a la seguridad del proceso",
+  "editorial": "La campaña cierra con la ventaja estructural intacta pero con el foco migrando hacia la integridad del proceso electoral. En las últimas 24 horas, el ecosistema institucional muestra señales contradictorias: mientras el CNE garantiza la llegada del observador Moreno y normaliza la votación en el exterior, emergen reportes de ataques a testigos electorales de De la Espriella y presiones armadas en Caquetá. Petro denuncia interferencia empresarial en 400 compañías, activando un vector de movilización de última hora que podría incrementar la participación oficialista sin cerrar la brecha. La verdadera variable ya no es el resultado —proyectado con consistencia— sino la aceptación del mismo: Defensa prioriza cinco ciudades ante riesgo de protestas, mientras más de 50 organizaciones hacen llamados anticipados al reconocimiento de resultados. El país llega a las urnas con la decisión tomada pero con incertidumbre sobre la transición post-electoral.",
   "noticias": [
     {
-      "titular": "Fiscalía cita a indagatoria a Uribe por masacres de El Aro y La Granja y creación de grupos paramilitares",
-      "contexto": "Convocatoria en recta final electoral reactiva vector de polarización. Uribe denuncia persecución judicial, Petro lo invita a acogerse a JEP. Timing refuerza narrativa de De la Espriella sobre instrumentalización de justicia.",
-      "fuente": "La FM / Semana / La Silla Vacía"
-    },
-    {
-      "titular": "Petro amenaza con 'decisiones' contra observador Bernie Moreno y descalifica alerta de embajada de EEUU",
-      "contexto": "Presidente responde a alerta de seguridad de embajada estadounidense diciendo 'a los gringos nada les va a pasar' y sugiere medidas contra senador republicano designado veedor. Escalada retórica en víspera electoral.",
-      "fuente": "El Colombiano / La FM / Blu Radio"
-    },
-    {
-      "titular": "Paola Holguín renuncia al Congreso y al Centro Democrático",
-      "contexto": "Exprecandidata presidencial formaliza ruptura con uribismo a 48 horas de votación. Profundiza fragmentación del bloque opositor tradicional en momento crítico.",
+      "titular": "Petro denuncia que 400 empresas interfieren en voto de empleados; MinTrabajo informa a Fiscalía y CNE",
+      "contexto": "Presidente activa vector de movilización en últimas horas denunciando presión empresarial sistemática. MinTrabajo abre procesos administrativos simultáneos. Movimiento tardío busca incrementar participación oficialista.",
       "fuente": "La FM"
     },
     {
-      "titular": "11 congresistas demócratas de EEUU piden investigar vínculos de De la Espriella con Saab y AUC",
-      "contexto": "Carta dirigida a autoridades estadounidenses solicita escrutinio sobre candidato. No genera impacto interno pero evidencia activación de redes progresistas internacionales en apoyo a Cepeda.",
-      "fuente": "El Colombiano"
+      "titular": "MinDefensa prioriza cinco ciudades para evitar protestas por resultados electorales",
+      "contexto": "Esquema de seguridad anticipa tensión post-electoral en focos urbanos específicos. Señal institucional de que la preocupación no es el día de votación sino la reacción a resultados.",
+      "fuente": "La Silla Vacía"
     },
     {
-      "titular": "De la Espriella promete 10 billones en 90 días para estabilizar salud y descarta alza de impuestos",
-      "contexto": "Candidato detalla en entrevista agenda inmediata de gobierno: 90 decretos desde 7 de agosto, inversión masiva en EPS y hospitales, financiamiento sin reforma tributaria. Proyección de gobernabilidad técnica.",
-      "fuente": "El Tiempo"
+      "titular": "Atacan a disparos a testigo electoral de De la Espriella; Policía ofrece $20 millones de recompensa",
+      "contexto": "Campaña de Defensores de la Patria denuncia ataque armado contra tres testigos en Viotá. Incrementa narrativa sobre riesgo de fraude y presión electoral en zonas de influencia del Pacto.",
+      "fuente": "Blu Radio / La FM"
     },
     {
-      "titular": "Catherine Juvinao anuncia voto por Cepeda tras decisión de su equipo político",
-      "contexto": "Concejal de Bogotá, referente de centro crítico, formaliza respaldo a candidato del Pacto. Señal de consolidación tardía pero insuficiente para cerrar brecha en capital.",
-      "fuente": "Blu Radio"
+      "titular": "CNE ratifica que Bernie Moreno no está vetado y garantiza su llegada como observador",
+      "contexto": "Consejo Electoral cierra formalmente el episodio de amenazas de Petro contra veedor republicano. Señal de que institucionalidad electoral mantiene autonomía frente a presión presidencial.",
+      "fuente": "El Tiempo / La FM"
+    },
+    {
+      "titular": "Más de 50 organizaciones piden a candidatos reconocer resultados; Registrador llama a evitar hostilidad ciudadana",
+      "contexto": "Llamado preventivo de sociedad civil anticipa tensión post-electoral. Registrador advierte que \"elegir presidente no justifica que ciudadanía se agreda\". Evidencia temor institucional a cuestionamiento de resultados.",
+      "fuente": "El Tiempo / La FM"
+    },
+    {
+      "titular": "Procuraduría investiga a gobernador Carlos Amaya de Boyacá por participación indebida en política",
+      "contexto": "Red de Veedurías denuncia uso de recursos públicos para campaña. Se suma a 181 procesos abiertos por Procuraduría contra funcionarios. Señal de activismo institucional oficialista en cierre de campaña.",
+      "fuente": "Semana / La FM"
     }
   ],
-  "para_estar_atento": "Hoy inicia ley seca nacional y cierre formal de campaña. Monitorear si escalada Petro-Embajada EEUU genera pronunciamientos de última hora o impacta percepción de riesgo institucional. Registrador anticipa resultados concluyentes dos horas después del cierre de urnas el domingo."
+  "para_estar_atento": "Jornada electoral del domingo 21 inicia con votación en exterior normalizada. Registrador anticipa resultados concluyentes dos horas después del cierre. El foco estará en la reacción de Petro y la movilización en las cinco ciudades priorizadas por Defensa si la brecha se confirma."
 }
