@@ -1,39 +1,39 @@
 {
-  "fecha": "jueves 18 de junio de 2026",
-  "hora": "17:01",
-  "titular_del_dia": "Instituciones cierran filas ante riesgo de contestación mientras Cepeda reabre debate constituyente",
-  "editorial": "A 72 horas del cierre, el aparato institucional anticipa turbulencia postelectoral. Fuerza Pública identifica 49 puntos críticos, Defensoría reporta 161 protestas vinculadas al ciclo, MOE documenta 40 casos de constreñimiento laboral y más de 50 organizaciones exigen reconocimiento de resultados. La señal es inequívoca: el Estado se prepara para un escenario de no aceptación. En paralelo, Cepeda comete error táctico al reabrir la opción constituyente pese a haberla retirado de su programa, reactivando el vector de incertidumbre institucional que favorece a De la Espriella. La brecha se mantiene estructural en rango de 7-8 puntos. Votación exterior transcurre sin novedades, confirmando normalización del proceso en el exterior. El Congreso cierra legislatura hundiendo proyectos clave del gobierno (Ministerio de Igualdad, jurisdicción agraria), profundizando aislamiento de Petro.",
+  "fecha": "viernes 19 de junio de 2026",
+  "hora": "06:01",
+  "titular_del_dia": "Cierre de campaña con ventaja estructural intacta mientras Petro radicaliza el discurso institucional",
+  "editorial": "A 48 horas del cierre, la brecha se mantiene en rango de 7-8 puntos sin movimiento significativo. De la Espriella cierra sin sobresaltos jurídicos tras doble respaldo judicial y proyecta gobernabilidad con promesas de 90 decretos y 10 billones en salud. El ecosistema institucional muestra signos de fractura terminal: Uribe convocado a indagatoria por Fiscalía reactiva polarización del bloque opositor, mientras Petro amenaza con veto a observador estadounidense Bernie Moreno y descalifica alerta de seguridad de embajada de EEUU. Paola Holguín renuncia al Centro Democrático profundizando fragmentación del uribismo. La radicalización presidencial en las últimas 48 horas busca movilización de última hora pero arriesga acelerar el distanciamiento entre Cepeda y el aparato estatal que necesitará si gana.",
   "noticias": [
     {
-      "titular": "Tribunal de Bogotá rechaza suspensión de candidatura de De la Espriella y CNE ratifica habilitación",
-      "contexto": "Doble cierre judicial: tribunal niega medida cautelar que buscaba frenar candidatura y CNE ratifica definitivamente su habilitación cerrando discusión sobre nacionalidad. Elimina último vector de incertidumbre legal sobre su postulación.",
-      "fuente": "El Tiempo / El Colombiano"
+      "titular": "Fiscalía cita a indagatoria a Uribe por masacres de El Aro y La Granja y creación de grupos paramilitares",
+      "contexto": "Convocatoria en recta final electoral reactiva vector de polarización. Uribe denuncia persecución judicial, Petro lo invita a acogerse a JEP. Timing refuerza narrativa de De la Espriella sobre instrumentalización de justicia.",
+      "fuente": "La FM / Semana / La Silla Vacía"
     },
     {
-      "titular": "Cepeda no descarta constituyente pese a haberla retirado de su plan de gobierno: 'Es una posibilidad'",
-      "contexto": "Candidato reabre debate sobre constituyente tras haberla retirado formalmente de su programa. Declaración reactiva temor institucional y entrega munición a narrativa de incertidumbre que impulsa campaña de De la Espriella.",
+      "titular": "Petro amenaza con 'decisiones' contra observador Bernie Moreno y descalifica alerta de embajada de EEUU",
+      "contexto": "Presidente responde a alerta de seguridad de embajada estadounidense diciendo 'a los gringos nada les va a pasar' y sugiere medidas contra senador republicano designado veedor. Escalada retórica en víspera electoral.",
+      "fuente": "El Colombiano / La FM / Blu Radio"
+    },
+    {
+      "titular": "Paola Holguín renuncia al Congreso y al Centro Democrático",
+      "contexto": "Exprecandidata presidencial formaliza ruptura con uribismo a 48 horas de votación. Profundiza fragmentación del bloque opositor tradicional en momento crítico.",
+      "fuente": "La FM"
+    },
+    {
+      "titular": "11 congresistas demócratas de EEUU piden investigar vínculos de De la Espriella con Saab y AUC",
+      "contexto": "Carta dirigida a autoridades estadounidenses solicita escrutinio sobre candidato. No genera impacto interno pero evidencia activación de redes progresistas internacionales en apoyo a Cepeda.",
+      "fuente": "El Colombiano"
+    },
+    {
+      "titular": "De la Espriella promete 10 billones en 90 días para estabilizar salud y descarta alza de impuestos",
+      "contexto": "Candidato detalla en entrevista agenda inmediata de gobierno: 90 decretos desde 7 de agosto, inversión masiva en EPS y hospitales, financiamiento sin reforma tributaria. Proyección de gobernabilidad técnica.",
       "fuente": "El Tiempo"
     },
     {
-      "titular": "MOE alerta sobre al menos 40 denuncias por constreñimiento laboral en Bogotá y Antioquia",
-      "contexto": "Misión de Observación Electoral identifica presiones laborales para incidir en votación, concentradas en dos regiones clave. Señal de movilización institucional oficialista para cerrar brecha.",
-      "fuente": "Blu Radio / La Silla Vacía"
-    },
-    {
-      "titular": "Procuraduría reporta 181 investigaciones contra funcionarios por participación indebida en política",
-      "contexto": "Eljach entrega balance final de proceso electoral: 181 expedientes abiertos contra servidores públicos por intervención electoral. Cifra evidencia nivel de activación institucional del gobierno en la campaña.",
-      "fuente": "El Tiempo / La Silla Vacía"
-    },
-    {
-      "titular": "Fuerza Pública identifica 49 puntos bajo vigilancia ante riesgo de disturbios postelectorales",
-      "contexto": "Mindefensa confirma despliegue de más de 408.000 uniformados y mapeo de zonas críticas para prevenir alteración del orden tras anuncio de resultados. Preparación operativa para escenario de no aceptación.",
-      "fuente": "El Tiempo / Semana"
-    },
-    {
-      "titular": "Congreso hunde tres proyectos clave del gobierno: Ministerio de Igualdad, jurisdicción agraria y mesada 14",
-      "contexto": "Cierre de legislatura sepulta iniciativas emblemáticas de Petro y Francia Márquez. Derrota en el Legislativo profundiza aislamiento del gobierno a 72 horas de la votación y debilita posición de Cepeda como heredero.",
-      "fuente": "Blu Radio / La FM"
+      "titular": "Catherine Juvinao anuncia voto por Cepeda tras decisión de su equipo político",
+      "contexto": "Concejal de Bogotá, referente de centro crítico, formaliza respaldo a candidato del Pacto. Señal de consolidación tardía pero insuficiente para cerrar brecha en capital.",
+      "fuente": "Blu Radio"
     }
   ],
-  "para_estar_atento": "Viernes 19 inicia ley seca en todo el país y cierre formal de campaña. Registrador anticipa que en dos horas tras cierre de urnas habrá resultados concluyentes. Monitorear si declaraciones de Cepeda sobre constituyente generan reacción en mercados o pronunciamientos institucionales de última hora."
+  "para_estar_atento": "Hoy inicia ley seca nacional y cierre formal de campaña. Monitorear si escalada Petro-Embajada EEUU genera pronunciamientos de última hora o impacta percepción de riesgo institucional. Registrador anticipa resultados concluyentes dos horas después del cierre de urnas el domingo."
 }
