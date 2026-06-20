@@ -1,39 +1,39 @@
 {
-  "fecha": "viernes 19 de junio de 2026",
-  "hora": "17:01",
-  "titular_del_dia": "En las últimas horas de campaña, la tensión se desplaza del discurso a la seguridad del proceso",
-  "editorial": "La campaña cierra con la ventaja estructural intacta pero con el foco migrando hacia la integridad del proceso electoral. En las últimas 24 horas, el ecosistema institucional muestra señales contradictorias: mientras el CNE garantiza la llegada del observador Moreno y normaliza la votación en el exterior, emergen reportes de ataques a testigos electorales de De la Espriella y presiones armadas en Caquetá. Petro denuncia interferencia empresarial en 400 compañías, activando un vector de movilización de última hora que podría incrementar la participación oficialista sin cerrar la brecha. La verdadera variable ya no es el resultado —proyectado con consistencia— sino la aceptación del mismo: Defensa prioriza cinco ciudades ante riesgo de protestas, mientras más de 50 organizaciones hacen llamados anticipados al reconocimiento de resultados. El país llega a las urnas con la decisión tomada pero con incertidumbre sobre la transición post-electoral.",
+  "fecha": "sábado 20 de junio de 2026",
+  "hora": "06:01",
+  "titular_del_dia": "Colombia vota con la ventaja estructural intacta y el oficialismo en modo de última trinchera",
+  "editorial": "El país llega a las urnas con la decisión prácticamente tomada según todas las métricas disponibles. La votación en el exterior transcurre sin contratiempos, señal de normalización institucional tras las tensiones previas. Pero el cierre de campaña revela la estrategia oficialista: Petro multiplica eventos masivos en terreno propio (Cali), anuncia ascensos policiales masivos horas antes de la votación y la Cancillería denuncia presencia de simpatizantes de De la Espriella en consulados. Son movimientos defensivos que buscan maximizar la participación de la base sin expectativa de revertir la tendencia. Santos ratifica neutralidad pero define prioridades (paz), señal de que incluso el centro moderado anticipa el desenlace. La verdadera incógnita ya no es quién gana, sino cómo reacciona el ecosistema petrista ante una derrota que todos los datos proyectan.",
   "noticias": [
     {
-      "titular": "Petro denuncia que 400 empresas interfieren en voto de empleados; MinTrabajo informa a Fiscalía y CNE",
-      "contexto": "Presidente activa vector de movilización en últimas horas denunciando presión empresarial sistemática. MinTrabajo abre procesos administrativos simultáneos. Movimiento tardío busca incrementar participación oficialista.",
+      "titular": "Petro anuncia ascenso masivo de 17.000 patrulleros a subintendentes horas antes de la votación",
+      "contexto": "Movimiento sin precedentes de clientelismo institucional en la víspera electoral. El presidente utiliza la Policía como herramienta de movilización política en el momento más sensible del proceso.",
       "fuente": "La FM"
     },
     {
-      "titular": "MinDefensa prioriza cinco ciudades para evitar protestas por resultados electorales",
-      "contexto": "Esquema de seguridad anticipa tensión post-electoral en focos urbanos específicos. Señal institucional de que la preocupación no es el día de votación sino la reacción a resultados.",
-      "fuente": "La Silla Vacía"
+      "titular": "Cancillería denuncia presencia de simpatizantes de De la Espriella en consulados durante votación en el exterior",
+      "contexto": "Ministerio de Relaciones Exteriores activa narrativa de irregularidades en votación internacional. Contrasta con reporte de Registraduría que confirma normalidad en el proceso.",
+      "fuente": "La FM"
     },
     {
-      "titular": "Atacan a disparos a testigo electoral de De la Espriella; Policía ofrece $20 millones de recompensa",
-      "contexto": "Campaña de Defensores de la Patria denuncia ataque armado contra tres testigos en Viotá. Incrementa narrativa sobre riesgo de fraude y presión electoral en zonas de influencia del Pacto.",
-      "fuente": "Blu Radio / La FM"
+      "titular": "Santos reitera neutralidad pero exige continuidad del Acuerdo de Paz al próximo gobierno",
+      "contexto": "Expresidente marca línea roja para el sucesor sin respaldar candidato. Señal de que incluso el centro moderado anticipa victoria de De la Espriella y busca condicionar su agenda.",
+      "fuente": "La FM / Blu Radio"
     },
     {
-      "titular": "CNE ratifica que Bernie Moreno no está vetado y garantiza su llegada como observador",
-      "contexto": "Consejo Electoral cierra formalmente el episodio de amenazas de Petro contra veedor republicano. Señal de que institucionalidad electoral mantiene autonomía frente a presión presidencial.",
-      "fuente": "El Tiempo / La FM"
+      "titular": "Colombia envía nota de protesta a Argentina por declaraciones de Milei en apoyo a De la Espriella",
+      "contexto": "Cancillería formaliza reclamo diplomático contra presidente argentino por interferencia electoral. Movimiento que busca activar rechazo nacionalista en últimas horas.",
+      "fuente": "El Tiempo / La FM / Blu Radio"
     },
     {
-      "titular": "Más de 50 organizaciones piden a candidatos reconocer resultados; Registrador llama a evitar hostilidad ciudadana",
-      "contexto": "Llamado preventivo de sociedad civil anticipa tensión post-electoral. Registrador advierte que \"elegir presidente no justifica que ciudadanía se agreda\". Evidencia temor institucional a cuestionamiento de resultados.",
-      "fuente": "El Tiempo / La FM"
+      "titular": "Petro cierra campaña en Cali con eventos masivos pidiendo votar temprano",
+      "contexto": "Presidente concentra esfuerzo de movilización en bastión histórico del Pacto. Estrategia de maximizar participación en zonas de dominio ante imposibilidad de expandir base.",
+      "fuente": "La FM / Blu Radio"
     },
     {
-      "titular": "Procuraduría investiga a gobernador Carlos Amaya de Boyacá por participación indebida en política",
-      "contexto": "Red de Veedurías denuncia uso de recursos públicos para campaña. Se suma a 181 procesos abiertos por Procuraduría contra funcionarios. Señal de activismo institucional oficialista en cierre de campaña.",
-      "fuente": "Semana / La FM"
+      "titular": "MinDefensa confirma vigilancia especial en 13 ciudades por riesgo de alteraciones de orden público",
+      "contexto": "Ministerio amplía de cinco a 13 las ciudades priorizadas para vigilancia post-electoral. Indica que percepción institucional de riesgo de protestas se ha incrementado.",
+      "fuente": "Blu Radio"
     }
   ],
-  "para_estar_atento": "Jornada electoral del domingo 21 inicia con votación en exterior normalizada. Registrador anticipa resultados concluyentes dos horas después del cierre. El foco estará en la reacción de Petro y la movilización en las cinco ciudades priorizadas por Defensa si la brecha se confirma."
+  "para_estar_atento": "Jornada electoral inicia domingo 06:00. Registraduría anticipa resultados concluyentes dos horas después del cierre (16:00). El foco estará en tres variables: nivel de participación en bastiones del Pacto, reacción inmediata de Petro ante posible derrota, y activación de movilizaciones en las 13 ciudades bajo vigilancia especial de MinDefensa."
 }
