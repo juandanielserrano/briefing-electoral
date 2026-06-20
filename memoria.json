@@ -1,39 +1,39 @@
 {
   "fecha": "sábado 20 de junio de 2026",
-  "hora": "06:01",
-  "titular_del_dia": "Colombia vota con la ventaja estructural intacta y el oficialismo en modo de última trinchera",
-  "editorial": "El país llega a las urnas con la decisión prácticamente tomada según todas las métricas disponibles. La votación en el exterior transcurre sin contratiempos, señal de normalización institucional tras las tensiones previas. Pero el cierre de campaña revela la estrategia oficialista: Petro multiplica eventos masivos en terreno propio (Cali), anuncia ascensos policiales masivos horas antes de la votación y la Cancillería denuncia presencia de simpatizantes de De la Espriella en consulados. Son movimientos defensivos que buscan maximizar la participación de la base sin expectativa de revertir la tendencia. Santos ratifica neutralidad pero define prioridades (paz), señal de que incluso el centro moderado anticipa el desenlace. La verdadera incógnita ya no es quién gana, sino cómo reacciona el ecosistema petrista ante una derrota que todos los datos proyectan.",
+  "hora": "17:01",
+  "titular_del_dia": "La víspera electoral transcurre entre llamados institucionales y la llegada del veedor que Petro amenazó con bloquear",
+  "editorial": "El país cierra la campaña con la institucionalidad desplegando garantías de normalidad mientras el oficialismo modula su tono ante la inminencia. Petro, que 24 horas antes denunciaba 'mega trampa' y anunciaba ascensos policiales masivos, ahora pide a sus seguidores 'no agredir a nadie' tras los resultados. Es la primera señal de que el ecosistema gubernamental anticipa el desenlace. La llegada de Bernie Moreno como observador, pese a amenazas presidenciales de veto, confirma que ni siquiera en el terreno simbólico el Ejecutivo logró imponer su narrativa. La procuraduría y la registraduría certifican condiciones plenas de transparencia. El foco ya no está en si habrá fraude sino en cómo reaccionará la izquierda movilizada ante una derrota que todas las métricas proyectan.",
   "noticias": [
     {
-      "titular": "Petro anuncia ascenso masivo de 17.000 patrulleros a subintendentes horas antes de la votación",
-      "contexto": "Movimiento sin precedentes de clientelismo institucional en la víspera electoral. El presidente utiliza la Policía como herramienta de movilización política en el momento más sensible del proceso.",
-      "fuente": "La FM"
+      "titular": "Bernie Moreno confirma llegada a Colombia como observador pese a amenazas de Petro de tomar 'decisiones' contra él",
+      "contexto": "El senador estadounidense aterrizó en el país y envió mensaje público a ciudadanos. Canciller había advertido que su presencia no garantizaba imparcialidad, pero CNE confirmó que no está vetado. Episodio cierra con derrota simbólica del Ejecutivo.",
+      "fuente": "Semana"
     },
     {
-      "titular": "Cancillería denuncia presencia de simpatizantes de De la Espriella en consulados durante votación en el exterior",
-      "contexto": "Ministerio de Relaciones Exteriores activa narrativa de irregularidades en votación internacional. Contrasta con reporte de Registraduría que confirma normalidad en el proceso.",
-      "fuente": "La FM"
+      "titular": "Petro pide a seguidores 'no agredir a nadie' tras resultados electorales del domingo",
+      "contexto": "Cambio de tono presidencial en últimas horas. Después de denunciar interferencias empresariales y presencia de simpatizantes rivales en consulados, ahora llama a la no violencia. Primera señal de que el oficialismo se prepara para gestionar una derrota.",
+      "fuente": "El Tiempo / La FM"
     },
     {
-      "titular": "Santos reitera neutralidad pero exige continuidad del Acuerdo de Paz al próximo gobierno",
-      "contexto": "Expresidente marca línea roja para el sucesor sin respaldar candidato. Señal de que incluso el centro moderado anticipa victoria de De la Espriella y busca condicionar su agenda.",
-      "fuente": "La FM / Blu Radio"
+      "titular": "Procurador Eljach certifica que 'están dadas las condiciones' para jornada transparente y descarta pruebas de fraude",
+      "contexto": "Balance institucional reporta 181 procesos contra funcionarios por participación indebida en política, pero confirma garantías plenas para la votación. Contrasta con narrativa presidencial de 'mega trampa' del día anterior.",
+      "fuente": "El Tiempo / Semana"
     },
     {
-      "titular": "Colombia envía nota de protesta a Argentina por declaraciones de Milei en apoyo a De la Espriella",
-      "contexto": "Cancillería formaliza reclamo diplomático contra presidente argentino por interferencia electoral. Movimiento que busca activar rechazo nacionalista en últimas horas.",
-      "fuente": "El Tiempo / La FM / Blu Radio"
+      "titular": "Más de 50 organizaciones hacen llamado público a candidatos y líderes políticos a reconocer resultados electorales",
+      "contexto": "Movilización de sociedad civil ante ambiente de desconfianza institucional sembrado durante la campaña. Señal de que el sector no gubernamental percibe riesgo de no reconocimiento por parte del bando perdedor.",
+      "fuente": "El Tiempo"
     },
     {
-      "titular": "Petro cierra campaña en Cali con eventos masivos pidiendo votar temprano",
-      "contexto": "Presidente concentra esfuerzo de movilización en bastión histórico del Pacto. Estrategia de maximizar participación en zonas de dominio ante imposibilidad de expandir base.",
-      "fuente": "La FM / Blu Radio"
+      "titular": "11 congresistas estadounidenses piden investigar presuntos vínculos de De la Espriella con Saab y paramilitares",
+      "contexto": "Carta de legisladores demócratas en Washington solicita pesquisas sobre el candidato opositor. Movimiento de última hora sin impacto electoral doméstico, pero indica que sector del Congreso de EE.UU. mantiene reservas sobre eventual victoria de De la Espriella.",
+      "fuente": "El Colombiano"
     },
     {
-      "titular": "MinDefensa confirma vigilancia especial en 13 ciudades por riesgo de alteraciones de orden público",
-      "contexto": "Ministerio amplía de cinco a 13 las ciudades priorizadas para vigilancia post-electoral. Indica que percepción institucional de riesgo de protestas se ha incrementado.",
-      "fuente": "Blu Radio"
+      "titular": "Gobierno adelanta 12 horas el cierre de fronteras terrestres y fluviales para jornada electoral",
+      "contexto": "Medida ajustada por decreto en últimas horas. Fronteras cerrarán desde la noche del sábado en lugar del domingo en la madrugada. Indica incremento en percepción institucional de riesgo de alteraciones durante votación.",
+      "fuente": "El Tiempo / Semana"
     }
   ],
-  "para_estar_atento": "Jornada electoral inicia domingo 06:00. Registraduría anticipa resultados concluyentes dos horas después del cierre (16:00). El foco estará en tres variables: nivel de participación en bastiones del Pacto, reacción inmediata de Petro ante posible derrota, y activación de movilizaciones en las 13 ciudades bajo vigilancia especial de MinDefensa."
+  "para_estar_atento": "Jornada electoral inicia domingo 06:00. CNE anticipa entregar resultados en menos de una hora tras cierre de mesas (16:00). Variables críticas: participación en bastiones del Pacto, pronunciamiento de Petro ante posible derrota, y activación de protestas en las 13 ciudades bajo vigilancia especial de MinDefensa."
 }
