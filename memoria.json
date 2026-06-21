@@ -1,39 +1,39 @@
 {
   "fecha": "domingo 21 de junio de 2026",
-  "hora": "06:01",
-  "titular_del_dia": "Colombia vota: las urnas abren con garantías institucionales certificadas y el oficialismo en modo defensivo",
-  "editorial": "El país llega a la jornada con todas las señales institucionales apuntando hacia transparencia: auditorías confirmaron integridad de primera vuelta, procurador ratifica condiciones plenas, votación en el exterior transcurre sin contratiempos. La modulación retórica del oficialismo —que pasó de denunciar 'mega trampa' a pedir no agresión— revela anticipación de derrota. El CNE proyecta resultados en menos de una hora tras cierre de mesas. La variable ya no es electoral sino de gestión poselectoral: cómo procesará la izquierda movilizada un desenlace que las encuestas anticipan por siete puntos. Las Fuerzas Militares despliegan dispositivo completo, pero el foco está en las primeras horas posteriores al anuncio oficial.",
+  "hora": "17:01",
+  "titular_del_dia": "Preconteo marca ventaja estrecha de De la Espriella; MOE reporta irregularidades masivas",
+  "editorial": "Las urnas se cerraron según cronograma y el preconteo avanza veloz, pero la jornada dejó señales de deterioro institucional que contrastan con el optimismo de las auditorías previas. La MOE reporta 309 anomalías y más de 2.600 denuncias al MinInterior, con presiones al voto como patrón dominante. El décimo boletín muestra a De la Espriella con 50,1% contra 48,25% de Cepeda con 89,58% escrutado: margen de 1,85 puntos, significativamente menor a los siete que proyectaban las encuestas. La estrechez del resultado anticipa disputa poselectoral intensa. Gremios ya alertan sobre hechos que afectan confianza. La variable crítica ahora es la legitimidad del resultado, no solo quién gana.",
   "noticias": [
     {
-      "titular": "Votación en el exterior avanza sin contratiempos: Registraduría reporta normalidad",
-      "contexto": "Jornada internacional completada sin incidentes, contrario a denuncias gubernamentales previas sobre presencia de simpatizantes de De la Espriella en consulados. Confirma patrón de normalidad institucional.",
-      "fuente": "El Tiempo"
+      "titular": "Décimo boletín: De la Espriella 50,1% vs Cepeda 48,25% con 89,58% escrutado",
+      "contexto": "Margen de apenas 1,85 puntos, muy inferior a los 7-8 puntos que proyectaban encuestas previas. Resultado reñido activa escenarios de disputa poselectoral.",
+      "fuente": "El Colombiano"
     },
     {
-      "titular": "Auditorías poselectorales confirman integridad de resultados de primera vuelta: IIDH",
-      "contexto": "Instituto Interamericano de Derechos Humanos certifica limpieza del proceso electoral precedente. Cierra ventana a cuestionamientos preventivos sobre sistema de conteo.",
-      "fuente": "Blu Radio"
+      "titular": "MOE reporta 309 anomalías electorales: compra de votos, propaganda ilegal y fallas de jurados",
+      "contexto": "Misión de Observación Electoral presenta balance con irregularidades significativas. Más del 32% de reportes ciudadanos advierten presiones al voto, patrón que deteriora percepción de limpieza del proceso.",
+      "fuente": "La FM"
     },
     {
-      "titular": "CNE espera entregar resultados en menos de una hora tras cierre de mesas",
-      "contexto": "Consejo Nacional Electoral confirma capacidad técnica para procesar votos con rapidez inédita. Reduce margen temporal para especulación o narrativas de fraude.",
-      "fuente": "Blu Radio"
-    },
-    {
-      "titular": "Gobernadora del Meta denuncia intentos de secuestro y amenazas horas antes de elecciones",
-      "contexto": "Rafaela Cortés alerta sobre riesgos de seguridad en su región. Añade tensión localizada a jornada, aunque sin impacto nacional verificable por ahora.",
-      "fuente": "Semana"
-    },
-    {
-      "titular": "Violencia en Troncal del Caribe pone en riesgo votaciones en Magdalena y La Guajira",
-      "contexto": "Semana reporta alerta máxima por confrontaciones armadas que podrían afectar acceso a mesas. Uno de los puntos calientes regionales en jornada.",
-      "fuente": "Semana"
-    },
-    {
-      "titular": "Google Trends muestra repunte de Cepeda frente a Abelardo en últimas horas",
-      "contexto": "La Silla Vacía registra incremento en búsquedas del candidato oficialista en víspera electoral. Métrica de interés digital, no predictiva de voto, pero indica activación de base.",
+      "titular": "MinInterior recibe 2.600 denuncias por delitos electorales durante la jornada",
+      "contexto": "Volumen de denuncias supera ampliamente registros de elecciones previas, confirma patrón de irregularidades reportado por MOE.",
       "fuente": "La Silla Vacía"
+    },
+    {
+      "titular": "Gremios alertan por hechos que podrían afectar confianza en proceso electoral",
+      "contexto": "Consejo Gremial y Aliadas emiten declaración antes de conocerse resultados finales, anticipando cuestionamientos sobre legitimidad del proceso.",
+      "fuente": "El Colombiano"
+    },
+    {
+      "titular": "Registrador defiende sistema electoral: 'Tengan absoluta certeza del resultado'",
+      "contexto": "Respuesta a señalamientos anticipados sobre integridad del conteo. Busca blindar resultados ante posibles cuestionamientos de ambas campañas.",
+      "fuente": "Blu Radio"
+    },
+    {
+      "titular": "Incendio en balsa electoral en San Jacinto, Bolívar: se quemaron tarjetones y activan contingencia",
+      "contexto": "Incidente durante transporte de material electoral. Registraduría activa plan de contingencia, pero alimenta narrativas de irregularidades.",
+      "fuente": "Semana"
     }
   ],
-  "para_estar_atento": "Mesas cierran a las 16:00. CNE promete resultados antes de las 17:00. Variables críticas: participación comparada con primera vuelta, comportamiento en bastiones del Pacto (Bogotá, Cauca, Nariño), y pronunciamientos de Petro y Cepeda ante números oficiales. Dispositivo militar desplegado anticipa posibles movilizaciones nocturnas."
+  "para_estar_atento": "Boletines finales definirán si margen se amplía o sigue estrecho. Pronunciamientos de Petro, Cepeda y De la Espriella ante resultado apretado serán críticos. Movilizaciones nocturnas posibles dada la tensión acumulada y volumen de denuncias sobre irregularidades."
 }
