@@ -1,39 +1,39 @@
 {
-  "fecha": "sábado 20 de junio de 2026",
-  "hora": "17:01",
-  "titular_del_dia": "La víspera electoral transcurre entre llamados institucionales y la llegada del veedor que Petro amenazó con bloquear",
-  "editorial": "El país cierra la campaña con la institucionalidad desplegando garantías de normalidad mientras el oficialismo modula su tono ante la inminencia. Petro, que 24 horas antes denunciaba 'mega trampa' y anunciaba ascensos policiales masivos, ahora pide a sus seguidores 'no agredir a nadie' tras los resultados. Es la primera señal de que el ecosistema gubernamental anticipa el desenlace. La llegada de Bernie Moreno como observador, pese a amenazas presidenciales de veto, confirma que ni siquiera en el terreno simbólico el Ejecutivo logró imponer su narrativa. La procuraduría y la registraduría certifican condiciones plenas de transparencia. El foco ya no está en si habrá fraude sino en cómo reaccionará la izquierda movilizada ante una derrota que todas las métricas proyectan.",
+  "fecha": "domingo 21 de junio de 2026",
+  "hora": "06:01",
+  "titular_del_dia": "Colombia vota: las urnas abren con garantías institucionales certificadas y el oficialismo en modo defensivo",
+  "editorial": "El país llega a la jornada con todas las señales institucionales apuntando hacia transparencia: auditorías confirmaron integridad de primera vuelta, procurador ratifica condiciones plenas, votación en el exterior transcurre sin contratiempos. La modulación retórica del oficialismo —que pasó de denunciar 'mega trampa' a pedir no agresión— revela anticipación de derrota. El CNE proyecta resultados en menos de una hora tras cierre de mesas. La variable ya no es electoral sino de gestión poselectoral: cómo procesará la izquierda movilizada un desenlace que las encuestas anticipan por siete puntos. Las Fuerzas Militares despliegan dispositivo completo, pero el foco está en las primeras horas posteriores al anuncio oficial.",
   "noticias": [
     {
-      "titular": "Bernie Moreno confirma llegada a Colombia como observador pese a amenazas de Petro de tomar 'decisiones' contra él",
-      "contexto": "El senador estadounidense aterrizó en el país y envió mensaje público a ciudadanos. Canciller había advertido que su presencia no garantizaba imparcialidad, pero CNE confirmó que no está vetado. Episodio cierra con derrota simbólica del Ejecutivo.",
-      "fuente": "Semana"
-    },
-    {
-      "titular": "Petro pide a seguidores 'no agredir a nadie' tras resultados electorales del domingo",
-      "contexto": "Cambio de tono presidencial en últimas horas. Después de denunciar interferencias empresariales y presencia de simpatizantes rivales en consulados, ahora llama a la no violencia. Primera señal de que el oficialismo se prepara para gestionar una derrota.",
-      "fuente": "El Tiempo / La FM"
-    },
-    {
-      "titular": "Procurador Eljach certifica que 'están dadas las condiciones' para jornada transparente y descarta pruebas de fraude",
-      "contexto": "Balance institucional reporta 181 procesos contra funcionarios por participación indebida en política, pero confirma garantías plenas para la votación. Contrasta con narrativa presidencial de 'mega trampa' del día anterior.",
-      "fuente": "El Tiempo / Semana"
-    },
-    {
-      "titular": "Más de 50 organizaciones hacen llamado público a candidatos y líderes políticos a reconocer resultados electorales",
-      "contexto": "Movilización de sociedad civil ante ambiente de desconfianza institucional sembrado durante la campaña. Señal de que el sector no gubernamental percibe riesgo de no reconocimiento por parte del bando perdedor.",
+      "titular": "Votación en el exterior avanza sin contratiempos: Registraduría reporta normalidad",
+      "contexto": "Jornada internacional completada sin incidentes, contrario a denuncias gubernamentales previas sobre presencia de simpatizantes de De la Espriella en consulados. Confirma patrón de normalidad institucional.",
       "fuente": "El Tiempo"
     },
     {
-      "titular": "11 congresistas estadounidenses piden investigar presuntos vínculos de De la Espriella con Saab y paramilitares",
-      "contexto": "Carta de legisladores demócratas en Washington solicita pesquisas sobre el candidato opositor. Movimiento de última hora sin impacto electoral doméstico, pero indica que sector del Congreso de EE.UU. mantiene reservas sobre eventual victoria de De la Espriella.",
-      "fuente": "El Colombiano"
+      "titular": "Auditorías poselectorales confirman integridad de resultados de primera vuelta: IIDH",
+      "contexto": "Instituto Interamericano de Derechos Humanos certifica limpieza del proceso electoral precedente. Cierra ventana a cuestionamientos preventivos sobre sistema de conteo.",
+      "fuente": "Blu Radio"
     },
     {
-      "titular": "Gobierno adelanta 12 horas el cierre de fronteras terrestres y fluviales para jornada electoral",
-      "contexto": "Medida ajustada por decreto en últimas horas. Fronteras cerrarán desde la noche del sábado en lugar del domingo en la madrugada. Indica incremento en percepción institucional de riesgo de alteraciones durante votación.",
-      "fuente": "El Tiempo / Semana"
+      "titular": "CNE espera entregar resultados en menos de una hora tras cierre de mesas",
+      "contexto": "Consejo Nacional Electoral confirma capacidad técnica para procesar votos con rapidez inédita. Reduce margen temporal para especulación o narrativas de fraude.",
+      "fuente": "Blu Radio"
+    },
+    {
+      "titular": "Gobernadora del Meta denuncia intentos de secuestro y amenazas horas antes de elecciones",
+      "contexto": "Rafaela Cortés alerta sobre riesgos de seguridad en su región. Añade tensión localizada a jornada, aunque sin impacto nacional verificable por ahora.",
+      "fuente": "Semana"
+    },
+    {
+      "titular": "Violencia en Troncal del Caribe pone en riesgo votaciones en Magdalena y La Guajira",
+      "contexto": "Semana reporta alerta máxima por confrontaciones armadas que podrían afectar acceso a mesas. Uno de los puntos calientes regionales en jornada.",
+      "fuente": "Semana"
+    },
+    {
+      "titular": "Google Trends muestra repunte de Cepeda frente a Abelardo en últimas horas",
+      "contexto": "La Silla Vacía registra incremento en búsquedas del candidato oficialista en víspera electoral. Métrica de interés digital, no predictiva de voto, pero indica activación de base.",
+      "fuente": "La Silla Vacía"
     }
   ],
-  "para_estar_atento": "Jornada electoral inicia domingo 06:00. CNE anticipa entregar resultados en menos de una hora tras cierre de mesas (16:00). Variables críticas: participación en bastiones del Pacto, pronunciamiento de Petro ante posible derrota, y activación de protestas en las 13 ciudades bajo vigilancia especial de MinDefensa."
+  "para_estar_atento": "Mesas cierran a las 16:00. CNE promete resultados antes de las 17:00. Variables críticas: participación comparada con primera vuelta, comportamiento en bastiones del Pacto (Bogotá, Cauca, Nariño), y pronunciamientos de Petro y Cepeda ante números oficiales. Dispositivo militar desplegado anticipa posibles movilizaciones nocturnas."
 }
