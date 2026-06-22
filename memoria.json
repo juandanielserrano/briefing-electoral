@@ -1,39 +1,39 @@
 {
-  "fecha": "domingo 21 de junio de 2026",
-  "hora": "17:01",
-  "titular_del_dia": "Preconteo marca ventaja estrecha de De la Espriella; MOE reporta irregularidades masivas",
-  "editorial": "Las urnas se cerraron según cronograma y el preconteo avanza veloz, pero la jornada dejó señales de deterioro institucional que contrastan con el optimismo de las auditorías previas. La MOE reporta 309 anomalías y más de 2.600 denuncias al MinInterior, con presiones al voto como patrón dominante. El décimo boletín muestra a De la Espriella con 50,1% contra 48,25% de Cepeda con 89,58% escrutado: margen de 1,85 puntos, significativamente menor a los siete que proyectaban las encuestas. La estrechez del resultado anticipa disputa poselectoral intensa. Gremios ya alertan sobre hechos que afectan confianza. La variable crítica ahora es la legitimidad del resultado, no solo quién gana.",
+  "fecha": "lunes 22 de junio de 2026",
+  "hora": "06:01",
+  "titular_del_dia": "De la Espriella gana con 247.000 votos de diferencia; Cepeda impugnará 33.000 mesas sin reconocer preconteo",
+  "editorial": "La noche electoral cerró con victoria de De la Espriella por margen estrecho (50,1% vs 48,25% con 99,96% escrutado), confirmando la tendencia pero muy por debajo de los siete puntos que proyectaban encuestas. La estrechez activa estrategia de impugnación masiva del Pacto Histórico: 33.000 mesas cuestionadas, reconocimiento solo tras escrutinio, y Petro advirtiendo que 'aún no se puede saber quién es presidente'. Histórico: nunca antes una diferencia de preconteo a escrutinio ha revertido resultados con esta magnitud. De la Espriella endurece tono: exige a Petro y Cepeda 'hacer maletas' y abstenerse de 'desatar incendio social', mientras anuncia posesión en guarnición militar. Violencia nocturna en Cali (un muerto, vandalismo) y movilizaciones en Bogotá marcan inicio de transición con polarización máxima.",
   "noticias": [
     {
-      "titular": "Décimo boletín: De la Espriella 50,1% vs Cepeda 48,25% con 89,58% escrutado",
-      "contexto": "Margen de apenas 1,85 puntos, muy inferior a los 7-8 puntos que proyectaban encuestas previas. Resultado reñido activa escenarios de disputa poselectoral.",
-      "fuente": "El Colombiano"
+      "titular": "De la Espriella gana con 247.000 votos de diferencia según preconteo con 99,96% escrutado",
+      "contexto": "Boletín final confirma ventaja estrecha: 50,1% vs 48,25%. Registraduría prevé escrutinio definitivo entre miércoles y jueves. Diferencia final muy inferior a los 7-8 puntos de encuestas previas.",
+      "fuente": "El Tiempo"
     },
     {
-      "titular": "MOE reporta 309 anomalías electorales: compra de votos, propaganda ilegal y fallas de jurados",
-      "contexto": "Misión de Observación Electoral presenta balance con irregularidades significativas. Más del 32% de reportes ciudadanos advierten presiones al voto, patrón que deteriora percepción de limpieza del proceso.",
+      "titular": "Cepeda no reconoce preconteo y anuncia impugnación de 33.000 mesas en todo el país",
+      "contexto": "Primera declaración oficial del candidato del Pacto: 'reconocemos como un dato que aún no es oficial ni vinculante'. Estrategia de impugnación masiva activa disputa poselectoral. Petro refuerza: 'Aún no se puede saber quién es presidente'.",
       "fuente": "La FM"
     },
     {
-      "titular": "MinInterior recibe 2.600 denuncias por delitos electorales durante la jornada",
-      "contexto": "Volumen de denuncias supera ampliamente registros de elecciones previas, confirma patrón de irregularidades reportado por MOE.",
-      "fuente": "La Silla Vacía"
-    },
-    {
-      "titular": "Gremios alertan por hechos que podrían afectar confianza en proceso electoral",
-      "contexto": "Consejo Gremial y Aliadas emiten declaración antes de conocerse resultados finales, anticipando cuestionamientos sobre legitimidad del proceso.",
+      "titular": "De la Espriella exige a Cepeda y Petro 'hacer maletas' y no 'desatar incendio social'",
+      "contexto": "Endurecimiento de tono en discurso de victoria. Contrasta con mensaje inicial conciliatorio de 'no habrá persecuciones'. Revela anticipación de conflicto prolongado por impugnaciones.",
       "fuente": "El Colombiano"
     },
     {
-      "titular": "Registrador defiende sistema electoral: 'Tengan absoluta certeza del resultado'",
-      "contexto": "Respuesta a señalamientos anticipados sobre integridad del conteo. Busca blindar resultados ante posibles cuestionamientos de ambas campañas.",
-      "fuente": "Blu Radio"
+      "titular": "Un muerto en Cali tras violentas manifestaciones por resultado electoral; vandalismo y choques con fuerza pública",
+      "contexto": "Primera víctima fatal de jornada poselectoral. Bloqueos en calle 5 y Puerto Resistencia, ataques a fotomultas, artefacto explosivo contra banco. Alcalde Eder anuncia recompensas y 'mano dura'. Escala tensión nocturna.",
+      "fuente": "Semana"
     },
     {
-      "titular": "Incendio en balsa electoral en San Jacinto, Bolívar: se quemaron tarjetones y activan contingencia",
-      "contexto": "Incidente durante transporte de material electoral. Registraduría activa plan de contingencia, pero alimenta narrativas de irregularidades.",
-      "fuente": "Semana"
+      "titular": "De la Espriella anuncia que se posesionará en guarnición militar frente a fuerzas armadas",
+      "contexto": "Decisión simbólica rompe con tradición de posesión en Plaza de Bolívar. Señal de alineamiento con sector defensa y anticipación de contexto de seguridad deteriorado para inicio de mandato.",
+      "fuente": "La FM"
+    },
+    {
+      "titular": "De la Espriella confirma conversación con Donald Trump tras victoria en preconteo",
+      "contexto": "Primer contacto internacional oficial. Mauricio Gómez Amín confirma llamada. Gobierno de EE.UU. celebra resultado. Marco Rubio: 'Mejores días de Colombia están por venir'. Recomposición inmediata de relación bilateral.",
+      "fuente": "La FM"
     }
   ],
-  "para_estar_atento": "Boletines finales definirán si margen se amplía o sigue estrecho. Pronunciamientos de Petro, Cepeda y De la Espriella ante resultado apretado serán críticos. Movilizaciones nocturnas posibles dada la tensión acumulada y volumen de denuncias sobre irregularidades."
+  "para_estar_atento": "Evolución del escrutinio en próximas 48 horas definirá si impugnaciones del Pacto tienen impacto real en margen. Movilizaciones en Cali y Bogotá pueden escalar si Petro mantiene narrativa de resultado incierto. Primeros nombramientos de gabinete De la Espriella darán señal sobre estilo de gobierno."
 }
