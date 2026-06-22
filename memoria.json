@@ -1,39 +1,39 @@
 {
   "fecha": "lunes 22 de junio de 2026",
-  "hora": "06:01",
-  "titular_del_dia": "De la Espriella gana con 247.000 votos de diferencia; Cepeda impugnará 33.000 mesas sin reconocer preconteo",
-  "editorial": "La noche electoral cerró con victoria de De la Espriella por margen estrecho (50,1% vs 48,25% con 99,96% escrutado), confirmando la tendencia pero muy por debajo de los siete puntos que proyectaban encuestas. La estrechez activa estrategia de impugnación masiva del Pacto Histórico: 33.000 mesas cuestionadas, reconocimiento solo tras escrutinio, y Petro advirtiendo que 'aún no se puede saber quién es presidente'. Histórico: nunca antes una diferencia de preconteo a escrutinio ha revertido resultados con esta magnitud. De la Espriella endurece tono: exige a Petro y Cepeda 'hacer maletas' y abstenerse de 'desatar incendio social', mientras anuncia posesión en guarnición militar. Violencia nocturna en Cali (un muerto, vandalismo) y movilizaciones en Bogotá marcan inicio de transición con polarización máxima.",
+  "hora": "17:01",
+  "titular_del_dia": "Misiones internacionales validan transparencia electoral mientras escrutinio avanza sin revertir ventaja de De la Espriella",
+  "editorial": "La jornada poselectoral se resuelve con legitimación institucional masiva: OEA, misiones de transparencia y Procuraduría certifican normalidad en el proceso, neutralizando el intento del Pacto de cuestionar los resultados. Con 90% del escrutinio departamental completado y el nacional iniciando mañana, las 57.189 mesas reclamadas por Cepeda representan volumen sin sustancia: históricamente, ninguna impugnación ha revertido un margen de 247.000 votos. La estrategia de Cepeda se desinfla ante la realidad del escrutinio. Mientras tanto, De la Espriella acelera transición: nombres para Hacienda circulan, uribismo articula coalición congresual y gremios ya presentan agendas. La disputa se desplaza del conteo electoral a la gobernabilidad futura.",
   "noticias": [
     {
-      "titular": "De la Espriella gana con 247.000 votos de diferencia según preconteo con 99,96% escrutado",
-      "contexto": "Boletín final confirma ventaja estrecha: 50,1% vs 48,25%. Registraduría prevé escrutinio definitivo entre miércoles y jueves. Diferencia final muy inferior a los 7-8 puntos de encuestas previas.",
+      "titular": "Misiones internacionales certifican transparencia electoral y descartan irregularidades",
+      "contexto": "OEA, Transparencia Electoral y observadores internacionales emitieron reportes destacando normalidad del proceso y alta participación. Golpe directo a narrativa de fraude del Pacto Histórico. Procuraduría descarta fraude por el momento.",
+      "fuente": "El Tiempo / La FM"
+    },
+    {
+      "titular": "Registraduría reporta 90% del escrutinio departamental completado; nacional inicia mañana",
+      "contexto": "Balance oficial confirma avance acelerado del escrutinio. En Antioquia solo quedan 10 municipios pendientes. Ritmo sugiere cierre definitivo entre miércoles y jueves como proyectado.",
+      "fuente": "El Colombiano / La FM"
+    },
+    {
+      "titular": "Cepeda escaló reclamaciones a 57.189 mesas pero sin impacto en margen de De la Espriella",
+      "contexto": "Pacto aumentó de 33.000 a 57.189 mesas impugnadas durante escrutinio, pero ninguna ha modificado tendencia. Volumen alto pero sin sustancia que altere resultado final.",
+      "fuente": "La Silla Vacía / Blu Radio"
+    },
+    {
+      "titular": "Netanyahu y Trump felicitan a De la Espriella; recomposición acelerada de relaciones internacionales",
+      "contexto": "Primer ministro de Israel se suma a Trump en contactos oficiales con presidente electo. Señal de realineamiento geopolítico inmediato tras victoria. Contrasta con aislamiento internacional del gobierno Petro.",
       "fuente": "El Tiempo"
     },
     {
-      "titular": "Cepeda no reconoce preconteo y anuncia impugnación de 33.000 mesas en todo el país",
-      "contexto": "Primera declaración oficial del candidato del Pacto: 'reconocemos como un dato que aún no es oficial ni vinculante'. Estrategia de impugnación masiva activa disputa poselectoral. Petro refuerza: 'Aún no se puede saber quién es presidente'.",
-      "fuente": "La FM"
+      "titular": "Circulan nombres para Ministerio de Hacienda; gabinete De la Espriella toma forma",
+      "contexto": "Primeras filtraciones sobre equipo económico activan expectativa de mercados y gremios. Señal de transición operativa mientras escrutinio aún corre. Camacol y ACOPI ya presentan agendas al entrante gobierno.",
+      "fuente": "El Colombiano / La FM"
     },
     {
-      "titular": "De la Espriella exige a Cepeda y Petro 'hacer maletas' y no 'desatar incendio social'",
-      "contexto": "Endurecimiento de tono en discurso de victoria. Contrasta con mensaje inicial conciliatorio de 'no habrá persecuciones'. Revela anticipación de conflicto prolongado por impugnaciones.",
-      "fuente": "El Colombiano"
-    },
-    {
-      "titular": "Un muerto en Cali tras violentas manifestaciones por resultado electoral; vandalismo y choques con fuerza pública",
-      "contexto": "Primera víctima fatal de jornada poselectoral. Bloqueos en calle 5 y Puerto Resistencia, ataques a fotomultas, artefacto explosivo contra banco. Alcalde Eder anuncia recompensas y 'mano dura'. Escala tensión nocturna.",
-      "fuente": "Semana"
-    },
-    {
-      "titular": "De la Espriella anuncia que se posesionará en guarnición militar frente a fuerzas armadas",
-      "contexto": "Decisión simbólica rompe con tradición de posesión en Plaza de Bolívar. Señal de alineamiento con sector defensa y anticipación de contexto de seguridad deteriorado para inicio de mandato.",
-      "fuente": "La FM"
-    },
-    {
-      "titular": "De la Espriella confirma conversación con Donald Trump tras victoria en preconteo",
-      "contexto": "Primer contacto internacional oficial. Mauricio Gómez Amín confirma llamada. Gobierno de EE.UU. celebra resultado. Marco Rubio: 'Mejores días de Colombia están por venir'. Recomposición inmediata de relación bilateral.",
-      "fuente": "La FM"
+      "titular": "Uribismo anuncia construcción de coalición en Congreso para respaldar a De la Espriella",
+      "contexto": "Centro Democrático prepara agenda legislativa concertada con nuevo gobierno. Movimiento anticipa mayorías para reformas clave y contrasta con fragmentación que enfrentó Petro.",
+      "fuente": "La FM / La Silla Vacía"
     }
   ],
-  "para_estar_atento": "Evolución del escrutinio en próximas 48 horas definirá si impugnaciones del Pacto tienen impacto real en margen. Movilizaciones en Cali y Bogotá pueden escalar si Petro mantiene narrativa de resultado incierto. Primeros nombramientos de gabinete De la Espriella darán señal sobre estilo de gobierno."
+  "para_estar_atento": "Escrutinio nacional inicia mañana martes y definirá si impugnaciones de Cepeda tienen algún efecto material, aunque margen hace reverso estadísticamente imposible. Primeros anuncios de gabinete De la Espriella podrían llegar esta semana, marcando tono del gobierno entrante."
 }
