@@ -2,8 +2,8 @@
 # ─────────────────────────────────────
 # MODO: pruebas = solo EMAIL_ADMIN | produccion = todos los destinatarios
 
-MODO=produccion
-# MODO=pruebas
+# MODO=produccion
+MODO=pruebas
 
 # Email del administrador (recibe en modo pruebas)
 EMAIL_ADMIN=juandanielserrano@gmail.com
