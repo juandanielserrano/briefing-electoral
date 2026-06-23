@@ -1,39 +1,39 @@
 {
   "fecha": "martes 23 de junio de 2026",
-  "hora": "06:01",
-  "titular_del_dia": "Escrutinio concluye oficialmente mientras Petro insiste en fraude y Trump se atribuye la victoria de De la Espriella",
-  "editorial": "El escrutinio cerró al 100% sin alterar el resultado: De la Espriella confirmó su ventaja. Las 57.000 reclamaciones de Cepeda no modificaron tendencia alguna, como era previsible. El CNE descartó el reconteo voto a voto en el exterior que pidió el candidato derrotado. Mientras tanto, la narrativa política se polariza: Petro insiste en fraude con formularios E14 alterados, desafiando certificaciones internacionales y de la Procuraduría. Trump reclama crédito por la victoria, afirmando que su respaldo sacó a De la Espriella del décimo lugar. La transición avanza: nombres para Hacienda circulan, Chile confirma asistencia a la posesión, y el uribismo articula coalición. La disputa ya no es sobre el conteo sino sobre legitimidad y gobernabilidad futura.",
+  "hora": "17:01",
+  "titular_del_dia": "Uribismo se declara bancada de gobierno mientras Cristo reconoce derrota y UE señala a Petro por desinformación",
+  "editorial": "La transición avanza con señales claras de realineamiento político. El Centro Democrático se declara formalmente bancada de gobierno, pese a la tensión pública entre Uribe y el estratega de De la Espriella. Cristo reconoce la derrota, fracturando la narrativa de resistencia del Pacto Histórico. La Unión Europea cierra el debate técnico: el sistema funcionó, Petro contribuyó a la desinformación. El escrutinio mostró coincidencia del 99,997% con el preconteo, mientras el Pacto Histórico presenta tutela contra el CNE por el voto del exterior. La disputa ya no es electoral sino sobre legitimidad y construcción de coalición. De la Espriella anuncia ingreso al Escudo de las Américas desde el 7 de agosto, señalando prioridades geopolíticas inmediatas.",
   "noticias": [
     {
-      "titular": "Autoridades electorales terminaron el 100% del escrutinio: resultado oficial confirma victoria de De la Espriella",
-      "contexto": "El escrutinio concluyó completamente. Las 57.000 reclamaciones de Cepeda no modificaron el margen final. Proceso cerrado sin reversión posible.",
+      "titular": "Centro Democrático se declara primera bancada de gobierno frente a De la Espriella",
+      "contexto": "El partido formalizó su apoyo como bancada oficialista, primera organización en hacerlo. Propone reforma a JEP, mejorar seguridad y rescatar salud. Señal clara de construcción de coalición pese a roces públicos con el estratega de campaña.",
       "fuente": "La FM"
     },
     {
-      "titular": "Petro insiste en fraude electoral y afirma que están contando formularios E14 alterados",
-      "contexto": "Pese a validaciones de OEA, Procuraduría y misiones internacionales, el presidente saliente mantiene narrativa de irregularidades. Escalada retórica que desafía el consenso institucional.",
-      "fuente": "La FM"
+      "titular": "Juan Fernando Cristo reconoce triunfo de De la Espriella: 'Los colombianos decidieron'",
+      "contexto": "El operador político de Cepeda reconoce formalmente la victoria del rival. Primera figura de primer nivel del Pacto en hacerlo, abriendo fisura con la narrativa de Petro y el propio Cepeda.",
+      "fuente": "El Tiempo / La Silla Vacía"
     },
     {
-      "titular": "Trump se atribuye victoria de De la Espriella: Estaba en décimo lugar, lo apoyé y ganó",
-      "contexto": "El presidente estadounidense reclama crédito directo por el triunfo, afirmando que su respaldo fue determinante. Refuerza narrativa de realineamiento geopolítico inmediato.",
-      "fuente": "La FM / El Tiempo"
-    },
-    {
-      "titular": "CNE descartó reconteo voto a voto en el exterior como pidió Cepeda",
-      "contexto": "Consejo Nacional Electoral rechazó formalmente la solicitud del candidato derrotado. Cierra última vía de cuestionamiento técnico del resultado.",
-      "fuente": "Blu Radio"
-    },
-    {
-      "titular": "Presidente de Chile confirma asistencia a posesión de De la Espriella y anuncia nueva etapa en relaciones bilaterales",
-      "contexto": "Gabriel Boric felicitó oficialmente a De la Espriella y confirmó que asistirá a la ceremonia de posesión. Señal de normalización diplomática regional.",
+      "titular": "Unión Europea señala que Petro pudo haber contribuido a la desinformación por denuncias de fraude sin evidencias",
+      "contexto": "La Misión UE cuestiona directamente al presidente saliente: 'Debe cumplir su labor como mandatario, no es un candidato'. Validó transparencia del proceso electoral y cerró espacio técnico para cuestionamientos.",
       "fuente": "La FM / Blu Radio"
     },
     {
-      "titular": "Nuevo rifirrafe entre Uribe y el estratega de campaña de De la Espriella",
-      "contexto": "Tensión emerge entre el expresidente Uribe y Carlos Suárez, estratega de la campaña ganadora. Anticipa posibles fricciones en la construcción de coalición de gobierno.",
+      "titular": "Pacto Histórico presenta tutela contra CNE por escrutar votos del exterior sin material físico",
+      "contexto": "La colectividad rechaza decisión del CNE y acude a vía judicial. Última línea de cuestionamiento técnico tras cierre del escrutinio con coincidencia del 99,997%.",
       "fuente": "La FM"
+    },
+    {
+      "titular": "De la Espriella anuncia que Colombia hará parte del 'Escudo de las Américas' desde el 7 de agosto",
+      "contexto": "Primera decisión de política exterior del presidente electo, confirmando realineamiento geopolítico inmediato con Washington. Señal de prioridades para primer día de gobierno.",
+      "fuente": "El Tiempo / La FM"
+    },
+    {
+      "titular": "Uribe arremete de nuevo contra estratega de De la Espriella: 'se convirtió en bandido'",
+      "contexto": "Álvaro Uribe escaló ataques contra Carlos Suárez, llamándolo 'fósil', 'solapado' y 'bandido'. Tensión pública persiste incluso con Centro Democrático ya como bancada de gobierno, anticipando fricciones internas en la coalición.",
+      "fuente": "La FM / La Silla Vacía"
     }
   ],
-  "para_estar_atento": "Primeros anuncios oficiales de gabinete podrían concretarse esta semana, especialmente Hacienda. Seguimiento a reacción del Pacto Histórico tras cierre del escrutinio: si escalan movilizaciones o aceptan derrota. Construcción de coalición en Congreso define gobernabilidad futura."
+  "para_estar_atento": "Posible oficialización de primeros nombres de gabinete esta semana, especialmente Hacienda. Desarrollo judicial de la tutela del Pacto Histórico contra el CNE. Indagatoria a Uribe por masacres de El Aro y La Granja programada para el 24 de julio."
 }
