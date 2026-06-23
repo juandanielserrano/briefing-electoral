@@ -1,39 +1,39 @@
 {
-  "fecha": "lunes 22 de junio de 2026",
-  "hora": "17:01",
-  "titular_del_dia": "Misiones internacionales validan transparencia electoral mientras escrutinio avanza sin revertir ventaja de De la Espriella",
-  "editorial": "La jornada poselectoral se resuelve con legitimación institucional masiva: OEA, misiones de transparencia y Procuraduría certifican normalidad en el proceso, neutralizando el intento del Pacto de cuestionar los resultados. Con 90% del escrutinio departamental completado y el nacional iniciando mañana, las 57.189 mesas reclamadas por Cepeda representan volumen sin sustancia: históricamente, ninguna impugnación ha revertido un margen de 247.000 votos. La estrategia de Cepeda se desinfla ante la realidad del escrutinio. Mientras tanto, De la Espriella acelera transición: nombres para Hacienda circulan, uribismo articula coalición congresual y gremios ya presentan agendas. La disputa se desplaza del conteo electoral a la gobernabilidad futura.",
+  "fecha": "martes 23 de junio de 2026",
+  "hora": "06:01",
+  "titular_del_dia": "Escrutinio concluye oficialmente mientras Petro insiste en fraude y Trump se atribuye la victoria de De la Espriella",
+  "editorial": "El escrutinio cerró al 100% sin alterar el resultado: De la Espriella confirmó su ventaja. Las 57.000 reclamaciones de Cepeda no modificaron tendencia alguna, como era previsible. El CNE descartó el reconteo voto a voto en el exterior que pidió el candidato derrotado. Mientras tanto, la narrativa política se polariza: Petro insiste en fraude con formularios E14 alterados, desafiando certificaciones internacionales y de la Procuraduría. Trump reclama crédito por la victoria, afirmando que su respaldo sacó a De la Espriella del décimo lugar. La transición avanza: nombres para Hacienda circulan, Chile confirma asistencia a la posesión, y el uribismo articula coalición. La disputa ya no es sobre el conteo sino sobre legitimidad y gobernabilidad futura.",
   "noticias": [
     {
-      "titular": "Misiones internacionales certifican transparencia electoral y descartan irregularidades",
-      "contexto": "OEA, Transparencia Electoral y observadores internacionales emitieron reportes destacando normalidad del proceso y alta participación. Golpe directo a narrativa de fraude del Pacto Histórico. Procuraduría descarta fraude por el momento.",
-      "fuente": "El Tiempo / La FM"
+      "titular": "Autoridades electorales terminaron el 100% del escrutinio: resultado oficial confirma victoria de De la Espriella",
+      "contexto": "El escrutinio concluyó completamente. Las 57.000 reclamaciones de Cepeda no modificaron el margen final. Proceso cerrado sin reversión posible.",
+      "fuente": "La FM"
     },
     {
-      "titular": "Registraduría reporta 90% del escrutinio departamental completado; nacional inicia mañana",
-      "contexto": "Balance oficial confirma avance acelerado del escrutinio. En Antioquia solo quedan 10 municipios pendientes. Ritmo sugiere cierre definitivo entre miércoles y jueves como proyectado.",
-      "fuente": "El Colombiano / La FM"
+      "titular": "Petro insiste en fraude electoral y afirma que están contando formularios E14 alterados",
+      "contexto": "Pese a validaciones de OEA, Procuraduría y misiones internacionales, el presidente saliente mantiene narrativa de irregularidades. Escalada retórica que desafía el consenso institucional.",
+      "fuente": "La FM"
     },
     {
-      "titular": "Cepeda escaló reclamaciones a 57.189 mesas pero sin impacto en margen de De la Espriella",
-      "contexto": "Pacto aumentó de 33.000 a 57.189 mesas impugnadas durante escrutinio, pero ninguna ha modificado tendencia. Volumen alto pero sin sustancia que altere resultado final.",
-      "fuente": "La Silla Vacía / Blu Radio"
+      "titular": "Trump se atribuye victoria de De la Espriella: Estaba en décimo lugar, lo apoyé y ganó",
+      "contexto": "El presidente estadounidense reclama crédito directo por el triunfo, afirmando que su respaldo fue determinante. Refuerza narrativa de realineamiento geopolítico inmediato.",
+      "fuente": "La FM / El Tiempo"
     },
     {
-      "titular": "Netanyahu y Trump felicitan a De la Espriella; recomposición acelerada de relaciones internacionales",
-      "contexto": "Primer ministro de Israel se suma a Trump en contactos oficiales con presidente electo. Señal de realineamiento geopolítico inmediato tras victoria. Contrasta con aislamiento internacional del gobierno Petro.",
-      "fuente": "El Tiempo"
+      "titular": "CNE descartó reconteo voto a voto en el exterior como pidió Cepeda",
+      "contexto": "Consejo Nacional Electoral rechazó formalmente la solicitud del candidato derrotado. Cierra última vía de cuestionamiento técnico del resultado.",
+      "fuente": "Blu Radio"
     },
     {
-      "titular": "Circulan nombres para Ministerio de Hacienda; gabinete De la Espriella toma forma",
-      "contexto": "Primeras filtraciones sobre equipo económico activan expectativa de mercados y gremios. Señal de transición operativa mientras escrutinio aún corre. Camacol y ACOPI ya presentan agendas al entrante gobierno.",
-      "fuente": "El Colombiano / La FM"
+      "titular": "Presidente de Chile confirma asistencia a posesión de De la Espriella y anuncia nueva etapa en relaciones bilaterales",
+      "contexto": "Gabriel Boric felicitó oficialmente a De la Espriella y confirmó que asistirá a la ceremonia de posesión. Señal de normalización diplomática regional.",
+      "fuente": "La FM / Blu Radio"
     },
     {
-      "titular": "Uribismo anuncia construcción de coalición en Congreso para respaldar a De la Espriella",
-      "contexto": "Centro Democrático prepara agenda legislativa concertada con nuevo gobierno. Movimiento anticipa mayorías para reformas clave y contrasta con fragmentación que enfrentó Petro.",
-      "fuente": "La FM / La Silla Vacía"
+      "titular": "Nuevo rifirrafe entre Uribe y el estratega de campaña de De la Espriella",
+      "contexto": "Tensión emerge entre el expresidente Uribe y Carlos Suárez, estratega de la campaña ganadora. Anticipa posibles fricciones en la construcción de coalición de gobierno.",
+      "fuente": "La FM"
     }
   ],
-  "para_estar_atento": "Escrutinio nacional inicia mañana martes y definirá si impugnaciones de Cepeda tienen algún efecto material, aunque margen hace reverso estadísticamente imposible. Primeros anuncios de gabinete De la Espriella podrían llegar esta semana, marcando tono del gobierno entrante."
+  "para_estar_atento": "Primeros anuncios oficiales de gabinete podrían concretarse esta semana, especialmente Hacienda. Seguimiento a reacción del Pacto Histórico tras cierre del escrutinio: si escalan movilizaciones o aceptan derrota. Construcción de coalición en Congreso define gobernabilidad futura."
 }
