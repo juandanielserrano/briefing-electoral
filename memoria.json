@@ -1,1 +1,100 @@
-{}
+{
+  "fecha": "martes 23 de junio de 2026",
+  "hora": "18:51",
+  "titular_del_dia": "Centro Democrático se declara partido de gobierno mientras continúa el escrutinio",
+  "resumen": "El uribismo marca su territorio. El Centro Democrático se convirtió en el primer partido en declararse bancada de gobierno, una señal calculada hacia De la Espriella que anticipa la conformación de mayorías en el Congreso. Sin embargo, la movida ocurre en medio de una pugna entre Uribe y Carlos Suárez, asesor del presidente electo, evidenciando tensiones internas en la coalición. El escrutinio avanza con normalidad: la Registraduría reporta 99,99% de coincidencia entre preconteo y escrutinio, aunque se suspendió temporalmente la audiencia en Bogotá por una reclamación sobre 30 mesas. Observadores internacionales (UE, IRI) validaron la transparencia del proceso pese a denuncias sin sustento. Cepeda aún no reconoce formalmente su derrota. En gabinete circulan tres nombres sin especificar para carteras no identificadas. La transición avanza sin empalme formal visible: Juan Fernando Cristo (operador político de Cepeda) y Saade (funcionario de Petro) reconocieron la victoria, pero el gobierno saliente mantiene perfil bajo. Petro se enfoca en temas de gestión (Hidroituango, UNGRD).",
+  "titulares": [
+    "Centro Democrático se declara partido de gobierno frente a De la Espriella",
+    "Registraduría reporta 99,99% de coincidencia entre preconteo y escrutinio oficial",
+    "Observadores internacionales validan transparencia electoral pese a denuncias",
+    "Juan Fernando Cristo y Saade reconocen victoria de De la Espriella",
+    "Fiscalía cita a indagatoria a Uribe por masacres de El Aro y La Granja",
+    "Pacto Histórico presenta tutela contra escrutinio de votos del exterior"
+  ],
+  "gabinete": {
+    "Interior": {
+      "sector": "Político-institucional",
+      "nombre_principal": "",
+      "nombre_alternativo": "",
+      "estado": "vacante",
+      "fuente": ""
+    },
+    "Cancillería": {
+      "sector": "Político-institucional",
+      "nombre_principal": "",
+      "nombre_alternativo": "",
+      "estado": "vacante",
+      "fuente": ""
+    },
+    "Defensa": {
+      "sector": "Político-institucional",
+      "nombre_principal": "",
+      "nombre_alternativo": "",
+      "estado": "vacante",
+      "fuente": ""
+    },
+    "Justicia": {
+      "sector": "Político-institucional",
+      "nombre_principal": "",
+      "nombre_alternativo": "",
+      "estado": "vacante",
+      "fuente": ""
+    },
+    "Hacienda": {
+      "sector": "Económico",
+      "nombre_principal": "",
+      "nombre_alternativo": "",
+      "estado": "vacante",
+      "fuente": ""
+    },
+    "DNP": {
+      "sector": "Económico",
+      "nombre_principal": "",
+      "nombre_alternativo": "",
+      "estado": "vacante",
+      "fuente": ""
+    },
+    "Comercio": {
+      "sector": "Económico",
+      "nombre_principal": "",
+      "nombre_alternativo": "",
+      "estado": "vacante",
+      "fuente": ""
+    },
+    "Minas y Energía": {
+      "sector": "Económico",
+      "nombre_principal": "",
+      "nombre_alternativo": "",
+      "estado": "vacante",
+      "fuente": ""
+    },
+    "Salud": {
+      "sector": "Social",
+      "nombre_principal": "",
+      "nombre_alternativo": "",
+      "estado": "vacante",
+      "fuente": ""
+    },
+    "Educación": {
+      "sector": "Social",
+      "nombre_principal": "",
+      "nombre_alternativo": "",
+      "estado": "vacante",
+      "fuente": ""
+    },
+    "Trabajo": {
+      "sector": "Social",
+      "nombre_principal": "",
+      "nombre_alternativo": "",
+      "estado": "vacante",
+      "fuente": ""
+    },
+    "Ambiente": {
+      "sector": "Social",
+      "nombre_principal": "",
+      "nombre_alternativo": "",
+      "estado": "vacante",
+      "fuente": ""
+    }
+  }
+}
