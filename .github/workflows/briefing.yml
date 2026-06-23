@@ -28,7 +28,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
 
-        run: python3 briefing.py
+        run: python3 bitacora.py
 
       - name: Guardar memoria
         run: |
