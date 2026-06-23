@@ -32,6 +32,7 @@ SCRIPT_DIR      = Path(__file__).parent
 OUTPUT_HTML     = SCRIPT_DIR / "bitacora.html"
 LOG_FILE        = SCRIPT_DIR / "bitacora.log"
 DESTINATARIOS_F = SCRIPT_DIR / "destinatarios.txt"
+CONFIG_F        = SCRIPT_DIR / "config.txt"
 MEMORIA_F       = SCRIPT_DIR / "memoria.json"
 
 EMAIL_REMITENTE = "juandanielserrano@gmail.com"
@@ -93,11 +94,26 @@ def log(msg):
         f.write(line + "\n")
 
 
+# ── Configuración desde archivo ───────────────────────────────────────────────
+
+def leer_config() -> dict:
+    """Lee config.txt. Las variables de entorno tienen prioridad si existen."""
+    config = {"MODO": "produccion", "EMAIL_ADMIN": "juandanielserrano@gmail.com"}
+    if CONFIG_F.exists():
+        for linea in CONFIG_F.read_text(encoding="utf-8").splitlines():
+            linea = linea.strip()
+            if linea and not linea.startswith("#") and "=" in linea:
+                clave, valor = linea.split("=", 1)
+                config[clave.strip()] = valor.strip()
+    return config
+
+
 # ── Destinatarios ─────────────────────────────────────────────────────────────
 
 def leer_destinatarios() -> list:
-    modo        = os.environ.get("MODO", "produccion").strip().lower()
-    email_admin = os.environ.get("EMAIL_ADMIN", "juandanielserrano@gmail.com").strip()
+    cfg         = leer_config()
+    modo        = os.environ.get("MODO", cfg.get("MODO", "produccion")).strip().lower()
+    email_admin = os.environ.get("EMAIL_ADMIN", cfg.get("EMAIL_ADMIN", "juandanielserrano@gmail.com")).strip()
 
     if modo == "pruebas":
         log(f"MODO PRUEBAS — enviando solo a {email_admin}")
@@ -945,7 +961,8 @@ def enviar_email(html_content: str, titular: str, destinatarios: list, gmail_pas
 def main():
     api_key    = os.environ.get("ANTHROPIC_API_KEY", "").strip()
     gmail_pass = os.environ.get("GMAIL_APP_PASSWORD", "").strip()
-    modo       = os.environ.get("MODO", "produccion").strip().lower()
+    cfg        = leer_config()
+    modo       = os.environ.get("MODO", cfg.get("MODO", "produccion")).strip().lower()
 
     if not api_key:
         log("ERROR: Variable ANTHROPIC_API_KEY no encontrada.")
