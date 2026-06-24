@@ -343,6 +343,13 @@ def llamar_api(contexto: str, api_key: str, gabinete_actual: dict) -> dict:
 
 # ── Helpers de renderizado ────────────────────────────────────────────────────
 
+def _stats_gabinete(gabinete: dict) -> tuple:
+    """Devuelve (confirmados, suenan, vacantes) contando el gabinete actual."""
+    confirmados = sum(1 for d in gabinete.values() if d.get("estado") == "confirmado")
+    suenan      = sum(1 for d in gabinete.values() if d.get("estado") == "suena")
+    vacantes    = sum(1 for d in gabinete.values() if d.get("estado") == "vacante")
+    return confirmados, suenan, vacantes
+
 def _chip_empalme_css(campo: str, val: str) -> str:
     """Chips del panel de empalme — versión con clases CSS para HTML web."""
     if campo == "gabinete":
@@ -537,6 +544,8 @@ def generar_html(briefing: dict, gabinete: dict) -> str:
     nota_e  = html.escape(e.get("nota", ""))
     editorial = html.escape(briefing.get("editorial", ""))
     noticias  = briefing.get("noticias", [])
+    gab_conf, gab_sue, gab_vac = _stats_gabinete(gabinete)
+    gab_total = len(gabinete) or len(CARTERAS_BASE)
 
     def chip(val, campo):
         return _chip_empalme_css(campo, val)
@@ -677,19 +686,24 @@ table.gb tbody tr{{border-top:1px solid #d4cfc6}}
 
     <div class="scoreboard">
       <div class="score-item">
-        <div class="score-lbl">De la Espriella</div>
-        <div class="score-val" style="color:{C_ROJO}">43,74%</div>
-        <div class="score-sub">Presidente electo</div>
+        <div class="score-lbl">7 agosto 2026</div>
+        <div class="score-val" style="color:{C_AMARILLO};font-size:32px">{dias_pos}</div>
+        <div class="score-sub">d&iacute;as para posesi&oacute;n</div>
       </div>
       <div class="score-item">
-        <div class="score-lbl">Posesi&oacute;n</div>
-        <div class="score-val" style="color:{C_AZUL};font-size:16px">7 ago 2026</div>
-        <div class="score-sub">{dias_pos} d&iacute;as</div>
+        <div class="score-lbl">Confirmados</div>
+        <div class="score-val" style="color:{C_AZUL}">{gab_conf}</div>
+        <div class="score-sub">de {gab_total} carteras</div>
       </div>
       <div class="score-item">
-        <div class="score-lbl">Empalme</div>
-        <div class="score-val" style="font-size:14px">En curso</div>
-        <div class="score-sub">Gobierno saliente</div>
+        <div class="score-lbl">Suenan</div>
+        <div class="score-val" style="color:#C8860A">{gab_sue}</div>
+        <div class="score-sub">en evaluaci&oacute;n</div>
+      </div>
+      <div class="score-item">
+        <div class="score-lbl">Vacantes</div>
+        <div class="score-val" style="color:#888">{gab_vac}</div>
+        <div class="score-sub">sin definir</div>
       </div>
     </div>
 
@@ -749,6 +763,8 @@ def generar_html_email(briefing: dict, gabinete: dict) -> str:
     nota_e   = html.escape(e.get("nota", ""))
     editorial_e = html.escape(briefing.get("editorial", ""))
     noticias_e  = briefing.get("noticias", [])
+    gab_conf, gab_sue, gab_vac = _stats_gabinete(gabinete)
+    gab_total = len(gabinete) or len(CARTERAS_BASE)
 
     def noticias_email(items):
         if not items:
@@ -850,20 +866,25 @@ def generar_html_email(briefing: dict, gabinete: dict) -> str:
     <!-- Scoreboard -->
     <tr><td style="border-top:3px solid {C_AZUL};border-bottom:1px solid #d4cfc6;padding:10px 0 12px">
       <table width="100%" cellpadding="0" cellspacing="0"><tr>
-        <td width="33%" style="text-align:center;border-right:1px solid #d4cfc6;padding:0 8px">
-          <p style="margin:0;font-size:9px;text-transform:uppercase;letter-spacing:.07em;color:#888;font-family:Helvetica,Arial,sans-serif;font-weight:bold">De la Espriella</p>
-          <p style="margin:3px 0 1px;font-size:22px;font-weight:bold;color:{C_ROJO};font-family:Helvetica,Arial,sans-serif">43,74%</p>
-          <p style="margin:0;font-size:10px;color:#888;font-family:Helvetica,Arial,sans-serif">Presidente electo</p>
+        <td width="25%" style="text-align:center;border-right:1px solid #d4cfc6;padding:0 8px">
+          <p style="margin:0;font-size:9px;text-transform:uppercase;letter-spacing:.07em;color:#888;font-family:Helvetica,Arial,sans-serif;font-weight:bold">7 agosto 2026</p>
+          <p style="margin:3px 0 1px;font-size:28px;font-weight:bold;color:{C_AMARILLO};font-family:Helvetica,Arial,sans-serif">{dias_pos}</p>
+          <p style="margin:0;font-size:10px;color:#888;font-family:Helvetica,Arial,sans-serif">d&iacute;as posesi&oacute;n</p>
         </td>
-        <td width="33%" style="text-align:center;border-right:1px solid #d4cfc6;padding:0 8px">
-          <p style="margin:0;font-size:9px;text-transform:uppercase;letter-spacing:.07em;color:#888;font-family:Helvetica,Arial,sans-serif;font-weight:bold">Posesi&oacute;n</p>
-          <p style="margin:3px 0 1px;font-size:16px;font-weight:bold;color:{C_AZUL};font-family:Helvetica,Arial,sans-serif">7 ago 2026</p>
-          <p style="margin:0;font-size:10px;color:#888;font-family:Helvetica,Arial,sans-serif">{dias_pos} d&iacute;as</p>
+        <td width="25%" style="text-align:center;border-right:1px solid #d4cfc6;padding:0 8px">
+          <p style="margin:0;font-size:9px;text-transform:uppercase;letter-spacing:.07em;color:#888;font-family:Helvetica,Arial,sans-serif;font-weight:bold">Confirmados</p>
+          <p style="margin:3px 0 1px;font-size:26px;font-weight:bold;color:{C_AZUL};font-family:Helvetica,Arial,sans-serif">{gab_conf}</p>
+          <p style="margin:0;font-size:10px;color:#888;font-family:Helvetica,Arial,sans-serif">de {gab_total} carteras</p>
         </td>
-        <td width="34%" style="text-align:center;padding:0 8px">
-          <p style="margin:0;font-size:9px;text-transform:uppercase;letter-spacing:.07em;color:#888;font-family:Helvetica,Arial,sans-serif;font-weight:bold">Empalme</p>
-          <p style="margin:3px 0 1px;font-size:14px;font-weight:bold;color:#1a1208;font-family:Helvetica,Arial,sans-serif">En curso</p>
-          <p style="margin:0;font-size:10px;color:#888;font-family:Helvetica,Arial,sans-serif">Gobierno saliente</p>
+        <td width="25%" style="text-align:center;border-right:1px solid #d4cfc6;padding:0 8px">
+          <p style="margin:0;font-size:9px;text-transform:uppercase;letter-spacing:.07em;color:#888;font-family:Helvetica,Arial,sans-serif;font-weight:bold">Suenan</p>
+          <p style="margin:3px 0 1px;font-size:26px;font-weight:bold;color:#C8860A;font-family:Helvetica,Arial,sans-serif">{gab_sue}</p>
+          <p style="margin:0;font-size:10px;color:#888;font-family:Helvetica,Arial,sans-serif">en evaluaci&oacute;n</p>
+        </td>
+        <td width="25%" style="text-align:center;padding:0 8px">
+          <p style="margin:0;font-size:9px;text-transform:uppercase;letter-spacing:.07em;color:#888;font-family:Helvetica,Arial,sans-serif;font-weight:bold">Vacantes</p>
+          <p style="margin:3px 0 1px;font-size:26px;font-weight:bold;color:#888;font-family:Helvetica,Arial,sans-serif">{gab_vac}</p>
+          <p style="margin:0;font-size:10px;color:#888;font-family:Helvetica,Arial,sans-serif">sin definir</p>
         </td>
       </tr></table>
     </td></tr>
