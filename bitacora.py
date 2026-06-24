@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Bitácora del Empalme · Colombia 2026
+Bitácora de Empalme · Colombia 2026
 Monitorea la transición presidencial: gabinete, apoyos y entrega del poder.
 Genera un resumen diario y lo envía por email.
 """
@@ -36,7 +36,7 @@ CONFIG_F        = SCRIPT_DIR / "config.txt"
 MEMORIA_F       = SCRIPT_DIR / "memoria.json"
 
 EMAIL_REMITENTE = "juandanielserrano@gmail.com"
-EMAIL_NOMBRE    = "Bitácora del Empalme"
+EMAIL_NOMBRE    = "Bitácora de Empalme"
 
 POSESION = datetime.date(2026, 8, 7)
 
@@ -268,7 +268,7 @@ def llamar_api(contexto: str, api_key: str, gabinete_actual: dict) -> dict:
         f"- Iván Cepeda Castro (Pacto Histórico) perdió. El gobierno Petro está en transición.\n"
         f"- La Registraduría aún no ha certificado formalmente el resultado "
         f"(actualiza este dato si los medios lo confirman o desmienten).\n\n"
-        f"Genera una Bitácora del Empalme ejecutiva. Prioridades editoriales en orden:\n"
+        f"Genera una Bitácora de Empalme ejecutiva. Prioridades editoriales en orden:\n"
         f"1. Conformación del gabinete: quiénes suenan, quiénes se confirmaron, perfiles breves.\n"
         f"2. Apoyos políticos y alianzas que está construyendo De la Espriella.\n"
         f"3. Anuncios de política pública del presidente electo.\n"
@@ -605,7 +605,7 @@ def generar_html(briefing: dict, gabinete: dict) -> str:
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta http-equiv="refresh" content="1800">
-<title>Bit&aacute;cora del Empalme &middot; {fecha_bonita}</title>
+<title>Bit&aacute;cora de Empalme &middot; {fecha_bonita}</title>
 <style>
 *,*::before,*::after{{box-sizing:border-box;margin:0;padding:0}}
 body{{font-family:Georgia,'Times New Roman',serif;background:#F4F1EC;color:#1a1208;min-height:100vh}}
@@ -678,7 +678,7 @@ table.gb tbody tr{{border-top:1px solid #d4cfc6}}
   <div class="flag"><div class="flag-y"></div><div class="flag-b"></div><div class="flag-r"></div></div>
 
   <div class="masthead">
-    <span class="masthead-title">Bit&aacute;cora del Empalme &middot; Colombia 2026</span>
+    <span class="masthead-title">Bit&aacute;cora de Empalme &middot; Colombia 2026</span>
     <span class="masthead-date">{fecha_bonita} &middot; {hora_str}</span>
   </div>
 
@@ -854,7 +854,7 @@ def generar_html_email(briefing: dict, gabinete: dict) -> str:
   <!-- Masthead -->
   <tr><td colspan="3" style="background:{C_AZUL};padding:10px 24px">
     <table width="100%" cellpadding="0" cellspacing="0"><tr>
-      <td><p style="margin:0;color:{C_AMARILLO};font-size:12px;font-weight:bold;letter-spacing:.08em;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif">Bit&aacute;cora del Empalme &middot; Colombia 2026</p></td>
+      <td><p style="margin:0;color:{C_AMARILLO};font-size:12px;font-weight:bold;letter-spacing:.08em;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif">Bit&aacute;cora de Empalme &middot; Colombia 2026</p></td>
       <td align="right"><p style="margin:0;color:rgba(255,255,255,.7);font-size:10px;font-family:Helvetica,Arial,sans-serif">{fecha_bonita} &middot; {hora_str}</p></td>
     </tr></table>
   </td></tr>
@@ -960,7 +960,7 @@ def enviar_email(html_content: str, titular: str, destinatarios: list, gmail_pas
               "julio","agosto","septiembre","octubre","noviembre","diciembre"]
     fecha  = f"{ahora.day} de {meses[ahora.month]}"
     hora   = ahora.strftime("%H:%M")
-    asunto = f"Bitácora del Empalme {fecha} {hora} · {titular}"
+    asunto = f"Bitácora de Empalme {fecha} {hora} · {titular}"
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = asunto
@@ -991,7 +991,7 @@ def main():
     if not gmail_pass:
         log("AVISO: GMAIL_APP_PASSWORD no encontrada. Se generará el HTML pero no se enviará email.")
 
-    log("=== Iniciando Bitácora del Empalme ===")
+    log("=== Iniciando Bitácora de Empalme ===")
 
     try:
         _, gabinete_actual = cargar_memoria()
