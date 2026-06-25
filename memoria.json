@@ -1,15 +1,15 @@
 {
-  "fecha": "miércoles 24 de junio de 2026",
+  "fecha": "jueves 25 de junio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "CNE declara oficialmente a De la Espriella presidente electo; Venezuela reconoce la victoria",
-  "resumen": "El CNE cerró el ciclo electoral declarando oficialmente la elección de De la Espriella con 12.960.166 votos, certificando el resultado tras concluir el escrutinio sin novedades. El reconocimiento formal llegó desde dos frentes inesperados: Iván Cepeda aceptó su curul en el Senado y admitió errores de campaña, mientras Venezuela reconoció la victoria y pidió mantener canales de diálogo. De la Espriella consolidó su primera alianza territorial con Carlos Fernando Galán, anunciando trabajo coordinado con Bogotá. En política exterior, confirmó restablecimiento de relaciones con Israel tras conversación con su canciller. Thomas Greg denunció a un excandidato del Pacto Histórico por difundir desinformación sobre el escrutinio, señal de que persisten tensiones residuales. La transición avanza sin empalme formal visible: no hay reuniones documentadas entre equipos de gobierno, y el gabinete sigue vacío pese a rumores. Los próximos días definirán si De la Espriella anuncia nombres antes de julio o mantiene el silencio hasta la posesión.",
+  "titular_del_dia": "Cambio Radical se suma como partido de gobierno; De la Espriella da ultimátum de un mes a grupos armados",
+  "resumen": "La transición acelera en lo político pero sigue congelada en lo administrativo. Cambio Radical formalizó su adhesión al gobierno entrante, consolidando la segunda alianza programática tras Galán. El movimiento refuerza mayorías legislativas para reformas clave. De la Espriella recibió credencial del CNE y trazó líneas rojas: ultimátum de un mes a grupos ilegales para sometimiento, auditoría forense a Petro, y primera reunión con altas cortes anticipando separación entre ejecutivo y justicia. El Pacto Histórico se declaró formalmente oposición mientras Cepeda inicia gira para liderarla más allá de Petro. Lula reconoció la victoria. El gabinete permanece vacío: La FM reporta \"fijos y los que suenan\" sin especificar nombres, señal de que los anuncios siguen retenidos. La ausencia de empalme técnico persiste sin registro de reuniones entre equipos. El presidente electo prioriza posicionamiento político —cortes, partidos, ultimátum a armados— sobre nombramientos, apostando a anuncios concentrados más cerca de agosto.",
   "titulares": [
-    "CNE declara oficialmente a De la Espriella presidente electo con 12.960.166 votos",
-    "Venezuela reconoce victoria de De la Espriella y pide mantener diálogo bilateral",
-    "Iván Cepeda acepta curul en Senado y reconoce errores de campaña",
-    "De la Espriella se reúne con Galán y anuncia trabajo coordinado con Bogotá",
-    "De la Espriella confirma restablecimiento de relaciones con Israel tras conversación con canciller",
-    "Thomas Greg denuncia a excandidato del Pacto Histórico por desinformación sobre escrutinio"
+    "Cambio Radical se declara partido de gobierno frente a De la Espriella",
+    "De la Espriella da ultimátum de un mes a grupos ilegales para someterse al Estado",
+    "Lula reconoce victoria de Abelardo: \"Que sigamos trabajando juntos\"",
+    "Pacto Histórico se declara formalmente partido de oposición al gobierno De la Espriella",
+    "De la Espriella anuncia auditoría forense a la administración Petro",
+    "Primera reunión de De la Espriella con altas cortes anticipa nueva etapa judicial-ejecutivo"
   ],
   "gabinete": {
     "Interior": {
