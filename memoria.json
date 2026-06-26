@@ -1,23 +1,23 @@
 {
-  "fecha": "jueves 25 de junio de 2026",
+  "fecha": "viernes 26 de junio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Cambio Radical se suma como partido de gobierno; De la Espriella da ultimátum de un mes a grupos armados",
-  "resumen": "La transición acelera en lo político pero sigue congelada en lo administrativo. Cambio Radical formalizó su adhesión al gobierno entrante, consolidando la segunda alianza programática tras Galán. El movimiento refuerza mayorías legislativas para reformas clave. De la Espriella recibió credencial del CNE y trazó líneas rojas: ultimátum de un mes a grupos ilegales para sometimiento, auditoría forense a Petro, y primera reunión con altas cortes anticipando separación entre ejecutivo y justicia. El Pacto Histórico se declaró formalmente oposición mientras Cepeda inicia gira para liderarla más allá de Petro. Lula reconoció la victoria. El gabinete permanece vacío: La FM reporta \"fijos y los que suenan\" sin especificar nombres, señal de que los anuncios siguen retenidos. La ausencia de empalme técnico persiste sin registro de reuniones entre equipos. El presidente electo prioriza posicionamiento político —cortes, partidos, ultimátum a armados— sobre nombramientos, apostando a anuncios concentrados más cerca de agosto.",
+  "titular_del_dia": "Rodrigo Lara asume Interior: primer ministro confirmado a 42 días de la posesión",
+  "resumen": "La transición rompe su silencio en gabinete. Rodrigo Lara Restrepo será ministro del Interior, confirmado por múltiples medios. Hijo del ministro asesinado por Escobar en 1984, llega con mandato de articulación legislativa tras consolidarse mayorías con Galán y Cambio Radical. María Fernanda Cabal suena para Defensa según La FM, señal de giro uribista en seguridad tras el ultimátum a grupos ilegales. De la Espriella activa frentes territoriales: recibió a Char en Barranquilla, Galán lo invitó al metro, diálogo con Gutiérrez en Cali. Benedetti ofrece empalme \"cuando decida\", confirmando que la transferencia técnica sigue en manos del electo. Petro felicita reunión con Cepeda, tono contenido mientras su vicecanciller llama \"fascista\" a la FIFA. Gregory Meeks, demócrata clave en política exterior, reconoce a De la Espriella, reforzando legitimidad internacional. El Frente 36 de las disidencias rechaza públicamente el ultimátum: \"no comemos del Tigre\", primera respuesta armada al plazo de sometimiento. Estrategia sigue: nombramientos concentrados, territorio activo, seguridad como eje.",
   "titulares": [
-    "Cambio Radical se declara partido de gobierno frente a De la Espriella",
-    "De la Espriella da ultimátum de un mes a grupos ilegales para someterse al Estado",
-    "Lula reconoce victoria de Abelardo: \"Que sigamos trabajando juntos\"",
-    "Pacto Histórico se declara formalmente partido de oposición al gobierno De la Espriella",
-    "De la Espriella anuncia auditoría forense a la administración Petro",
-    "Primera reunión de De la Espriella con altas cortes anticipa nueva etapa judicial-ejecutivo"
+    "Rodrigo Lara Restrepo confirmado como ministro del Interior",
+    "María Fernanda Cabal suena para el Ministerio de Defensa",
+    "Frente 36 de disidencias rechaza ultimátum de De la Espriella: \"no comemos del Tigre\"",
+    "De la Espriella activa relación con alcaldes de capitales: Galán, Char y Gutiérrez",
+    "Gregory Meeks, demócrata clave en política exterior de EE.UU., felicita a De la Espriella",
+    "Petro felicita a De la Espriella por reunión con Cepeda: \"la supo hacer\""
   ],
   "gabinete": {
     "Interior": {
       "sector": "Político-institucional",
-      "nombre_principal": "",
+      "nombre_principal": "Rodrigo Lara Restrepo",
       "nombre_alternativo": "",
-      "estado": "vacante",
-      "fuente": ""
+      "estado": "confirmado",
+      "fuente": "El Espectador, La FM, Blu Radio, El Tiempo"
     },
     "Cancillería": {
       "sector": "Político-institucional",
@@ -29,9 +29,9 @@
     "Defensa": {
       "sector": "Político-institucional",
       "nombre_principal": "",
-      "nombre_alternativo": "",
-      "estado": "vacante",
-      "fuente": ""
+      "nombre_alternativo": "María Fernanda Cabal",
+      "estado": "suena",
+      "fuente": "La FM"
     },
     "Justicia": {
       "sector": "Político-institucional",
