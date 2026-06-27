@@ -1,15 +1,14 @@
 {
-  "fecha": "viernes 26 de junio de 2026",
+  "fecha": "sábado 27 de junio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Rodrigo Lara asume Interior: primer ministro confirmado a 42 días de la posesión",
-  "resumen": "La transición rompe su silencio en gabinete. Rodrigo Lara Restrepo será ministro del Interior, confirmado por múltiples medios. Hijo del ministro asesinado por Escobar en 1984, llega con mandato de articulación legislativa tras consolidarse mayorías con Galán y Cambio Radical. María Fernanda Cabal suena para Defensa según La FM, señal de giro uribista en seguridad tras el ultimátum a grupos ilegales. De la Espriella activa frentes territoriales: recibió a Char en Barranquilla, Galán lo invitó al metro, diálogo con Gutiérrez en Cali. Benedetti ofrece empalme \"cuando decida\", confirmando que la transferencia técnica sigue en manos del electo. Petro felicita reunión con Cepeda, tono contenido mientras su vicecanciller llama \"fascista\" a la FIFA. Gregory Meeks, demócrata clave en política exterior, reconoce a De la Espriella, reforzando legitimidad internacional. El Frente 36 de las disidencias rechaza públicamente el ultimátum: \"no comemos del Tigre\", primera respuesta armada al plazo de sometimiento. Estrategia sigue: nombramientos concentrados, territorio activo, seguridad como eje.",
+  "titular_del_dia": "Restrepo confronta a Cancillería por nombramientos de última hora",
+  "resumen": "La transición entra en fase de confrontación técnica. José Manuel Restrepo, vicepresidente electo, acusa públicamente a la Cancillería de Luis Gilberto Murillo de intentar \"dejar amarrado al Estado\" mediante nombramientos en provisionalidad en la carrera diplomática. Exige suspensión inmediata, señalando que no pueden convertirse en \"refugio de salida o premio de consolación\". Es el primer choque institucional explícito del empalme, que hasta ahora había mantenido tono cordial. Petro designa al ministro de Hacienda, Germán Ávila, como coordinador del empalme por parte del gobierno saliente, respondiendo a la designación de Restrepo como líder anticorrupción por parte de De la Espriella. El electo mantiene estrategia territorial: continúa recorrido por santuarios, tras Las Lajas visita Nariño. Confirma que no pisará Casa de Nariño hasta el 7 de agosto. El sector salud activa mesas técnicas con el equipo de transición. No hay movimientos nuevos en gabinete.",
   "titulares": [
-    "Rodrigo Lara Restrepo confirmado como ministro del Interior",
-    "María Fernanda Cabal suena para el Ministerio de Defensa",
-    "Frente 36 de disidencias rechaza ultimátum de De la Espriella: \"no comemos del Tigre\"",
-    "De la Espriella activa relación con alcaldes de capitales: Galán, Char y Gutiérrez",
-    "Gregory Meeks, demócrata clave en política exterior de EE.UU., felicita a De la Espriella",
-    "Petro felicita a De la Espriella por reunión con Cepeda: \"la supo hacer\""
+    "Restrepo acusa a Cancillería de amarrar el Estado con nombramientos de última hora",
+    "Petro designa al ministro de Hacienda Germán Ávila como coordinador del empalme",
+    "De la Espriella confirma que no irá a Casa de Nariño hasta su posesión",
+    "Sector salud sostiene reuniones con equipo de empalme de De la Espriella",
+    "De la Espriella continúa recorrido por santuarios: visitó Nariño tras Las Lajas"
   ],
   "gabinete": {
     "Interior": {
