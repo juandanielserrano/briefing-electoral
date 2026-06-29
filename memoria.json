@@ -1,14 +1,15 @@
 {
-  "fecha": "domingo 28 de junio de 2026",
+  "fecha": "lunes 29 de junio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Pacto Histórico formaliza liderazgo dual Petro-Cepeda para oposición y elecciones 2027",
-  "resumen": "El Pacto Histórico cierra filas: reconoce formalmente a Petro y Cepeda como líderes conjuntos de la oposición y la reorganización hacia regionales 2027, señal de tregua tras tensiones internas. Restrepo abre nuevo frente: exige frenar nombramientos en la UNP bajo el Decreto 0670/2026, que faculta cambios estructurales y vinculaciones de última hora. Es el segundo choque técnico en 48 horas, tras Cancillería. De la Espriella ordena investigar los audios del Clan del Golfo e interponer denuncias, movimiento que busca blindaje jurídico y proyección internacional del caso. Petro responde: 'mi gobierno termina el 6 de agosto', rechaza presión sobre nombramientos y reivindica cifras de gestión. La transición mantiene tono confrontacional en lo técnico, mientras el electo continúa estrategia territorial-religiosa. No hay nuevos nombres de gabinete. Mauricio Cárdenas advierte sobre 'cuentas bajo el tapete' en el empalme fiscal. Falta certificación formal de resultados por la Registraduría.",
+  "titular_del_dia": "Petro viaja a Roma para reunirse con el Papa León XIV mientras De la Espriella responde a Karol G",
+  "resumen": "La transición mantiene dinámica dual: Petro proyecta agenda internacional con viaje a Roma para audiencia papal el 2 de julio, enfocada en verdad y paz, mientras denuncia desplante italiano (ningún funcionario oficial lo recibió en el aeropuerto). De la Espriella consolida narrativa de unidad nacional tras carta pública de Karol G solicitando gobernar para todos: responde 'es mi propósito inquebrantable' e invita a 'unirse a la manada'. Primer encuentro oficial con alcalde Galán de Bogotá marca inicio de diálogo territorial, prioridad declarada por el electo. Choque técnico persiste: ministro de Defensa califica como 'injuria y calumnia' críticas de senador electo que lo llamó 'traidor'. Gobierno designa a Alfredo Acosta como agente liquidador del Ministerio de Igualdad; Defensoría advierte riesgo de retroceso en políticas de equidad. Timochenko envía mensaje preventivo sobre paz a firmantes y a De la Espriella: 'volver a armas sería suicidio'. Tercer vuelo humanitario desde Venezuela traerá 47 colombianos tras terremotos. Gabinete sin nuevos nombres; debate interno entre 'los nunca' y 'los de siempre' según El Colombiano.",
   "titulares": [
-    "Pacto Histórico formaliza a Petro y Cepeda como líderes de oposición y reorganización para 2027",
-    "Restrepo exige frenar nombramientos de última hora en la UNP",
-    "De la Espriella ordena investigar audios del Clan del Golfo e interponer denuncias",
-    "Petro responde a Restrepo: 'mi gobierno termina el 6 de agosto'",
-    "Mauricio Cárdenas advierte sobre 'cuentas bajo el tapete' en empalme fiscal"
+    "Petro llegó a Roma para audiencia con Papa León XIV el 2 de julio, denuncia falta de recibimiento oficial italiano",
+    "Karol G dirige carta pública a De la Espriella pidiendo gobernar para todos; presidente electo responde y la invita a 'unirse a la manada'",
+    "Primer encuentro oficial entre De la Espriella y alcalde de Bogotá Carlos Fernando Galán",
+    "Gobierno designa a Alfredo Acosta como agente liquidador del Ministerio de Igualdad; Defensoría advierte riesgo de retroceso",
+    "Mindefensa rechaza críticas de senador electo: 'Es injuria y calumnia' tras ser llamado 'traidor'",
+    "Tercer vuelo humanitario desde Venezuela traerá de regreso a 47 colombianos tras terremotos"
   ],
   "gabinete": {
     "Interior": {
