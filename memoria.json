@@ -1,15 +1,15 @@
 {
-  "fecha": "martes 30 de junio de 2026",
+  "fecha": "miércoles 1 de julio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Miguel Gómez Martínez confirmado en Hacienda; Cepeda convoca 'desobediencia civil'",
-  "resumen": "Día de definiciones y fracturas. De la Espriella confirma a Miguel Gómez Martínez para Hacienda —hermano del senador electo Enrique Gómez (Salvación Nacional), señal de premio a lealtad electoral— y a Fabio Arjona en Ambiente. Gómez llega sin perfil público de peso en economía ortodoxa, lo que inquieta a mercados que esperaban nombre técnico tras alza de Banrep a 12%. Arjona es veterano ambientalista, desconocido en círculos empresariales. Primera reunión formal de empalme diseña estrategia 'Arca de Noé': 22 grupos técnicos con análisis forenses por cartera. Lara, confirmado en Interior, marca línea dura: espera resultados de JEP, rechaza diálogo con Clan del Golfo, da ultimátum de un mes antes de 'todo el peso de la ley'. Mientras, Cepeda detona bomba: anuncia 'desobediencia civil pacífica', exige a De la Espriella renunciar a ciudadanía estadounidense y desistir de extradición a Petro. Rechazo transversal: hasta sectores progresistas califican el llamado de 'irresponsable'. Gobierno Petro muestra descomposición: renuncia Laura Sarabia en Londres, ministra de Agricultura adelanta salida. Banrep dispara tasas, inflación hasta 2028.",
+  "titular_del_dia": "Iván Cancino emerge como favorito para Justicia mientras Petro firma extradición de 'Chiquito Malo'",
+  "resumen": "Justicia define perfil. Iván Cancino, quien lidera proceso de empalme en área jurídico-institucional, se consolida como candidato natural para MinJusticia. Abogado de bajo perfil mediático pero experimentado en gestión estatal, su eventual nombramiento confirmaría patrón: premiar operadores de transición con carteras clave. Mientras, Petro ejecuta movimiento calculado: reactiva extradición de 'Chiquito Malo' días después de que Lara rechazara diálogo con Clan del Golfo. Mensaje dual: presiona agenda de seguridad del entrante y deja decisión final —firma o reversión— a De la Espriella. Tribunal niega tutela sobre doble nacionalidad, cerrando frente judicial inmediato pero no debate político que Cepeda mantiene vivo. Restrepo formaliza seis condiciones para empalme institucional, incluyendo acceso a cifras fiscales sin 'maquillaje'. Más de 160 derechos de petición presionan entregas. Gobernadores aceleran empalmes regionales, anticipando necesidad de alineación con Bogotá. Cecilia López marca distancia crítica del petrismo, validando narrativa de 'cifras infladas' que adopta gobierno entrante.",
   "titulares": [
-    "Miguel Gómez Martínez confirmado como ministro de Hacienda",
-    "Fabio Arjona será ministro de Ambiente",
-    "Iván Cepeda convoca 'desobediencia civil' y exige renuncia a ciudadanía estadounidense",
-    "Banco de la República eleva tasa de interés al 12%",
-    "Laura Sarabia renuncia como embajadora en Reino Unido",
-    "Lara rechaza diálogo con Clan del Golfo: un mes de plazo o 'todo el peso de la ley'"
+    "Iván Cancino emerge como favorito para MinJusticia mientras lidera empalme jurídico",
+    "Petro reactiva extradición de 'Chiquito Malo' tras ultimátum de Lara al Clan del Golfo",
+    "Tribunal niega tutela contra doble nacionalidad de De la Espriella",
+    "Restrepo formaliza seis condiciones a Petro para institucionalizar empalme",
+    "Coordinadora de empalme de De la Espriella aparece como finalista para Contraloría",
+    "Cecilia López critica 'cifras infladas' de Petro pero defiende reforma agraria"
   ],
   "gabinete": {
     "Interior": {
@@ -36,9 +36,9 @@
     "Justicia": {
       "sector": "Político-institucional",
       "nombre_principal": "",
-      "nombre_alternativo": "",
-      "estado": "vacante",
-      "fuente": ""
+      "nombre_alternativo": "Iván Cancino",
+      "estado": "suena",
+      "fuente": "La FM"
     },
     "Hacienda": {
       "sector": "Económico",
