@@ -1,15 +1,15 @@
 {
-  "fecha": "miércoles 1 de julio de 2026",
+  "fecha": "jueves 2 de julio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Iván Cancino emerge como favorito para Justicia mientras Petro firma extradición de 'Chiquito Malo'",
-  "resumen": "Justicia define perfil. Iván Cancino, quien lidera proceso de empalme en área jurídico-institucional, se consolida como candidato natural para MinJusticia. Abogado de bajo perfil mediático pero experimentado en gestión estatal, su eventual nombramiento confirmaría patrón: premiar operadores de transición con carteras clave. Mientras, Petro ejecuta movimiento calculado: reactiva extradición de 'Chiquito Malo' días después de que Lara rechazara diálogo con Clan del Golfo. Mensaje dual: presiona agenda de seguridad del entrante y deja decisión final —firma o reversión— a De la Espriella. Tribunal niega tutela sobre doble nacionalidad, cerrando frente judicial inmediato pero no debate político que Cepeda mantiene vivo. Restrepo formaliza seis condiciones para empalme institucional, incluyendo acceso a cifras fiscales sin 'maquillaje'. Más de 160 derechos de petición presionan entregas. Gobernadores aceleran empalmes regionales, anticipando necesidad de alineación con Bogotá. Cecilia López marca distancia crítica del petrismo, validando narrativa de 'cifras infladas' que adopta gobierno entrante.",
+  "titular_del_dia": "Cancino suspende su cuenta en X mientras se prepara para Justicia; gobierno saliente multiplica nombramientos exprés",
+  "resumen": "Iván Cancino cierra su perfil en X, señal de inminente formalización en MinJusticia. Patrón se confirma: operadores de transición ocupan carteras. Mientras, gobierno Petro acelera nombramientos de última hora en Cancillería —ahora en consulado de Ecuador—, generando alertas a 36 días del cierre. Primer empalme formal transcurre en tono 'amable' según MinHacienda saliente, pero Restrepo mantiene presión sobre cifras fiscales y exige no presentar reforma tributaria de último minuto. General (r) Jorge Mora suena para Defensa, perfil militar ortodoxo que marca distancia de experimento Cabal. De la Espriella multiplica agenda: reunión con presidente de Israel sobre restablecimiento de relaciones, encuentro con Fico Gutiérrez en Medellín, empalmes territoriales en Valle. Defensores de la Patria formaliza ante CNE solicitud de personería jurídica, buscando consolidar estructura partidaria. MinAgricultura renuncia y regresa a Procuraduría. Petro viaja a Vaticano, se reúne con Papa León XIV; en comitiva, Vanessa Cortés, figura panameña cercana.",
   "titulares": [
-    "Iván Cancino emerge como favorito para MinJusticia mientras lidera empalme jurídico",
-    "Petro reactiva extradición de 'Chiquito Malo' tras ultimátum de Lara al Clan del Golfo",
-    "Tribunal niega tutela contra doble nacionalidad de De la Espriella",
-    "Restrepo formaliza seis condiciones a Petro para institucionalizar empalme",
-    "Coordinadora de empalme de De la Espriella aparece como finalista para Contraloría",
-    "Cecilia López critica 'cifras infladas' de Petro pero defiende reforma agraria"
+    "Cancino suspende cuenta en X mientras se prepara para MinJusticia",
+    "General (r) Jorge Mora suena para MinDefensa",
+    "Nuevo nombramiento exprés en consulado de Ecuador a 36 días del cierre",
+    "De la Espriella se reúne con presidente de Israel sobre restablecimiento de relaciones",
+    "Defensores de la Patria solicita personería jurídica ante CNE",
+    "MinAgricultura renuncia y regresa a Procuraduría"
   ],
   "gabinete": {
     "Interior": {
@@ -29,7 +29,7 @@
     "Defensa": {
       "sector": "Político-institucional",
       "nombre_principal": "",
-      "nombre_alternativo": "María Fernanda Cabal",
+      "nombre_alternativo": "Jorge Mora",
       "estado": "suena",
       "fuente": "La FM"
     },
