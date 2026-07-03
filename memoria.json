@@ -1,15 +1,15 @@
 {
-  "fecha": "jueves 2 de julio de 2026",
+  "fecha": "viernes 3 de julio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Cancino suspende su cuenta en X mientras se prepara para Justicia; gobierno saliente multiplica nombramientos exprés",
-  "resumen": "Iván Cancino cierra su perfil en X, señal de inminente formalización en MinJusticia. Patrón se confirma: operadores de transición ocupan carteras. Mientras, gobierno Petro acelera nombramientos de última hora en Cancillería —ahora en consulado de Ecuador—, generando alertas a 36 días del cierre. Primer empalme formal transcurre en tono 'amable' según MinHacienda saliente, pero Restrepo mantiene presión sobre cifras fiscales y exige no presentar reforma tributaria de último minuto. General (r) Jorge Mora suena para Defensa, perfil militar ortodoxo que marca distancia de experimento Cabal. De la Espriella multiplica agenda: reunión con presidente de Israel sobre restablecimiento de relaciones, encuentro con Fico Gutiérrez en Medellín, empalmes territoriales en Valle. Defensores de la Patria formaliza ante CNE solicitud de personería jurídica, buscando consolidar estructura partidaria. MinAgricultura renuncia y regresa a Procuraduría. Petro viaja a Vaticano, se reúne con Papa León XIV; en comitiva, Vanessa Cortés, figura panameña cercana.",
+  "titular_del_dia": "Roces en segundo empalme formal mientras Fabio Arjona confirma fracking en Ambiente",
+  "resumen": "Segunda reunión oficial de empalme transcurre con fricciones evidentes. Equipo De la Espriella (encabezado por Carlos Alonso Lucio, generando polémica por discurso del 'Arca de Noé', y Jerome Sanabria, de 20 años, protagonista mediática) choca con delegados Petro por cronograma y manejo presupuestal. Fabio Arjona, tercer ministro confirmado para Ambiente, marca posición técnica sobre fracking: 'no hay barrera tecnológica insalvable', distanciándose de ortodoxia ambiental petrista. Perfil: ingeniero civil, gestor de proyectos energéticos, señal de pragmatismo en política extractiva. Suena en gabinete Natalia Santos Vargas, hija de Germán Vargas Lleras, consolidando apoyo del Partido de la U. Iván Cepeda inicia gira regional para reorganizar izquierda dispersa; su nombre circula como eventual candidato a Alcaldía de Bogotá. Petro habló con Trump: pidió retiro de lista OFAC para él y Verónica Alcocer, pero cifras de erradicación entregadas al estadounidense no cuadran. A 35 días, gabinete avanza en núcleo duro (político-económico), pero ministerios sociales siguen vacantes.",
   "titulares": [
-    "Cancino suspende cuenta en X mientras se prepara para MinJusticia",
-    "General (r) Jorge Mora suena para MinDefensa",
-    "Nuevo nombramiento exprés en consulado de Ecuador a 36 días del cierre",
-    "De la Espriella se reúne con presidente de Israel sobre restablecimiento de relaciones",
-    "Defensores de la Patria solicita personería jurídica ante CNE",
-    "MinAgricultura renuncia y regresa a Procuraduría"
+    "Segundo empalme oficial cierra con roces: cronograma y presupuesto generan tensión",
+    "Fabio Arjona confirma apertura al fracking: 'no hay barrera tecnológica insalvable'",
+    "Hija de Germán Vargas Lleras suena para ministerio en gabinete De la Espriella",
+    "Petro habló con Trump: pidió retiro de lista OFAC para él y Verónica Alcocer",
+    "Iván Cepeda retoma gira regional para reorganizar izquierda; suena para Alcaldía de Bogotá",
+    "Fiscalía investiga a Velásquez, Rueda y Lemus por audios con Clan del Golfo"
   ],
   "gabinete": {
     "Interior": {
@@ -57,9 +57,9 @@
     "Comercio": {
       "sector": "Económico",
       "nombre_principal": "",
-      "nombre_alternativo": "",
-      "estado": "vacante",
-      "fuente": ""
+      "nombre_alternativo": "Natalia Santos Vargas",
+      "estado": "suena",
+      "fuente": "La FM"
     },
     "Minas y Energía": {
       "sector": "Económico",
