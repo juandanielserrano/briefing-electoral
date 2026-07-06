@@ -1,15 +1,15 @@
 {
-  "fecha": "sábado 4 de julio de 2026",
+  "fecha": "lunes 6 de julio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "De la Espriella avanza agenda regional mientras ELN anuncia oposición a su gobierno",
-  "resumen": "El presidente electo despliega estrategia en dos frentes: consolidación territorial y relaciones internacionales. Reunión con Jorge Rey (gobernador Cundinamarca) en Barranquilla revela prioridad en infraestructura regional, nodo clave para 2027. Simultáneamente, anuncia alianza con Guyana en seguridad y energía, señal de pivote geopolítico hacia el Caribe anglófono. ELN fija posición: hará oposición al gobierno entrante, rompiendo cualquier expectativa de continuidad dialoguista. En lo judicial, la Corte Suprema abre indagación a Saray Robayo (Pacto Histórico) por presunta influencia en Fiduprevisora, erosionando capital político petrista. Defensores de la Patria busca personería jurídica: CNE tiene palabra final sobre consolidación de maquinaria electoral propia. Empalme mantiene ritmo con fechas pactadas, pero tensión presupuestal persiste. A 34 días, gabinete social sigue huérfano; núcleo económico-político listo para operar desde el 7 de agosto.",
+  "titular_del_dia": "Mora confirmado en Defensa; Benedetti y Lara inician empalme formal en Interior",
+  "resumen": "Jorge Eduardo Mora López pasa de rumor a realidad: será ministro de Defensa. General retirado con experiencia en comandancia del Ejército, conoce la estructura militar y llega con mandato explícito de recuperar autoridad territorial. Su designación cierra el núcleo duro político-militar del gabinete entrante. Mientras, el empalme arranca operativamente: Benedetti recibió a Lara en Interior, formalizando transferencia en el ministerio clave para gobernabilidad territorial. Contraste político se agudiza: Petro insiste en no reconocer a De la Espriella, anuncia demanda electoral y convoca marchas para el 20 de julio. Cepeda mantiene discurso de desobediencia civil. El presidente electo responde con agenda regional: visitará Antioquia el 20 de julio, señal de consolidación en bastión opositor a Petro. Justicia saliente admite errores: ministro reconoce que dar estatus político a disidencias fue equivocación, autocrítica tardía que alimenta narrativa de De la Espriella sobre reconstrucción de autoridad. A 32 días, gabinete social sigue huérfano.",
   "titulares": [
-    "De la Espriella se reúne con Jorge Rey para proyectos estratégicos en Cundinamarca",
-    "ELN anuncia oposición al gobierno de Abelardo De la Espriella",
-    "Corte Suprema investiga a Saray Robayo por presunta influencia en Fiduprevisora",
-    "Defensores de la Patria busca personería como partido político ante el CNE",
-    "De la Espriella anuncia alianza con Guyana en seguridad y energía",
-    "Empalme entre gobiernos Petro y De la Espriella avanza con cronograma definido"
+    "Benedetti recibe a Lara en Interior: arranca empalme ministerial",
+    "Petro anuncia demanda contra elección de De la Espriella",
+    "De la Espriella visitará Antioquia el 20 de julio",
+    "MinJusticia admite error al dar estatus político a disidencias",
+    "Petro convoca marchas para el 20 de julio por reformas sociales",
+    "MinDefensa solicita renuncias protocolarias de 70 funcionarios"
   ],
   "gabinete": {
     "Interior": {
@@ -28,10 +28,10 @@
     },
     "Defensa": {
       "sector": "Político-institucional",
-      "nombre_principal": "",
+      "nombre_principal": "Jorge Eduardo Mora López",
       "nombre_alternativo": "Jorge Mora",
-      "estado": "suena",
-      "fuente": "La FM"
+      "estado": "confirmado",
+      "fuente": "La FM, El Tiempo, Blu Radio"
     },
     "Justicia": {
       "sector": "Político-institucional",
