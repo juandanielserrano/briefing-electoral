@@ -1,15 +1,15 @@
 {
-  "fecha": "lunes 6 de julio de 2026",
+  "fecha": "martes 7 de julio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Mora confirmado en Defensa; Benedetti y Lara inician empalme formal en Interior",
-  "resumen": "Jorge Eduardo Mora López pasa de rumor a realidad: será ministro de Defensa. General retirado con experiencia en comandancia del Ejército, conoce la estructura militar y llega con mandato explícito de recuperar autoridad territorial. Su designación cierra el núcleo duro político-militar del gabinete entrante. Mientras, el empalme arranca operativamente: Benedetti recibió a Lara en Interior, formalizando transferencia en el ministerio clave para gobernabilidad territorial. Contraste político se agudiza: Petro insiste en no reconocer a De la Espriella, anuncia demanda electoral y convoca marchas para el 20 de julio. Cepeda mantiene discurso de desobediencia civil. El presidente electo responde con agenda regional: visitará Antioquia el 20 de julio, señal de consolidación en bastión opositor a Petro. Justicia saliente admite errores: ministro reconoce que dar estatus político a disidencias fue equivocación, autocrítica tardía que alimenta narrativa de De la Espriella sobre reconstrucción de autoridad. A 32 días, gabinete social sigue huérfano.",
+  "titular_del_dia": "Petro reúne al Pacto Histórico en Nariño y confirma demanda electoral; De la Espriella nombra seis ministros más",
+  "resumen": "Escalada de confrontación con movimientos espejo: mientras Petro formaliza con el Pacto Histórico la estrategia de oposición radical —incluyendo acción de nulidad contra la elección—, De la Espriella completa oleada de designaciones con seis nombres nuevos que revelan lógica de gabinete. Viviane Morales en Educación marca regreso de perfil polémico pero con músculo institucional: exfiscal, exsenadora, conoce el aparato. Elsa Noguera (Transporte) y Arturo Char (Vivienda) consolidan peso de costa Atlántica en gobierno entrante, señal clara de acuerdos regionales. Juliana Gutiérrez (Deporte), Iván Cancino (Justicia) y Daniel Palacios (Trabajo) completan equipo. La designación masiva —seis en un día— responde a presión por mostrar gobierno listo frente a hostilidad petrista. Federación de Departamentos y Asocapitales rompen silencio ambiguo: reconocen a De la Espriella y exigen a Petro respetar resultado, movimiento que aísla narrativa golpista. Empalme formalmente roto pero reloj corre: faltan 31 días y cada hora sin coordinación técnica es riesgo operativo para el 7 de agosto.",
   "titulares": [
-    "Benedetti recibe a Lara en Interior: arranca empalme ministerial",
-    "Petro anuncia demanda contra elección de De la Espriella",
-    "De la Espriella visitará Antioquia el 20 de julio",
-    "MinJusticia admite error al dar estatus político a disidencias",
-    "Petro convoca marchas para el 20 de julio por reformas sociales",
-    "MinDefensa solicita renuncias protocolarias de 70 funcionarios"
+    "Petro reúne al Pacto Histórico en Casa de Nariño y bancada confirma acción de nulidad electoral",
+    "De la Espriella nombra seis nuevos ministros: Viviane Morales, Elsa Noguera, Arturo Char entre otros",
+    "Federación de Departamentos y Asocapitales reconocen a De la Espriella y piden a Petro respetar resultado",
+    "De la Espriella evalúa posesionarse en batallón militar del Cauca ante bloqueo de Congreso",
+    "Gabinete designado respalda a De la Espriella y acusa a Petro de desconocer democracia",
+    "Contraloría pide retomar proceso de empalme entre gobiernos"
   ],
   "gabinete": {
     "Interior": {
@@ -35,10 +35,10 @@
     },
     "Justicia": {
       "sector": "Político-institucional",
-      "nombre_principal": "",
+      "nombre_principal": "Iván Cancino",
       "nombre_alternativo": "Iván Cancino",
-      "estado": "suena",
-      "fuente": "La FM"
+      "estado": "confirmado",
+      "fuente": "La FM, La Silla Vacía"
     },
     "Hacienda": {
       "sector": "Económico",
@@ -77,17 +77,17 @@
     },
     "Educación": {
       "sector": "Social",
-      "nombre_principal": "",
+      "nombre_principal": "Viviane Morales",
       "nombre_alternativo": "",
-      "estado": "vacante",
-      "fuente": ""
+      "estado": "confirmado",
+      "fuente": "El Colombiano"
     },
     "Trabajo": {
       "sector": "Social",
-      "nombre_principal": "",
+      "nombre_principal": "Daniel Palacios",
       "nombre_alternativo": "",
-      "estado": "vacante",
-      "fuente": ""
+      "estado": "confirmado",
+      "fuente": "La Silla Vacía"
     },
     "Ambiente": {
       "sector": "Social",
@@ -95,6 +95,27 @@
       "nombre_alternativo": "",
       "estado": "confirmado",
       "fuente": "La FM"
+    },
+    "Vivienda": {
+      "sector": "Otros",
+      "nombre_principal": "Arturo Char",
+      "nombre_alternativo": "",
+      "estado": "confirmado",
+      "fuente": "La Silla Vacía"
+    },
+    "Transporte": {
+      "sector": "Otros",
+      "nombre_principal": "Elsa Noguera",
+      "nombre_alternativo": "",
+      "estado": "confirmado",
+      "fuente": "La FM"
+    },
+    "Deporte": {
+      "sector": "Otros",
+      "nombre_principal": "Juliana Gutiérrez",
+      "nombre_alternativo": "",
+      "estado": "confirmado",
+      "fuente": "La FM, El Tiempo"
     }
   }
 }
