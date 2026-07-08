@@ -1,15 +1,15 @@
 {
-  "fecha": "martes 7 de julio de 2026",
+  "fecha": "miércoles 8 de julio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Petro reúne al Pacto Histórico en Nariño y confirma demanda electoral; De la Espriella nombra seis ministros más",
-  "resumen": "Escalada de confrontación con movimientos espejo: mientras Petro formaliza con el Pacto Histórico la estrategia de oposición radical —incluyendo acción de nulidad contra la elección—, De la Espriella completa oleada de designaciones con seis nombres nuevos que revelan lógica de gabinete. Viviane Morales en Educación marca regreso de perfil polémico pero con músculo institucional: exfiscal, exsenadora, conoce el aparato. Elsa Noguera (Transporte) y Arturo Char (Vivienda) consolidan peso de costa Atlántica en gobierno entrante, señal clara de acuerdos regionales. Juliana Gutiérrez (Deporte), Iván Cancino (Justicia) y Daniel Palacios (Trabajo) completan equipo. La designación masiva —seis en un día— responde a presión por mostrar gobierno listo frente a hostilidad petrista. Federación de Departamentos y Asocapitales rompen silencio ambiguo: reconocen a De la Espriella y exigen a Petro respetar resultado, movimiento que aísla narrativa golpista. Empalme formalmente roto pero reloj corre: faltan 31 días y cada hora sin coordinación técnica es riesgo operativo para el 7 de agosto.",
+  "titular_del_dia": "Omar Bula completa el gabinete político y De la Espriella fija posesión en guarnición militar",
+  "resumen": "Omar Bula cierra el núcleo político del gabinete entrante. Barranquillero, abogado especialista en derecho internacional, ex viceministro de Relaciones Exteriores (2010-2018), representa continuidad técnica pero con giro ideológico: autodefinido crítico del globalismo, promete relaciones pragmáticas con China y \"timonazo\" con EE.UU. e Israel. Perfil diplomático sólido que contrasta con su postura antiglobalista declarada. La designación coincide con señal simbólica: De la Espriella se posesionará el 7 de agosto en guarnición militar, no en Plaza de Bolívar, mensaje inequívoco de prioridad securitaria. Valerie Lafaurie —esposa del senador José Félix Lafaurie— será consejera para las Regiones, consolidando peso ganadero y uribista. Nicolás Gómez Arenas, jefe de gabinete, completa estructura operativa. Empalme regional arrancó en Cúcuta con 18 proyectos sobre la mesa, mientras Petro sigue nombrando embajadores a un mes de entregar. Ultimátum de un mes a ELN y disidencias en Catatumbo marca tono militar del gobierno entrante. Faltan cinco ministerios por llenar: Cancillería, DNP, Comercio, Minas y Salud quedan por definir.",
   "titulares": [
-    "Petro reúne al Pacto Histórico en Casa de Nariño y bancada confirma acción de nulidad electoral",
-    "De la Espriella nombra seis nuevos ministros: Viviane Morales, Elsa Noguera, Arturo Char entre otros",
-    "Federación de Departamentos y Asocapitales reconocen a De la Espriella y piden a Petro respetar resultado",
-    "De la Espriella evalúa posesionarse en batallón militar del Cauca ante bloqueo de Congreso",
-    "Gabinete designado respalda a De la Espriella y acusa a Petro de desconocer democracia",
-    "Contraloría pide retomar proceso de empalme entre gobiernos"
+    "Omar Bula Escobar confirmado como canciller: diplomático antiglobalista con giro hacia pragmatismo con China",
+    "De la Espriella se posesionará en guarnición militar el 7 de agosto, no en Plaza de Bolívar",
+    "Valerie Lafaurie será consejera para las Regiones: peso ganadero en estructura presidencial",
+    "Nicolás Gómez Arenas confirmado como jefe de gabinete presidencial",
+    "Ultimátum de un mes a ELN y disidencias en Catatumbo: ministro de Defensa designado anuncia reactivación de órdenes de captura desde el 7 de agosto",
+    "Primer empalme regional en Cúcuta: 18 proyectos presentados a De la Espriella en seguridad, salud e infraestructura"
   ],
   "gabinete": {
     "Interior": {
@@ -21,10 +21,10 @@
     },
     "Cancillería": {
       "sector": "Político-institucional",
-      "nombre_principal": "",
+      "nombre_principal": "Omar Bula Escobar",
       "nombre_alternativo": "",
-      "estado": "vacante",
-      "fuente": ""
+      "estado": "confirmado",
+      "fuente": "El Espectador, La FM, Blu Radio"
     },
     "Defensa": {
       "sector": "Político-institucional",
@@ -56,9 +56,9 @@
     },
     "Comercio": {
       "sector": "Económico",
-      "nombre_principal": "",
+      "nombre_principal": "Mauricio Gómez Amín",
       "nombre_alternativo": "Natalia Santos Vargas",
-      "estado": "suena",
+      "estado": "confirmado",
       "fuente": "La FM"
     },
     "Minas y Energía": {
