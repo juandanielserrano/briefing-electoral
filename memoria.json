@@ -1,15 +1,15 @@
 {
-  "fecha": "jueves 9 de julio de 2026",
+  "fecha": "viernes 10 de julio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "De la Espriella convoca primer consejo de ministros en Barranquilla este viernes",
-  "resumen": "El presidente electo cierra fase de anuncios y arranca operación política. Primera reunión de gabinete el viernes en Barranquilla marca inicio de coordinación ejecutiva con 11 ministros ya designados. Quedan tres vacantes críticas: DNP, Minas y Salud. Canciller Bula detalla su ruta: relación pragmática con China, giro duro frente a EE.UU. e Israel, y apertura calculada con Venezuela sin reconocer a Maduro. Suenan nombres para portavocía presidencial y dirección de Policía. En paralelo, tensión institucional se agudiza: sectores de centro lanzan manifiesto advirtiendo contra posturas antidemocráticas tanto de Petro-Cepeda como del entrante. Alfonso Prada renuncia a embajada en Francia efectiva el 6 de agosto. Cielo Rusinque asume Justicia encargada tras salida de Cuervo. Petro sigue moviendo fichas diplomáticas a 29 días del cambio. El empalme avanza con fricciones: gobierno designado reporta solo 5% de respuestas a 200 derechos de petición enviados. CNE abre indagación a Galán por irregularidades en aportes de campaña a Alcaldía, señal de que el escrutinio del ciclo electoral 2023-2026 continúa.",
+  "titular_del_dia": "Corte Suprema condena a representante del Pacto Histórico; De la Espriella formaliza esquema de portavocías oficiales",
+  "resumen": "La transición avanza en paralelo a la descomposición judicial del petrismo. La Corte condenó a Pedro Suárez (Pacto Histórico) a más de cinco años de prisión por prevaricato, con orden de captura inmediata. Otra señal del deterioro institucional que hereda De la Espriella. El presidente electo cerró anuncios de gabinete y formalizó un esquema de portavocías al estilo estadounidense: instruyó a sus ministros designados no hablar públicamente sin autorización. Los voceros centralizarán la comunicación. Germán Calderón España dirigirá la Agencia Jurídica del Estado, cargo estratégico para defender al nuevo gobierno en tribunales. El pulso por las presidencias del Congreso se endurece: Daniel Briceño rechaza esquema de seguridad ofrecido y la dirección administrativa de Cámara está en disputa. Petro mueve últimas fichas: agradeció por el traslado de su hermano a guarnición militar. CNE aceleraría personería jurídica de Defensores de la Patria como partido. La JEP expresa incertidumbre sobre su continuidad. Empalme sigue trabado: solo 5% de respuestas oficiales.",
   "titulares": [
-    "Primer consejo de ministros designados será este viernes en Barranquilla",
-    "Canciller Bula detalla ruta de política exterior: giro con EE.UU. e Israel, pragmatismo con China y Venezuela",
-    "Alfonso Prada renuncia a embajada en Francia; sale el 6 de agosto",
-    "Sectores de centro lanzan manifiesto advirtiendo sobre actitudes antidemocráticas",
-    "Cielo Rusinque asume como ministra de Justicia encargada tras salida de Cuervo",
-    "Equipo De la Espriella reporta solo 5% de respuesta a 200 derechos de petición enviados al gobierno"
+    "Corte Suprema condena a Pedro Suárez, representante del Pacto Histórico, a más de cinco años de cárcel por prevaricato",
+    "De la Espriella formaliza esquema de portavocías oficiales e instruye a ministros designados no hablar sin autorización",
+    "Germán Calderón España dirigirá la Agencia Jurídica del Estado",
+    "Daniel Briceño rechaza esquema de seguridad y se agudiza disputa por dirección administrativa de la Cámara",
+    "CNE daría luz verde para que Defensores de la Patria se convierta en partido político",
+    "Magistrados de la JEP expresan incertidumbre sobre futuro del tribunal y esperan diálogo con nuevo gobierno"
   ],
   "gabinete": {
     "Interior": {
