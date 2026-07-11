@@ -1,15 +1,14 @@
 {
-  "fecha": "viernes 10 de julio de 2026",
+  "fecha": "sábado 11 de julio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Corte Suprema condena a representante del Pacto Histórico; De la Espriella formaliza esquema de portavocías oficiales",
-  "resumen": "La transición avanza en paralelo a la descomposición judicial del petrismo. La Corte condenó a Pedro Suárez (Pacto Histórico) a más de cinco años de prisión por prevaricato, con orden de captura inmediata. Otra señal del deterioro institucional que hereda De la Espriella. El presidente electo cerró anuncios de gabinete y formalizó un esquema de portavocías al estilo estadounidense: instruyó a sus ministros designados no hablar públicamente sin autorización. Los voceros centralizarán la comunicación. Germán Calderón España dirigirá la Agencia Jurídica del Estado, cargo estratégico para defender al nuevo gobierno en tribunales. El pulso por las presidencias del Congreso se endurece: Daniel Briceño rechaza esquema de seguridad ofrecido y la dirección administrativa de Cámara está en disputa. Petro mueve últimas fichas: agradeció por el traslado de su hermano a guarnición militar. CNE aceleraría personería jurídica de Defensores de la Patria como partido. La JEP expresa incertidumbre sobre su continuidad. Empalme sigue trabado: solo 5% de respuestas oficiales.",
+  "titular_del_dia": "De la Espriella nombra a Indalecio Dangond en Agricultura y Venezuela rechaza coordinación para reconstrucción",
+  "resumen": "De la Espriella completa otro espacio clave del gabinete. Indalecio Dangond Baquero llega a Agricultura: barranquillero, administrador de empresas con casi cuarenta años en financiamiento agropecuario y desarrollo rural. El nombramiento consolida el peso costeño en el gobierno entrante. En paralelo, Caracas marca distancia: el canciller Yván Gil rechazó la propuesta del presidente electo de coordinar reconstrucción tras los terremotos que ya suman más de 4.300 muertos. De la Espriella respondió que nunca buscó desconocer soberanía venezolana, pero el choque expone tensión temprana en política exterior. El gobierno entrante realizó su primer consejo de ministros en Barranquilla, concluyendo con énfasis en unidad y compromiso. La transición avanza con De la Espriella recurriendo a cazatalentos (headhunters) para seleccionar funcionarios de segundo nivel, señal de búsqueda de perfiles técnicos por mérito. Iván Cepeda anuncia nuevo proyecto de jurisdicción agraria para el 20 de julio, marcando agenda legislativa de oposición.",
   "titulares": [
-    "Corte Suprema condena a Pedro Suárez, representante del Pacto Histórico, a más de cinco años de cárcel por prevaricato",
-    "De la Espriella formaliza esquema de portavocías oficiales e instruye a ministros designados no hablar sin autorización",
-    "Germán Calderón España dirigirá la Agencia Jurídica del Estado",
-    "Daniel Briceño rechaza esquema de seguridad y se agudiza disputa por dirección administrativa de la Cámara",
-    "CNE daría luz verde para que Defensores de la Patria se convierta en partido político",
-    "Magistrados de la JEP expresan incertidumbre sobre futuro del tribunal y esperan diálogo con nuevo gobierno"
+    "Venezuela rechaza propuesta de De la Espriella de coordinar reconstrucción tras terremotos",
+    "Indalecio Dangond Baquero nombrado ministro de Agricultura",
+    "De la Espriella usará headhunters para seleccionar funcionarios de segundo nivel",
+    "Iván Cepeda anuncia nuevo proyecto de jurisdicción agraria para el 20 de julio",
+    "Defensoría del Pueblo pide al nuevo gobierno priorizar derechos de víctimas del conflicto"
   ],
   "gabinete": {
     "Interior": {
@@ -116,6 +115,13 @@
       "nombre_alternativo": "",
       "estado": "confirmado",
       "fuente": "La FM, El Tiempo"
+    },
+    "Agricultura": {
+      "sector": "Otros",
+      "nombre_principal": "Indalecio Dangond Baquero",
+      "nombre_alternativo": "",
+      "estado": "confirmado",
+      "fuente": "El Tiempo, La FM, Blu Radio"
     }
   }
 }
