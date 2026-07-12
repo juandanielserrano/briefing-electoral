@@ -1,14 +1,15 @@
 {
-  "fecha": "sábado 11 de julio de 2026",
+  "fecha": "domingo 12 de julio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "De la Espriella nombra a Indalecio Dangond en Agricultura y Venezuela rechaza coordinación para reconstrucción",
-  "resumen": "De la Espriella completa otro espacio clave del gabinete. Indalecio Dangond Baquero llega a Agricultura: barranquillero, administrador de empresas con casi cuarenta años en financiamiento agropecuario y desarrollo rural. El nombramiento consolida el peso costeño en el gobierno entrante. En paralelo, Caracas marca distancia: el canciller Yván Gil rechazó la propuesta del presidente electo de coordinar reconstrucción tras los terremotos que ya suman más de 4.300 muertos. De la Espriella respondió que nunca buscó desconocer soberanía venezolana, pero el choque expone tensión temprana en política exterior. El gobierno entrante realizó su primer consejo de ministros en Barranquilla, concluyendo con énfasis en unidad y compromiso. La transición avanza con De la Espriella recurriendo a cazatalentos (headhunters) para seleccionar funcionarios de segundo nivel, señal de búsqueda de perfiles técnicos por mérito. Iván Cepeda anuncia nuevo proyecto de jurisdicción agraria para el 20 de julio, marcando agenda legislativa de oposición.",
+  "titular_del_dia": "De la Espriella despide a Charles Chapman por polémica del trabajo por horas",
+  "resumen": "La transición atraviesa su primera crisis de comunicación. Charles Chapman, quien sonaba para DNP o Hacienda, sale del equipo tras declaraciones sobre reglamentación de trabajo por horas que desató alarma sindical. De la Espriella desmintió oficialmente cualquier plan de cotización fraccionada, pero el daño obligó al despido. El episodio expone vulnerabilidad en control de mensaje. Tres ministros designados (José Manuel Restrepo sin cartera confirmada, Mauricio Gómez, Miguel Gómez) arrancan gira en Estados Unidos buscando señales de respaldo financiero y comercial. En paralelo, batalla por presidencias del Congreso enfrenta internamente al Centro Democrático: Alfredo Deluque versus Daniel Briceño para Senado y Cámara. De la Espriella mantiene distancia estratégica pero el resultado definirá músculo legislativo. El presidente electo visitó Casanare prometiendo ayudas por inundaciones y lanzó advertencia directa a ELN, disidencias y Clan: \"los voy a cazar como alimañas\". Tono de mano dura marca diferencia con discurso de paz total saliente. Faltan ocho ministros clave: DNP, Minas, Salud entre ellos.",
   "titulares": [
-    "Venezuela rechaza propuesta de De la Espriella de coordinar reconstrucción tras terremotos",
-    "Indalecio Dangond Baquero nombrado ministro de Agricultura",
-    "De la Espriella usará headhunters para seleccionar funcionarios de segundo nivel",
-    "Iván Cepeda anuncia nuevo proyecto de jurisdicción agraria para el 20 de julio",
-    "Defensoría del Pueblo pide al nuevo gobierno priorizar derechos de víctimas del conflicto"
+    "De la Espriella despide a Charles Chapman tras polémica sobre trabajo por horas",
+    "Arranca gira de tres ministros designados en Estados Unidos",
+    "Centro Democrático en disputa interna por presidencias del Congreso",
+    "De la Espriella promete cazar \"como alimañas\" a cabecillas del ELN y disidencias",
+    "Fundación denuncia 4 millones de votos por Cepeda como constreñimiento electoral",
+    "Más de 100 proyectos llegarán al Congreso el 20 de julio"
   ],
   "gabinete": {
     "Interior": {
