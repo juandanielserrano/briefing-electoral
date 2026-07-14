@@ -1,14 +1,15 @@
 {
-  "fecha": "lunes 13 de julio de 2026",
+  "fecha": "martes 14 de julio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Equipo de De la Espriella inicia agenda en Washington con Banco Mundial",
-  "resumen": "La transición recupera impulso tras la crisis Chapman. José Manuel Restrepo, Miguel Gómez Martínez y Mauricio Gómez Amín se reunieron hoy con el Grupo Banco Mundial en Washington, trazando hoja de ruta económica para el próximo gobierno. Primera cita formal en gira estadounidense busca señales de respaldo financiero internacional. En paralelo, se intensifica choque con gobierno Petro: el presidente ordenó prohibir uso de establecimientos militares para la posesión del 7 de agosto, alegando comando supremo sobre Fuerzas Armadas. Decisión carece de base legal: Congreso tiene última palabra sobre sede y protocolo. La Silla Vacía reporta que el anuncio del Bloque de Defensa genera respaldo de alcaldes (Galán, Char, Fico, Eder) pero alarma en izquierda por temor a revivir Convivir. Concepto aún difuso. Blu Radio confirma prueba de supervivencia de dos agentes CTI secuestrados por ELN. Ocho carteras siguen vacantes a 25 días de posesión. Empalme territorial continúa: De la Espriella visitará Bucaramanga.",
+  "titular_del_dia": "Barranquilla será sede alterna del Gobierno; anulada imputación a Daniel Quintero",
+  "resumen": "La transición avanza con decisión territorial: De la Espriella confirma que Barranquilla será sede alterna de gobierno, instalando la presidencia en el edificio de la Aduana según anunció Alejandro Char. Decisión sin precedentes recientes consolida el giro hacia las regiones. El gabinete mantiene ocho vacantes a 24 días de posesión. Novedad judicial: jueza anuló imputación contra Daniel Quintero en caso Aguas Vivas, citando \"contradicciones\" en la narración de Fiscalía. Golpe al gobierno saliente que había presentado el caso como emblema anticorrupción. En Washington, Restrepo declaró que \"la confianza es el primer paso del verdadero cambio\" tras jornada con Banco Mundial. Empalme territorial continúa: gobernador de Santander propuso a De la Espriella crear Centro de Gestión del Riesgo y Seguridad para combatir minería ilegal en Santurbán. Presidenta de Federación de Departamentos respaldó enfoque regional. Congreso define últimos detalles: compromisarios para 20 de julio ya están listos. Centro Democrático explora apoyos -incluso con Pacto Histórico- para presidencia del Senado.",
   "titulares": [
-    "Delegación económica del gobierno electo se reúne con Banco Mundial en Washington",
-    "Petro ordena prohibir uso de bases militares para posesión de De la Espriella",
-    "Anuncio de Bloque de Defensa recibe respaldo de alcaldes pero genera alarma en oposición",
-    "Confirman prueba de supervivencia de dos agentes del CTI secuestrados por ELN",
-    "De la Espriella visitará Bucaramanga para sesión de empalme territorial"
+    "Barranquilla será sede alterna del Gobierno nacional",
+    "Anulada imputación contra Daniel Quintero en caso Aguas Vivas",
+    "Restrepo desde Washington: \"La confianza es el primer paso del verdadero cambio\"",
+    "Gobernador de Santander propone Centro de Gestión del Riesgo contra minería ilegal",
+    "Centro Democrático explora apoyo del Pacto Histórico para presidencia del Senado",
+    "Listos compromisarios de Cámara y Senado para elecciones del 20 de julio"
   ],
   "gabinete": {
     "Interior": {
