@@ -1,15 +1,15 @@
 {
-  "fecha": "martes 14 de julio de 2026",
+  "fecha": "miércoles 15 de julio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Barranquilla será sede alterna del Gobierno; anulada imputación a Daniel Quintero",
-  "resumen": "La transición avanza con decisión territorial: De la Espriella confirma que Barranquilla será sede alterna de gobierno, instalando la presidencia en el edificio de la Aduana según anunció Alejandro Char. Decisión sin precedentes recientes consolida el giro hacia las regiones. El gabinete mantiene ocho vacantes a 24 días de posesión. Novedad judicial: jueza anuló imputación contra Daniel Quintero en caso Aguas Vivas, citando \"contradicciones\" en la narración de Fiscalía. Golpe al gobierno saliente que había presentado el caso como emblema anticorrupción. En Washington, Restrepo declaró que \"la confianza es el primer paso del verdadero cambio\" tras jornada con Banco Mundial. Empalme territorial continúa: gobernador de Santander propuso a De la Espriella crear Centro de Gestión del Riesgo y Seguridad para combatir minería ilegal en Santurbán. Presidenta de Federación de Departamentos respaldó enfoque regional. Congreso define últimos detalles: compromisarios para 20 de julio ya están listos. Centro Democrático explora apoyos -incluso con Pacto Histórico- para presidencia del Senado.",
+  "titular_del_dia": "Alexandra Falla Zerrate confirmada como ministra TIC; Centro Democrático pierde Presidencia del Senado",
+  "resumen": "Gabinete avanza: Alexandra Falla Zerrate es la nueva ministra TIC. Abogada con maestría en derecho corporativo, viene del sector privado y telecomunicaciones; De la Espriella apuesta por soberanía digital y conectividad. También se confirma a Valeria García Payán como gerente de Fontur. El presidente electo cerró las puertas a Iván Duque, quien rechazó públicamente integrar el gobierno. En el Congreso, giro estratégico: Centro Democrático pierde apoyos para la Presidencia del Senado tras respaldar conservadores a Alfredo De Luque, mientras la bancada uribista cede en su aspiración a la Cámara en el primer año. Tres representantes conservadores (incluida Peralta Epieyú) disputan ahora esa mesa. Empalme regional sigue su curso: próximas escalas Neiva y Medellín. Presión internacional aumenta: Gregory Meeks, principal demócrata en Comité de Exteriores de EEUU, pidió a Petro reconocer victoria de De la Espriella. Quedan siete carteras vacantes a 23 días de posesión.",
   "titulares": [
-    "Barranquilla será sede alterna del Gobierno nacional",
-    "Anulada imputación contra Daniel Quintero en caso Aguas Vivas",
-    "Restrepo desde Washington: \"La confianza es el primer paso del verdadero cambio\"",
-    "Gobernador de Santander propone Centro de Gestión del Riesgo contra minería ilegal",
-    "Centro Democrático explora apoyo del Pacto Histórico para presidencia del Senado",
-    "Listos compromisarios de Cámara y Senado para elecciones del 20 de julio"
+    "Alexandra Falla Zerrate confirmada como ministra de las TIC",
+    "Centro Democrático pierde apoyos para Presidencia del Senado; conservadores respaldan a Alfredo De Luque",
+    "Centro Democrático cedió en puja por Presidencia de Cámara en primer año",
+    "Gregory Meeks, principal demócrata de Exteriores en EEUU, pide a Petro reconocer victoria de De la Espriella",
+    "Empalme regional continúa: próximas paradas Neiva y Medellín",
+    "Iván Duque rechazó formalmente integrar gobierno de De la Espriella"
   ],
   "gabinete": {
     "Interior": {
@@ -123,6 +123,13 @@
       "nombre_alternativo": "",
       "estado": "confirmado",
       "fuente": "El Tiempo, La FM, Blu Radio"
+    },
+    "TIC": {
+      "sector": "Otros",
+      "nombre_principal": "Alexandra Falla Zerrate",
+      "nombre_alternativo": "",
+      "estado": "confirmado",
+      "fuente": "La Silla Vacía, La FM"
     }
   }
 }
