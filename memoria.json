@@ -1,15 +1,15 @@
 {
-  "fecha": "jueves 16 de julio de 2026",
+  "fecha": "viernes 17 de julio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Uribe prende batalla por el Senado y ataca a Deluque; Lara advierte alianza con petrismo",
-  "resumen": "La pugna por la presidencia del Senado escala tres días antes del 20 de julio. Uribe arreció contra Alfredo Deluque, acusándolo de haber recibido beneficios del gobierno Petro y cuestionando su cercanía con el saliente mandatario. Deluque, empresario conservador con experiencia en tres gobiernos, respondió que nunca fue petrista y busca una presidencia democrática. El ministro designado Rodrigo Lara advirtió que si el Centro Democrático insiste en su aspiración, tendría que aliarse con el Pacto Histórico para derrotar a Deluque, candidato oficial de De la Espriella. Los conservadores piden a Honorio Henríquez, del uribismo, bajarse de la contienda. El Pacto Histórico formalizó su bloque opositor con 47 congresistas. En otro frente, el canciller designado Bula cargó contra la ONU en Washington, señalando que perdió neutralidad y debe desacralizarse. De la Espriella ordenó a Lara pedir a Procuraduría vigilancia sobre contratos de la UNP por más de $78.000 millones. El CNE tiene nuevo presidente: Benjamín Ortiz reemplaza a Cristian Quiroz, quien renunció.",
+  "titular_del_dia": "Paola Holguín será ministra de Cultura y De la Espriella plantea una 'batalla cultural'",
+  "resumen": "De la Espriella completa su gabinete con un nombramiento de fuerte carga política: Paola Holguín en Cultura. Exsenadora uribista, abogada, reconocida por su línea dura contra Petro y las disidencias, ahora liderará lo que el presidente electo llama 'batalla cultural por la nación'. El mensaje es claro: cultura como trinchera ideológica. Mientras, el CNE cerró el escrutinio de Cámara en medio de reclamos por una curul afrodescendiente. La pugna por el Senado se endurece: De la Espriella respalda a Deluque a voto limpio contra el Centro Democrático, y los conservadores postulan a Barguil para Cámara. Alianza Verde, En Marcha, AIS y AICO se suman a Deluque. El 20 de julio, Petro hablará desde Bogotá y De la Espriella desde Medellín. La transición avanza con denuncias de corrupción del equipo de empalme. Iván Cepeda confirma que no irá a la posesión del 7 de agosto. El gabinete está casi completo: faltan DNP, Minas y Salud.",
   "titulares": [
-    "Álvaro Uribe ataca a Deluque por cercanía con Petro y enciende batalla por presidencia del Senado",
-    "Rodrigo Lara advierte que Centro Democrático tendría que aliarse con petrismo si insiste en presidencia del Senado",
-    "Canciller designado Bula carga contra la ONU en Washington: hay que desacralizarla",
-    "Conservadores piden a Honorio Henríquez bajarse de la puja por el Senado",
-    "Cristian Quiroz renunció a presidencia del CNE; Benjamín Ortiz asume el cargo",
-    "De la Espriella ordena a Procuraduría vigilar contratos de la UNP por más de $78.000 millones"
+    "Paola Holguín será ministra de Cultura y De la Espriella anuncia 'batalla cultural por la nación'",
+    "CNE cierra escrutinios del Congreso en medio de reclamos por curul afrodescendiente",
+    "Alianza Verde, En Marcha, AIS y AICO respaldan a Deluque para presidencia del Senado",
+    "Conservadores postulan a Barguil para presidencia de la Cámara",
+    "Iván Cepeda confirma que no asistirá a la posesión de De la Espriella el 7 de agosto",
+    "De la Espriella nombra a Silvia Tcherassi embajadora ad honorem de la moda"
   ],
   "gabinete": {
     "Interior": {
@@ -130,6 +130,13 @@
       "nombre_alternativo": "",
       "estado": "confirmado",
       "fuente": "La Silla Vacía, La FM"
+    },
+    "Cultura": {
+      "sector": "Otros",
+      "nombre_principal": "Paola Holguín",
+      "nombre_alternativo": "",
+      "estado": "confirmado",
+      "fuente": "La FM, El Espectador, La Silla Vacía"
     }
   }
 }
