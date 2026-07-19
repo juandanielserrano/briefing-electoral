@@ -1,15 +1,15 @@
 {
-  "fecha": "sábado 18 de julio de 2026",
+  "fecha": "domingo 19 de julio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "De la Espriella reúne su gabinete en Barranquilla y fija prioridades en el Congreso",
-  "resumen": "El presidente electo celebra hoy su segundo consejo de ministros en Barranquilla, con 13 designados confirmados. La prioridad declarada: asegurar las presidencias del Congreso. La Gobernación del Atlántico coordina lo que llama 'nueva sede de la Presidencia', un giro simbólico hacia la descentralización. Mientras, el uribismo acusa abiertamente a De la Espriella de querer destruir al Centro Democrático, y Uribe arremete contra el uso del ahorro pensional para infraestructura. José Manuel Restrepo regresó de Washington reivindicando que 'Colombia retorna al escenario internacional con grandeza', consolidando la alineación con EE.UU. como eje. El MinAmbiente designado, Fabio Arjona, advierte que la deforestación en Parques Nacionales se habría duplicado por abandono institucional. Quedan tres carteras sin confirmar: DNP, Minas y Salud. A dos días del 20 de julio, la tensión con el petrismo crece: Wadith Manzur pidió salir de prisión para posesionarse como senador.",
+  "titular_del_dia": "Pacto Histórico se declara oficialmente en oposición y renuncia a presidencia del Senado",
+  "resumen": "El petrismo formalizó su posición: oposición declarada y retirada táctica de la batalla por la presidencia del Senado. Iván Cepeda propone que Petro presida el Pacto Histórico post-7 de agosto, buscando institucionalizar la resistencia desde afuera. El Centro Democrático consolida su apuesta por Honorio Henríquez con un paquete de 16 proyectos de ley, mientras Alfredo Deluque —liberal, senador por Bolívar desde 2022— estaría a un voto de la presidencia del Senado con respaldo liberal confirmado. La distancia entre De la Espriella y el uribismo se amplía: el presidente electo necesita al liberalismo para gobernar, pero esa alianza complica su relación con la derecha dura. La JEP elevó el tono: su presidente advirtió a De la Espriella que desfinanciarla afectaría a las víctimas, anticipando resistencia institucional. Emergen denuncias de contratación acelerada: más de 43.000 contratos por $7,6 billones firmados desde la segunda vuelta, configurando el típico 'raspado de olla' de final de gobierno. A un día de la instalación del Congreso, el pulso por el Senado definirá si De la Espriella puede cogobernar o si enfrentará un legislativo fracturado desde el inicio.",
   "titulares": [
-    "De la Espriella convoca segundo consejo de ministros en Barranquilla este sábado",
-    "Gobernación del Atlántico coordina nueva sede de la Presidencia en Barranquilla",
-    "Uribe acusa a De la Espriella de querer acabar con el Centro Democrático",
-    "Restrepo proclama que Colombia 'retorna al escenario internacional con grandeza' tras gira en Washington",
-    "MinAmbiente designado alerta que deforestación en Parques se habría duplicado",
-    "Wadith Manzur pide a la Corte salir de prisión para posesionarse como senador el 20 de julio"
+    "Pacto Histórico se declara formalmente partido de oposición al gobierno De la Espriella",
+    "Iván Cepeda propone que Gustavo Petro presida el Pacto Histórico después del 7 de agosto",
+    "Alfredo Deluque estaría a un voto de asegurar la presidencia del Senado con apoyo del Partido Liberal",
+    "Centro Democrático presenta paquete de 16 proyectos de ley para la nueva legislatura, insiste en 'voto limpio'",
+    "Presidente de la JEP advierte que desfinanciar la jurisdicción afectaría directamente a las víctimas",
+    "Más de 43.000 contratos por $7,6 billones firmados por entidades del Estado tras la segunda vuelta"
   ],
   "gabinete": {
     "Interior": {
