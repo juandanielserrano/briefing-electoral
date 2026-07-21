@@ -1,15 +1,15 @@
 {
-  "fecha": "lunes 20 de julio de 2026",
+  "fecha": "martes 21 de julio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "De la Espriella denuncia plan de atentado mientras Petro da su último discurso ante el Congreso",
-  "resumen": "El día de la instalación del Congreso quedó marcado por dos ejes paralelos: la despedida de Petro y el primer mensaje contundente de De la Espriella. El presidente electo reveló desde su equipo de seguridad un presunto plan de atentado por $3.000 millones vinculado a disidencias y ELN, elevando la tensión de seguridad a 18 días de su posesión. Desde Medellín, De la Espriella endureció su discurso: anunció retorno de bombardeos, fumigaciones y autonomía regional, marcando distancia ideológica total con el petrismo. Petro, en cambio, dio su último discurso desde Ciudad Bolívar con tono reivindicativo: 'Pudo ser mejor, pero este gobierno pasará a la historia'. La ausencia de la cúpula militar en su acto generó especulación, aunque el presidente la atribuyó a protocolo. En el Capitolio, Alfredo Deluque confirma que tiene las mayorías para presidir el Senado, consolidando el triunfo liberal sobre el uribismo. El procurador Eljach abrió la puerta a que De la Espriella se posesione en una guarnición militar si el Congreso lo autoriza, opción que cobra fuerza tras la denuncia de amenaza.",
+  "titular_del_dia": "Uribismo y Pacto Histórico sellan alianza inesperada: Henríquez arranca como presidente del Senado derrotando al candidato de De la Espriella",
+  "resumen": "De la Espriella perdió su primer pulso con el Congreso. El uribista Honorio Henríquez derrotó a Alfredo Deluque para la presidencia del Senado gracias a una alianza táctica con el Pacto Histórico, que también capturó cinco puestos en la Comisión de Acusaciones. El presidente electo intentó desligarse: 'No llamé a ningún congresista para pedir votos', declaró, pero el revés es evidente. En gabinete, tres nombramientos cierran el mapa regional: Ricardo Torres —fraile y exdirector de Escuela Taller de Bogotá— dirigirá el SENA, apostando a elevar la formación técnica; embajadas en México (sin nombre oficial) y España en definición. Rodrigo Lara, futuro ministro del Interior, buscó rebajar tensiones: 'Aquí no hay vanidades', dijo tras conversación entre De la Espriella y Henríquez, donde se habló de 'colaboración armónica'. El gobierno también anunció sede alterna permanente en Medellín. Mientras tanto, Katherine Miranda rompió con Alianza Verde y Petro canceló su último viaje a Estados Unidos, concentrándose en agenda nacional. La dinámica: Congreso independiente, gobierno entrante a la defensiva.",
   "titulares": [
-    "Equipo de seguridad de De la Espriella denuncia plan de atentado durante empalmes regionales",
-    "De la Espriella anuncia desde Medellín retorno de bombardeos, fumigaciones y autonomía regional",
-    "Petro da su último discurso desde Ciudad Bolívar: 'Pudo ser mejor, pero este gobierno pasará a la historia'",
-    "Alfredo Deluque confirma mayorías para presidir el Senado previo a la instalación del Congreso",
-    "Procurador Eljach señala que De la Espriella podría posesionarse en guarnición militar si Congreso lo autoriza",
-    "Mafe Carrascal presenta Sistema Nacional del Cuidado como primera apuesta legislativa tras instalación"
+    "Honorio Henríquez derrota a Alfredo Deluque con apoyo del Pacto Histórico y se convierte en presidente del Senado",
+    "Pacto Histórico logra cinco puestos en Comisión de Acusaciones, asegurando mayorías",
+    "De la Espriella designa al fraile Ricardo Torres como director del SENA",
+    "Katherine Miranda renuncia al partido Alianza Verde",
+    "Petro cancela último viaje a Estados Unidos y se concentra en agenda nacional",
+    "Borda y Becerra radicaron proposiciones sobre lugar de posesión de De la Espriella"
   ],
   "gabinete": {
     "Interior": {
