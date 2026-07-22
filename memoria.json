@@ -1,15 +1,15 @@
 {
-  "fecha": "martes 21 de julio de 2026",
+  "fecha": "miércoles 22 de julio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Uribismo y Pacto Histórico sellan alianza inesperada: Henríquez arranca como presidente del Senado derrotando al candidato de De la Espriella",
-  "resumen": "De la Espriella perdió su primer pulso con el Congreso. El uribista Honorio Henríquez derrotó a Alfredo Deluque para la presidencia del Senado gracias a una alianza táctica con el Pacto Histórico, que también capturó cinco puestos en la Comisión de Acusaciones. El presidente electo intentó desligarse: 'No llamé a ningún congresista para pedir votos', declaró, pero el revés es evidente. En gabinete, tres nombramientos cierran el mapa regional: Ricardo Torres —fraile y exdirector de Escuela Taller de Bogotá— dirigirá el SENA, apostando a elevar la formación técnica; embajadas en México (sin nombre oficial) y España en definición. Rodrigo Lara, futuro ministro del Interior, buscó rebajar tensiones: 'Aquí no hay vanidades', dijo tras conversación entre De la Espriella y Henríquez, donde se habló de 'colaboración armónica'. El gobierno también anunció sede alterna permanente en Medellín. Mientras tanto, Katherine Miranda rompió con Alianza Verde y Petro canceló su último viaje a Estados Unidos, concentrándose en agenda nacional. La dinámica: Congreso independiente, gobierno entrante a la defensiva.",
+  "titular_del_dia": "Senado aprueba posesión de De la Espriella en el Cauca; Cámara votará mañana",
+  "resumen": "De la Espriella consigue su primera victoria tras el revés del Congreso. El Senado aprobó trasladar la ceremonia de posesión presidencial al Cauca, posiblemente a una guarnición militar. Falta el trámite en Cámara. El gesto territorial refuerza su narrativa descentralizadora, pero la ubicación militar genera ruido: Iván Cepeda convoca 'desobediencia civil' en Barranquilla el 7 de agosto, escalando la confrontación. En gabinete, Paola Holguín precisa su agenda en Cultura: prioriza tres ejes en la 'batalla cultural' ordenada por el presidente electo, señal de que el frente simbólico será activo desde el día uno. Cancillería activó el protocolo de relevo: todos los embajadores deben presentar renuncia antes del 23 de julio. De la Espriella rechaza la nueva reforma tributaria de Petro y mantiene gira de empalme regional: hoy en Córdoba, sexta parada. Once de dieciséis curules de paz anuncian respaldo formal. La transición avanza en ritmo, pero la polarización no cede.",
   "titulares": [
-    "Honorio Henríquez derrota a Alfredo Deluque con apoyo del Pacto Histórico y se convierte en presidente del Senado",
-    "Pacto Histórico logra cinco puestos en Comisión de Acusaciones, asegurando mayorías",
-    "De la Espriella designa al fraile Ricardo Torres como director del SENA",
-    "Katherine Miranda renuncia al partido Alianza Verde",
-    "Petro cancela último viaje a Estados Unidos y se concentra en agenda nacional",
-    "Borda y Becerra radicaron proposiciones sobre lugar de posesión de De la Espriella"
+    "Senado aprueba posesión de De la Espriella en el Cauca; Cámara vota mañana",
+    "Iván Cepeda convoca acto de 'desobediencia civil' en Barranquilla durante posesión",
+    "Cancillería ordena renuncia de todos los embajadores antes del 23 de julio",
+    "De la Espriella rechaza nueva reforma tributaria de Petro",
+    "Once de dieciséis curules de paz anuncian apoyo al gobierno De la Espriella",
+    "Paola Holguín precisa tres ejes para la 'batalla cultural' en MinCultura"
   ],
   "gabinete": {
     "Interior": {
