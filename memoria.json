@@ -1,15 +1,15 @@
 {
-  "fecha": "viernes 24 de julio de 2026",
+  "fecha": "sábado 25 de julio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Jorge Mario Velásquez irá a Ecopetrol; gobierno electo presentaría tributaria en septiembre",
-  "resumen": "De la Espriella nombra su primer presidente de Ecopetrol: Jorge Mario Velásquez, quien relevará a Ricardo Roa el 30 de julio. Señal temprana de control sobre la estatal petrolera, ocho días antes de posesión formal. En lo económico, el ministro de Hacienda designado, Miguel Gómez Martínez, anticipa tributaria para septiembre: el nuevo gobierno tendrá apenas un mes de gracia antes de enfrentar la discusión fiscal. En transición: Petro protagoniza su penúltima semana con gesto simbólico, devolviendo la espada de Bolívar a Quinta de Bolívar tras cuatro años en Palacio. Rechaza expresamente que la posesión se haga en instalaciones militares. Empalmes regionales llegan a Tolima, séptima parada. En lo judicial, estalla controversia por insultos del nuevo director de la UNP, Didier Blanco, quien habría escrito \"me limpié el culo\" refiriéndose a políticos y periodistas. Primer ruido reputacional en la estructura de seguridad del gobierno entrante. Aranceles de EE.UU. entran en vigor: 12,5% desde medianoche, gobierno electo instalará mesas de trabajo bilateral.",
+  "titular_del_dia": "De la Espriella nombra a Sandra Suárez en Prosperidad Social mientras escala el debate por posesión militar",
+  "resumen": "De la Espriella completa otra pieza de su gabinete social: Sandra Suárez llega a Prosperidad Social, entidad clave para la política de subsidios y asistencia. Suárez, con trayectoria en gestión pública y cercanía al equipo técnico del presidente electo, asume una cartera sensible tras el desgaste que sufrió bajo Petro. La confirmación llega mientras el debate sobre la posesión en una guarnición militar escala: Petro emitió orden expresa prohibiendo a las Fuerzas Militares facilitar instalaciones. Humberto de la Calle pidió prudencia a De la Espriella advirtiendo riesgos para las FF.MM. De la Espriella, sin ceder, ahora evalúa posesionarse en el Cauca, zona de alta conflictividad, gesto simbólico pero de alta complejidad logística. El Espectador reveló que Presidencia ya firmó contratos para la ceremonia, indicando que el gobierno saliente cumplirá obligaciones protocolarias pese al roce. A 13 días del 7 de agosto, el empalme mantiene cortesía formal pero tensión política creciente.",
   "titulares": [
-    "Jorge Mario Velásquez será presidente de Ecopetrol desde el 30 de julio",
-    "Gobierno electo presentaría reforma tributaria en septiembre, anuncia Miguel Gómez",
-    "Didier Blanco, nuevo director de la UNP, en el ojo del huracán por insultos a políticos y periodistas",
-    "EE.UU. aplica aranceles del 12,5% a Colombia desde medianoche; gobierno electo instalará mesas de trabajo",
-    "Petro devuelve la espada de Bolívar a Quinta de Bolívar tras cuatro años en Palacio",
-    "Tolima será séptima parada de empalmes regionales de De la Espriella"
+    "De la Espriella confirma a Sandra Suárez como directora de Prosperidad Social",
+    "Petro ordena explícitamente no facilitar guarniciones militares para posesión de De la Espriella",
+    "De la Calle pide prudencia a De la Espriella y advierte riesgo para las Fuerzas Militares",
+    "Presidencia ya firmó contratos para posesión de De la Espriella: El Espectador conoció costos",
+    "De la Espriella evalúa posesionarse en el Cauca, epicentro del conflicto armado",
+    "Jerónimo Uribe advierte que buscan 'divorcio' entre Centro Democrático y gobierno De la Espriella"
   ],
   "gabinete": {
     "Interior": {
@@ -137,6 +137,13 @@
       "nombre_alternativo": "",
       "estado": "confirmado",
       "fuente": "La FM, El Espectador, La Silla Vacía"
+    },
+    "Prosperidad Social": {
+      "sector": "Otros",
+      "nombre_principal": "Sandra Suárez",
+      "nombre_alternativo": "",
+      "estado": "confirmado",
+      "fuente": "La FM"
     }
   }
 }
