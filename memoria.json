@@ -1,15 +1,14 @@
 {
-  "fecha": "sábado 25 de julio de 2026",
+  "fecha": "domingo 26 de julio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "De la Espriella nombra a Sandra Suárez en Prosperidad Social mientras escala el debate por posesión militar",
-  "resumen": "De la Espriella completa otra pieza de su gabinete social: Sandra Suárez llega a Prosperidad Social, entidad clave para la política de subsidios y asistencia. Suárez, con trayectoria en gestión pública y cercanía al equipo técnico del presidente electo, asume una cartera sensible tras el desgaste que sufrió bajo Petro. La confirmación llega mientras el debate sobre la posesión en una guarnición militar escala: Petro emitió orden expresa prohibiendo a las Fuerzas Militares facilitar instalaciones. Humberto de la Calle pidió prudencia a De la Espriella advirtiendo riesgos para las FF.MM. De la Espriella, sin ceder, ahora evalúa posesionarse en el Cauca, zona de alta conflictividad, gesto simbólico pero de alta complejidad logística. El Espectador reveló que Presidencia ya firmó contratos para la ceremonia, indicando que el gobierno saliente cumplirá obligaciones protocolarias pese al roce. A 13 días del 7 de agosto, el empalme mantiene cortesía formal pero tensión política creciente.",
+  "titular_del_dia": "Cauca queda descartado: posesión se traslada a Cali",
+  "resumen": "La opción del Cauca se derrumba. Razones de seguridad fuerzan el viraje hacia Cali, donde la gobernadora Dilian Francisca Toro celebra la posibilidad de recibir la primera posesión presidencial fuera de Bogotá en democracia moderna. El Congreso notificará en horas el cambio. La movida resuelve la tensión operativa pero mantiene el mensaje simbólico: De la Espriella rechaza el Capitolio tradicional. En paralelo, el uribismo acelera su ofensiva: Jerónimo Uribe denuncia públicamente que sectores cercanos al presidente electo buscan \"el divorcio\" con el Centro Democrático \"al estilo Levy y Lalis\", referencia directa a la exclusión de fundadores chavistas. La pelea por liderar la derecha escaló de susurros a declaraciones abiertas. Santos interviene desde otro flanco: pide a De la Espriella no tocar la JEP. El empalme mantiene cortesía pero las fracturas se profundizan: hacia adentro con Uribe, hacia atrás con el legado de paz.",
   "titulares": [
-    "De la Espriella confirma a Sandra Suárez como directora de Prosperidad Social",
-    "Petro ordena explícitamente no facilitar guarniciones militares para posesión de De la Espriella",
-    "De la Calle pide prudencia a De la Espriella y advierte riesgo para las Fuerzas Militares",
-    "Presidencia ya firmó contratos para posesión de De la Espriella: El Espectador conoció costos",
-    "De la Espriella evalúa posesionarse en el Cauca, epicentro del conflicto armado",
-    "Jerónimo Uribe advierte que buscan 'divorcio' entre Centro Democrático y gobierno De la Espriella"
+    "Posesión ya no será en Cauca: Congreso trasladará ceremonia a Cali",
+    "Jerónimo Uribe denuncia intento de \"divorcio\" entre Centro Democrático y gobierno De la Espriella",
+    "Juan Manuel Santos pide a De la Espriella no modificar la JEP ni el acuerdo de paz",
+    "MinDefensa saliente revela inversión de $16,8 billones para modernización de Fuerza Pública",
+    "Congreso definirá en próximas horas 16 curules clave que marcarán balanza legislativa para De la Espriella"
   ],
   "gabinete": {
     "Interior": {
