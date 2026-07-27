@@ -1,14 +1,15 @@
 {
-  "fecha": "domingo 26 de julio de 2026",
+  "fecha": "lunes 27 de julio de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Cauca queda descartado: posesión se traslada a Cali",
-  "resumen": "La opción del Cauca se derrumba. Razones de seguridad fuerzan el viraje hacia Cali, donde la gobernadora Dilian Francisca Toro celebra la posibilidad de recibir la primera posesión presidencial fuera de Bogotá en democracia moderna. El Congreso notificará en horas el cambio. La movida resuelve la tensión operativa pero mantiene el mensaje simbólico: De la Espriella rechaza el Capitolio tradicional. En paralelo, el uribismo acelera su ofensiva: Jerónimo Uribe denuncia públicamente que sectores cercanos al presidente electo buscan \"el divorcio\" con el Centro Democrático \"al estilo Levy y Lalis\", referencia directa a la exclusión de fundadores chavistas. La pelea por liderar la derecha escaló de susurros a declaraciones abiertas. Santos interviene desde otro flanco: pide a De la Espriella no tocar la JEP. El empalme mantiene cortesía pero las fracturas se profundizan: hacia adentro con Uribe, hacia atrás con el legado de paz.",
+  "titular_del_dia": "De la Espriella anuncia Comité de Sabios ad honorem y nombra gerente especial para Bogotá",
+  "resumen": "El presidente electo despliega su aparato de gestión: crea un Comité de Sabios liderado por figura aún no especificada en medios, que operará sin salario, y designa un gerente especial para Bogotá bajo el lema \"no están solos\", señal directa a votantes capitalinos que le dieron espalda. En paralelo, Rodrigo Lara (Interior) abre flancos con el empresariado: reunión con AmCham marca intención de recuperar confianza del sector privado. La estrategia diplomática toma forma: anuncia cierre de 14 embajadas y 15 consulados, restablece relaciones comerciales con Israel para proyecto de agua en Atlántico vía ministro designado Indalecio Dangond. La canciller saliente Villavicencio advierte consecuencias del repliegue diplomático. Mientras tanto, el uribismo asegura control de Comisión Primera en Cámara con presidencia y secretaría, consolidando posición en el Congreso que el 7 de agosto posesionará al gobierno en Cali. La elección de contralor entra en fase final; tensión por contratos de última hora del gobierno Petro suma presión.",
   "titulares": [
-    "Posesión ya no será en Cauca: Congreso trasladará ceremonia a Cali",
-    "Jerónimo Uribe denuncia intento de \"divorcio\" entre Centro Democrático y gobierno De la Espriella",
-    "Juan Manuel Santos pide a De la Espriella no modificar la JEP ni el acuerdo de paz",
-    "MinDefensa saliente revela inversión de $16,8 billones para modernización de Fuerza Pública",
-    "Congreso definirá en próximas horas 16 curules clave que marcarán balanza legislativa para De la Espriella"
+    "De la Espriella crea Comité de Sabios ad honorem",
+    "Gobierno electo nombra gerente especial para Bogotá",
+    "Rodrigo Lara inicia acercamiento empresarial con AmCham",
+    "De la Espriella restablece vínculos comerciales con Israel",
+    "Uribismo asegura presidencia y secretaría de Comisión Primera en Cámara",
+    "Obras del Canal del Dique arrancan el 8 de agosto, día después de posesión"
   ],
   "gabinete": {
     "Interior": {
