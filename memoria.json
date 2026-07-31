@@ -1,15 +1,15 @@
 {
-  "fecha": "jueves 30 de julio de 2026",
-  "hora": "17:06",
-  "titular_del_dia": "De la Espriella cierra su gabinete y lanza ultimátum armado antes de posesión",
-  "resumen": "De la Espriella completa las últimas piezas de su gabinete a ocho días de la posesión. Designó tres directores estratégicos: Gabriel Ignacio García en la ANI (ingeniero civil, exdirector Invías en gobiernos Santos y Duque, técnico del concreto), Luis Fernando Arboleda en el FNA (economista caldense, experiencia en banca pública) y Orlando Beltrán en Parques Nacionales (abogado especialista en derecho ambiental). En lo político, lanzó un ultimátum de siete días a alias Calarcá y otros cabecillas para someterse a la justicia o enfrentar operaciones militares desde el 7 de agosto, marcando el tono de su política de seguridad. El Congreso fijó el 12 de agosto para elegir contralor: Jorge Laverde mantiene fuerza pero emerge un guiño antioqueño hacia otra candidata, aún sin identificar públicamente. El gobierno entrante se desmarca explícitamente de esa elección. Petro acelera cambios diplomáticos y notariales en sus últimas horas. La transición avanza en lo logístico; De la Espriella anunció un retiro espiritual previo a la posesión.",
+  "fecha": "viernes 31 de julio de 2026",
+  "hora": "17:01",
+  "titular_del_dia": "Ana María Vesga confirmada como ministra de Salud entre críticas",
+  "resumen": "De la Espriella cierra su gabinete con la designación de Ana María Vesga en Salud, la última pieza que faltaba. La abogada especialista en derecho de la salud, con experiencia en el sector público y privado, había dado pistas previas sobre su visión: redefinir el rol de las EPS y atacar la crisis sistémica del sector. Su nombramiento genera polémica inmediata desde el Congreso. En lo operativo, el Senado cubrirá tiquetes aéreos a Cali para la posesión del 7 de agosto, mientras el Centro Democrático anuncia que pagará de su propio bolsillo. Petro viaja hoy a La Habana en su última salida internacional, justificándola como defensa de la paz en el Caribe; Cancillería reconoce que la logística de la posesión no se preparó con suficiente antelación. El BanRep mantuvo la tasa en 12% en su última junta con Petro. Procuraduría abre indagación a Aerocivil por el caso Gabriela Muñoz. La transición entra en su última semana con el gabinete completo pero tensiones logísticas y políticas visibles.",
   "titulares": [
-    "De la Espriella designa directores de ANI, FNA y Parques Nacionales",
-    "Presidente electo da ultimátum de una semana a alias Calarcá y otros cabecillas armados",
-    "Congreso pleno convocado para el 12 de agosto para elegir contralor",
-    "Angie Rodríguez denuncia ante Fiscalía presunto intento de envenenamiento en su contra",
-    "Centro Democrático será primer partido en costear con recursos propios asistencia a posesión",
-    "Corte Suprema citará a indagatoria a Gloria Arizabaleta por intento de suspensión a Petro"
+    "Ana María Vesga confirmada como ministra de Salud en medio de polémica",
+    "Senado cubrirá tiquetes aéreos a Cali para posesión; Centro Democrático pagará de su bolsillo",
+    "Petro viaja hoy a Cuba en su último viaje internacional; busca 'oponerse a una guerra en el Caribe'",
+    "Canciller reconoce que logística de posesión 'no se hizo con la suficiente antelación'",
+    "Procuraduría abre indagación a Aerocivil por caso Gabriela Muñoz",
+    "BanRep mantiene tasa de interés en 12% en última junta con Petro"
   ],
   "gabinete": {
     "Interior": {
@@ -70,10 +70,10 @@
     },
     "Salud": {
       "sector": "Social",
-      "nombre_principal": "",
+      "nombre_principal": "Ana María Vesga",
       "nombre_alternativo": "",
-      "estado": "vacante",
-      "fuente": ""
+      "estado": "confirmado",
+      "fuente": "El Espectador, La FM, La Silla Vacía"
     },
     "Educación": {
       "sector": "Social",
