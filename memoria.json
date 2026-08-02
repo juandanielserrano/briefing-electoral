@@ -1,15 +1,15 @@
 {
-  "fecha": "sábado 1 de agosto de 2026",
+  "fecha": "domingo 2 de agosto de 2026",
   "hora": "17:01",
-  "titular_del_dia": "De la Espriella reúne a su gabinete completo en retiro espiritual en Atlántico a seis días de la posesión",
-  "resumen": "El presidente electo convoca a sus ministros designados a un retiro espiritual en Atlántico, señal de la impronta personal que busca imprimir a su gobierno. Ana María Vesga, la última pieza del rompecabezas, suma respaldos de exministros de Salud pese a la polémica inicial. Mientras, la transición registra tensión institucional: el gobierno Petro declara insubsistente a Angie Rodríguez, quien denuncia vulneración de derechos al estar incapacitada hasta el 12 de agosto y anuncia tutela. Petro continúa en Cuba pidiendo el levantamiento del bloqueo estadounidense. La confirmación de invitados internacionales de alto nivel —Felipe VI, Javier Milei, Marco Rubio— contrasta con la logística apretada. El Pacto Histórico revela su estrategia para el 7 de agosto: eventos simultáneos en Barranquilla, Cali y Bogotá, configurando una contra-narrativa simbólica. El Consejo de Estado anuló el nombramiento de Murillo como canciller por inhabilidad, validando jurisprudencia que podría beneficiar al futuro partido de De la Espriella. Faltan seis días.",
+  "titular_del_dia": "Choque entre ministras de Cultura por nombramientos de última hora y designación de Ana María Rincón en Banco Agrario",
+  "resumen": "A cinco días de la posesión, estalla la primera confrontación directa de gabinete. Paola Holguín, ministra designada de Cultura, denuncia nombramientos irregulares de último momento por parte de Yannai Kadamani, la saliente, solicitando intervención de organismos de control. La disputa evidencia fricción institucional en la recta final. En lo operativo, De la Espriella designa a Ana María Rincón como presidenta del Banco Agrario. Rincón, exrepresentante a la Cámara, conoce el sector financiero agropecuario y suma al equipo económico. El presidente electo envía mensaje contra \"infamias y ataques\", señal de tensión creciente mientras Petro nombra a Edwin Palma en tres ministerios ad hoc a seis días del cierre. Didier Blanco, el humorista reconvertido en activista digital abelardista, llega a la dirección de la UNP, cargo sensible en contexto de seguridad. El retiro espiritual en Atlántico continúa exhibiendo la impronta religiosa del gobierno entrante. La violencia política resurge: atentado contra el diputado Yesid Sandoval del Pacto Histórico en Valle.",
   "titulares": [
-    "De la Espriella convoca a todo su gabinete a retiro espiritual en Atlántico",
-    "Gobierno declara insubsistente a Angie Rodríguez; ella anuncia tutela por estar incapacitada",
-    "Felipe VI, Javier Milei y Marco Rubio confirmados en posesión presidencial",
-    "Pacto Histórico organizará eventos simultáneos en tres ciudades el 7 de agosto",
-    "Consejo de Estado anula nombramiento de Murillo como canciller por inhabilidad",
-    "Ana María Vesga suma respaldo de exministros de Salud pese a polémica inicial"
+    "Paola Holguín denuncia nombramientos irregulares de última hora en Ministerio de Cultura y pide intervención de organismos de control",
+    "Abelardo de la Espriella designa a Ana María Rincón como presidenta del Banco Agrario",
+    "Didier Blanco, humorista y activista digital abelardista, asume dirección de la UNP",
+    "Petro nombra a Edwin Palma en tres ministerios ad hoc a seis días del fin de su mandato",
+    "Atentado contra diputado del Pacto Histórico Yesid Sandoval en Valle del Cauca",
+    "De la Espriella responde a críticas: 'No me distraerán las infamias ni los ataques'"
   ],
   "gabinete": {
     "Interior": {
