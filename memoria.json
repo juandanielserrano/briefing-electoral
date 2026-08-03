@@ -1,15 +1,15 @@
 {
-  "fecha": "domingo 2 de agosto de 2026",
+  "fecha": "lunes 3 de agosto de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Choque entre ministras de Cultura por nombramientos de última hora y designación de Ana María Rincón en Banco Agrario",
-  "resumen": "A cinco días de la posesión, estalla la primera confrontación directa de gabinete. Paola Holguín, ministra designada de Cultura, denuncia nombramientos irregulares de último momento por parte de Yannai Kadamani, la saliente, solicitando intervención de organismos de control. La disputa evidencia fricción institucional en la recta final. En lo operativo, De la Espriella designa a Ana María Rincón como presidenta del Banco Agrario. Rincón, exrepresentante a la Cámara, conoce el sector financiero agropecuario y suma al equipo económico. El presidente electo envía mensaje contra \"infamias y ataques\", señal de tensión creciente mientras Petro nombra a Edwin Palma en tres ministerios ad hoc a seis días del cierre. Didier Blanco, el humorista reconvertido en activista digital abelardista, llega a la dirección de la UNP, cargo sensible en contexto de seguridad. El retiro espiritual en Atlántico continúa exhibiendo la impronta religiosa del gobierno entrante. La violencia política resurge: atentado contra el diputado Yesid Sandoval del Pacto Histórico en Valle.",
+  "titular_del_dia": "Infantino asistirá a posesión en Cali; De la Espriella ya tiene partido propio",
+  "resumen": "A cuatro días de la posesión, la transición cierra con dos hitos: el CNE otorgó personería jurídica a Defensores de la Patria, dándole al presidente electo estructura partidaria propia desde el día uno, y se confirma la asistencia del presidente de la FIFA Gianni Infantino a la ceremonia en Cali, sumándose a Milei, Noboa y Kast. La lista de ausencias también define: Samper confirmó que no fue invitado, y El Tiempo reporta que otro expresidente corrió igual suerte. El gabinete cierra: Claudia Benavides asume Ciencia, completando el equipo. En lo económico, De la Espriella acuerda con el alcalde Eder detalles logísticos de la posesión y defiende la sede presidencial alterna en Barranquilla como inversión personal. La Contraloría cerró mesas técnicas con alertas por «falta de planeación» del gobierno saliente. Petro busca último viaje oficial a EEUU antes del 7 de agosto. Cúpula militar: se anticipan cambios en comandantes, señal de reconfiguración institucional inmediata. El escándalo Alcocer-Ferrer mantiene tensión final.",
   "titulares": [
-    "Paola Holguín denuncia nombramientos irregulares de última hora en Ministerio de Cultura y pide intervención de organismos de control",
-    "Abelardo de la Espriella designa a Ana María Rincón como presidenta del Banco Agrario",
-    "Didier Blanco, humorista y activista digital abelardista, asume dirección de la UNP",
-    "Petro nombra a Edwin Palma en tres ministerios ad hoc a seis días del fin de su mandato",
-    "Atentado contra diputado del Pacto Histórico Yesid Sandoval en Valle del Cauca",
-    "De la Espriella responde a críticas: 'No me distraerán las infamias ni los ataques'"
+    "CNE otorga personería jurídica a Defensores de la Patria",
+    "Gianni Infantino, presidente de la FIFA, asistirá a posesión en Cali",
+    "Claudia Benavides será ministra de Ciencia",
+    "Samper confirma que no fue invitado a la posesión",
+    "Contraloría cierra mesas técnicas con alertas por 'falta de planeación' del gobierno Petro",
+    "Petro busca último viaje oficial a Estados Unidos antes del 7 de agosto"
   ],
   "gabinete": {
     "Interior": {
@@ -49,10 +49,10 @@
     },
     "DNP": {
       "sector": "Económico",
-      "nombre_principal": "",
+      "nombre_principal": "Claudia Benavides",
       "nombre_alternativo": "",
-      "estado": "vacante",
-      "fuente": ""
+      "estado": "confirmado",
+      "fuente": "La Silla Vacía"
     },
     "Comercio": {
       "sector": "Económico",
