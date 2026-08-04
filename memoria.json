@@ -1,15 +1,15 @@
 {
-  "fecha": "lunes 3 de agosto de 2026",
+  "fecha": "martes 4 de agosto de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Infantino asistirá a posesión en Cali; De la Espriella ya tiene partido propio",
-  "resumen": "A cuatro días de la posesión, la transición cierra con dos hitos: el CNE otorgó personería jurídica a Defensores de la Patria, dándole al presidente electo estructura partidaria propia desde el día uno, y se confirma la asistencia del presidente de la FIFA Gianni Infantino a la ceremonia en Cali, sumándose a Milei, Noboa y Kast. La lista de ausencias también define: Samper confirmó que no fue invitado, y El Tiempo reporta que otro expresidente corrió igual suerte. El gabinete cierra: Claudia Benavides asume Ciencia, completando el equipo. En lo económico, De la Espriella acuerda con el alcalde Eder detalles logísticos de la posesión y defiende la sede presidencial alterna en Barranquilla como inversión personal. La Contraloría cerró mesas técnicas con alertas por «falta de planeación» del gobierno saliente. Petro busca último viaje oficial a EEUU antes del 7 de agosto. Cúpula militar: se anticipan cambios en comandantes, señal de reconfiguración institucional inmediata. El escándalo Alcocer-Ferrer mantiene tensión final.",
+  "titular_del_dia": "De la Espriella designa cúpula policial y lanza Bloques de Seguridad Urbana a 72 horas de la posesión",
+  "resumen": "La transición cierra con definiciones operativas. De la Espriella nombró al general (r) Alejandro Barrera como director de la Policía Nacional —experto en inteligencia que será reintegrado— y presentó en cumbre con alcaldes el modelo de Bloques de Seguridad Urbana, su apuesta institucional contra el crimen urbano. El diseño marca distancia con el enfoque territorial del gobierno Petro. En política, Uribe dejó en suspenso su asistencia a la posesión en Cali citando ponderación de seguridad, mientras el Centro Democrático niega reserva política. La auditoría electoral confirmó ausencia de irregularidades en el proceso, cerrando especulaciones. Ordóñez fue designado embajador ante la OEA. El Pacto Histórico anticipa que no asistirá a la posesión, replicando la ausencia del Centro Democrático en 2018 con Santos. Cali moviliza 11.100 uniformados para el 7 de agosto. Minas sigue vacante a tres días del inicio de gobierno.",
   "titulares": [
-    "CNE otorga personería jurídica a Defensores de la Patria",
-    "Gianni Infantino, presidente de la FIFA, asistirá a posesión en Cali",
-    "Claudia Benavides será ministra de Ciencia",
-    "Samper confirma que no fue invitado a la posesión",
-    "Contraloría cierra mesas técnicas con alertas por 'falta de planeación' del gobierno Petro",
-    "Petro busca último viaje oficial a Estados Unidos antes del 7 de agosto"
+    "General (r) Alejandro Barrera, designado director de la Policía Nacional",
+    "De la Espriella lanza Bloques de Seguridad Urbana en cumbre con alcaldes",
+    "Auditoría electoral confirma ausencia de irregularidades en resultados presidenciales",
+    "Uribe definirá asistencia a posesión tras ponderar su seguridad",
+    "Pacto Histórico no asistirá a posesión, replica ausencia uribista en 2018",
+    "Alejandro Ordóñez será embajador de Colombia ante la OEA"
   ],
   "gabinete": {
     "Interior": {
