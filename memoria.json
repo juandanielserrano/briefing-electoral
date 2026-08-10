@@ -1,15 +1,15 @@
 {
-  "fecha": "domingo 9 de agosto de 2026",
+  "fecha": "lunes 10 de agosto de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Lara toma control directo del CERREM y De la Espriella visita Medellín en Feria de las Flores",
-  "resumen": "El gobierno De la Espriella avanza en consolidación de poder sobre seguridad y territorio. Rodrigo Lara asume personalmente la presidencia del Comité de Evaluación de Riesgo Electoral (CERREM), señal de control político sobre esquemas de protección; simultáneamente frena procesos en curso en la UNP hasta revisión. Es centralización temprana de decisiones sensibles. En paralelo, De la Espriella aterriza en Medellín para su primera visita oficial durante la Feria de las Flores: encuentro con Federico Gutiérrez para hablar seguridad y proyectos. La agenda presidencial privilegia territorio y mandatarios locales afines. La oposición petrista articula respuesta: Iván Cepeda anuncia acción penal contra Efraín Cepeda por acusarlo de vínculos con grupos armados, primer choque judicial entre las dos corrientes. El Centro Democrático insiste en devolución del presupuesto para reajuste. Minas sigue vacante. La primera semana cierra con control administrativo, presencia regional y tensión creciente con la izquierda.",
+  "titular_del_dia": "Terremoto de 7.4 activa la primera crisis de De la Espriella a tres días de posesión",
+  "resumen": "El terremoto de magnitud 7.4 con epicentro en Chocó define abruptamente el arranque del gobierno De la Espriella. Con 111 muertos confirmados, el presidente ya posesionado declara desastre nacional desde la UNGRD y despliega al vicepresidente Restrepo a Manizales y al ministro Lara a Pereira. Es gestión de crisis inmediata, a la vez prueba de fuego y oportunidad de legitimación temprana. La agenda de La Guajira queda cancelada; el territorio ahora es Eje Cafetero, Valle, Cauca. En paralelo, el gobierno avanza en control administrativo: Agricultura suspende por 90 días titulación de tierras tras hallar \"cosas graves\" y anuncia la salida de César Pachón de la ADR; Lara congela contrataciones hasta el 20 de agosto. El Congreso aplaza sesiones salvo la elección de contralor el miércoles, donde el Centro Democrático tiene la llave. Restrepo confirma avances en diálogo con Estados Unidos. La oposición petrista pide emergencia económica. El desastre natural centraliza poder ejecutivo y suspende la política ordinaria justo cuando debía arrancar.",
   "titulares": [
-    "Ministro Lara asume directamente presidencia del CERREM y frena procesos en UNP",
-    "De la Espriella aterriza en Medellín para primera visita oficial en Feria de las Flores",
-    "Iván Cepeda anuncia acción penal contra Efraín Cepeda por señalamientos de 'guerrillero'",
-    "Cauca: seis horas de combate entre Ejército y disidencia de Mordisco",
-    "MinAgricultura acusa a Agencia Rural de 'maratón de contratos' el sábado",
-    "Movidas en Ecopetrol: aliados de Roa fueron trasladados de sus cargos"
+    "Terremoto de 7.4 deja 111 muertos; De la Espriella declara desastre nacional",
+    "Vicepresidente Restrepo en Manizales y ministro Lara en Pereira coordinando respuesta",
+    "Agricultura suspende titulación de tierras por 90 días tras hallar \"cosas graves\"",
+    "MinAgricultura declara insubsistente a César Pachón de la ADR",
+    "Rodrigo Lara congela contrataciones y movimientos de personal hasta el 20 de agosto",
+    "Congreso aplaza sesiones pero mantiene elección de contralor para el miércoles 13"
   ],
   "gabinete": {
     "Interior": {
