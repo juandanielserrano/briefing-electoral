@@ -1,15 +1,15 @@
 {
-  "fecha": "lunes 10 de agosto de 2026",
+  "fecha": "martes 11 de agosto de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Terremoto de 7.4 activa la primera crisis de De la Espriella a tres días de posesión",
-  "resumen": "El terremoto de magnitud 7.4 con epicentro en Chocó define abruptamente el arranque del gobierno De la Espriella. Con 111 muertos confirmados, el presidente ya posesionado declara desastre nacional desde la UNGRD y despliega al vicepresidente Restrepo a Manizales y al ministro Lara a Pereira. Es gestión de crisis inmediata, a la vez prueba de fuego y oportunidad de legitimación temprana. La agenda de La Guajira queda cancelada; el territorio ahora es Eje Cafetero, Valle, Cauca. En paralelo, el gobierno avanza en control administrativo: Agricultura suspende por 90 días titulación de tierras tras hallar \"cosas graves\" y anuncia la salida de César Pachón de la ADR; Lara congela contrataciones hasta el 20 de agosto. El Congreso aplaza sesiones salvo la elección de contralor el miércoles, donde el Centro Democrático tiene la llave. Restrepo confirma avances en diálogo con Estados Unidos. La oposición petrista pide emergencia económica. El desastre natural centraliza poder ejecutivo y suspende la política ordinaria justo cuando debía arrancar.",
+  "titular_del_dia": "Congreso rechaza aplazar elección de contralor; gobierno devuelve presupuesto 2027",
+  "resumen": "Cuatro días después de posesionado, De la Espriella enfrenta dos frentes simultáneos: emergencia y política ordinaria. El Congreso mantiene elección de contralor este miércoles pese a solicitudes de aplazamiento; la Secretaría advierte vicios si se cambia cronograma. Centro Democrático conserva llave. En paralelo, el Legislativo devolvió al gobierno el proyecto de presupuesto 2027 heredado de Petro; De la Espriella deberá reelaborarlo y radicarlo el 26 de agosto, ganando margen para imprimirle su sello. En gabinete: Lina Garrido, cuestionada en ICA, aterriza formalmente en ANT; Lara asume encargo de UNP sin claridad sobre Didier Blanco. MinCultura y MinTrabajo oficializan viceministros. Petro solicita permiso al Senado para salir del país por un año (compromisos personales, políticos, académicos). Hacienda evalúa emergencia económica y crédito BM/BID por USD 450 millones. Primer bombardeo del gobierno: Fuerzas Militares golpean ELN. La institucionalidad funciona bajo desastre; la política también.",
   "titulares": [
-    "Terremoto de 7.4 deja 111 muertos; De la Espriella declara desastre nacional",
-    "Vicepresidente Restrepo en Manizales y ministro Lara en Pereira coordinando respuesta",
-    "Agricultura suspende titulación de tierras por 90 días tras hallar \"cosas graves\"",
-    "MinAgricultura declara insubsistente a César Pachón de la ADR",
-    "Rodrigo Lara congela contrataciones y movimientos de personal hasta el 20 de agosto",
-    "Congreso aplaza sesiones pero mantiene elección de contralor para el miércoles 13"
+    "Congreso devuelve proyecto de presupuesto 2027 al gobierno De la Espriella",
+    "Secretaría del Congreso rechaza aplazar elección de contralor; advierten vicios procedimentales",
+    "Expresidente Petro solicita permiso al Senado para salir del país durante un año",
+    "Fuerzas Militares realizan primer bombardeo contra ELN bajo gobierno De la Espriella",
+    "MinHacienda evalúa declarar emergencia económica y crédito por USD 450 millones",
+    "Rodrigo Lara asumirá dirección encargada de UNP; incertidumbre sobre Didier Blanco"
   ],
   "gabinete": {
     "Interior": {
