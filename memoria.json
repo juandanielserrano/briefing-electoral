@@ -1,15 +1,15 @@
 {
-  "fecha": "martes 11 de agosto de 2026",
+  "fecha": "miércoles 12 de agosto de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Congreso rechaza aplazar elección de contralor; gobierno devuelve presupuesto 2027",
-  "resumen": "Cuatro días después de posesionado, De la Espriella enfrenta dos frentes simultáneos: emergencia y política ordinaria. El Congreso mantiene elección de contralor este miércoles pese a solicitudes de aplazamiento; la Secretaría advierte vicios si se cambia cronograma. Centro Democrático conserva llave. En paralelo, el Legislativo devolvió al gobierno el proyecto de presupuesto 2027 heredado de Petro; De la Espriella deberá reelaborarlo y radicarlo el 26 de agosto, ganando margen para imprimirle su sello. En gabinete: Lina Garrido, cuestionada en ICA, aterriza formalmente en ANT; Lara asume encargo de UNP sin claridad sobre Didier Blanco. MinCultura y MinTrabajo oficializan viceministros. Petro solicita permiso al Senado para salir del país por un año (compromisos personales, políticos, académicos). Hacienda evalúa emergencia económica y crédito BM/BID por USD 450 millones. Primer bombardeo del gobierno: Fuerzas Militares golpean ELN. La institucionalidad funciona bajo desastre; la política también.",
+  "titular_del_dia": "Congreso elige a Jorge Laverde como contralor en medio del terremoto",
+  "resumen": "La institucionalidad avanza sobre los escombros. El Congreso pleno eligió este miércoles a Jorge Eliécer Laverde como contralor general con 269 votos, cerrando un proceso que el gobierno no logró aplazar pese a la emergencia. Laverde, secretario de la Comisión Sexta del Senado, llega con respaldo de cinco bancadas; Centro Democrático mantiene la llave del vicecontralor. Promete no usar el órgano como \"garrote político\". En gabinete: se oficializan nombramientos técnicos. María Carolina Restrepo asume ICBF; Mónica Lombana se posesiona en Supersalud. La emergencia genera dos polémicas paralelas: el gobierno niega —vía canciller Bula— haber rechazado ayuda internacional, mientras persisten cuestionamientos sobre protocolos de coordinación con brigadas extranjeras. Colombia acepta 22 rescatistas estadounidenses y ayuda de Israel, Ecuador y El Salvador. La cifra oficial sube a 241 fallecidos, 287 desaparecidos. En el Senado, persiste la controversia por el permiso anual solicitado por Petro para ausentarse del país. La política ordinaria no cede ante el desastre; convive con él.",
   "titulares": [
-    "Congreso devuelve proyecto de presupuesto 2027 al gobierno De la Espriella",
-    "Secretaría del Congreso rechaza aplazar elección de contralor; advierten vicios procedimentales",
-    "Expresidente Petro solicita permiso al Senado para salir del país durante un año",
-    "Fuerzas Militares realizan primer bombardeo contra ELN bajo gobierno De la Espriella",
-    "MinHacienda evalúa declarar emergencia económica y crédito por USD 450 millones",
-    "Rodrigo Lara asumirá dirección encargada de UNP; incertidumbre sobre Didier Blanco"
+    "Jorge Eliécer Laverde elegido contralor con 269 votos",
+    "María Carolina Restrepo nombrada directora del ICBF",
+    "Mónica Lombana García se posesiona como Supersalud",
+    "Gobierno niega rechazo a ayuda internacional; persiste polémica",
+    "Cifra oficial: 241 fallecidos y 287 desaparecidos por terremoto",
+    "Persiste controversia en Senado por permiso anual de Petro"
   ],
   "gabinete": {
     "Interior": {
