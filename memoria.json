@@ -1,15 +1,15 @@
 {
-  "fecha": "miércoles 12 de agosto de 2026",
+  "fecha": "jueves 13 de agosto de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Congreso elige a Jorge Laverde como contralor en medio del terremoto",
-  "resumen": "La institucionalidad avanza sobre los escombros. El Congreso pleno eligió este miércoles a Jorge Eliécer Laverde como contralor general con 269 votos, cerrando un proceso que el gobierno no logró aplazar pese a la emergencia. Laverde, secretario de la Comisión Sexta del Senado, llega con respaldo de cinco bancadas; Centro Democrático mantiene la llave del vicecontralor. Promete no usar el órgano como \"garrote político\". En gabinete: se oficializan nombramientos técnicos. María Carolina Restrepo asume ICBF; Mónica Lombana se posesiona en Supersalud. La emergencia genera dos polémicas paralelas: el gobierno niega —vía canciller Bula— haber rechazado ayuda internacional, mientras persisten cuestionamientos sobre protocolos de coordinación con brigadas extranjeras. Colombia acepta 22 rescatistas estadounidenses y ayuda de Israel, Ecuador y El Salvador. La cifra oficial sube a 241 fallecidos, 287 desaparecidos. En el Senado, persiste la controversia por el permiso anual solicitado por Petro para ausentarse del país. La política ordinaria no cede ante el desastre; convive con él.",
+  "titular_del_dia": "De la Espriella completa núcleo técnico mientras persiste controversia por cooperación militar con EE.UU.",
+  "resumen": "El gobierno De la Espriella acelera nombramientos en el núcleo técnico del Estado. Carlos Eduardo Sepúlveda asume DNP, reemplazando a Claudia Benavides en coordinación económica. Ángela María Mora toma RTVC (Inravisión), Ricardo Valencia el Dane y Sergio Piñeros la ANLA. Miguel Uribe Londoño va como embajador al Reino Unido. La primera reunión De la Espriella-fiscal Camargo busca marcar distancia con las tensiones del gobierno Petro. Pero emerge nueva controversia: el Congreso advierte que operaciones militares conjuntas con EE.UU. requieren autorización del Senado, desafiando el margen de maniobra presidencial en seguridad. El terremoto mantiene presión: José Manuel Restrepo y Rodrigo Lara recorren Chocó anunciando medidas; la cifra oficial sube a 273 fallecidos, 377 desaparecidos. México confirma que Colombia rechazó sus rescatistas. Petro recibe permiso anual para salir del país, pero debe informar cada viaje. El Pacto Histórico construye su 'gabinete paralelo' bajo liderazgo de Iván Cepeda, formalizando oposición.",
   "titulares": [
-    "Jorge Eliécer Laverde elegido contralor con 269 votos",
-    "María Carolina Restrepo nombrada directora del ICBF",
-    "Mónica Lombana García se posesiona como Supersalud",
-    "Gobierno niega rechazo a ayuda internacional; persiste polémica",
-    "Cifra oficial: 241 fallecidos y 287 desaparecidos por terremoto",
-    "Persiste controversia en Senado por permiso anual de Petro"
+    "Carlos Eduardo Sepúlveda confirmado como nuevo director del DNP",
+    "Ángela María Mora asume gerencia de RTVC (Inravisión)",
+    "Ricardo Valencia será director del Dane",
+    "Congreso advierte que operaciones militares con EE.UU. requieren autorización del Senado",
+    "Sheinbaum confirma que Colombia rechazó rescatistas mexicanos",
+    "Pacto Histórico construye 'gabinete paralelo' liderado por Iván Cepeda"
   ],
   "gabinete": {
     "Interior": {
@@ -49,10 +49,10 @@
     },
     "DNP": {
       "sector": "Económico",
-      "nombre_principal": "Claudia Benavides",
+      "nombre_principal": "Carlos Eduardo Sepúlveda",
       "nombre_alternativo": "",
       "estado": "confirmado",
-      "fuente": "La Silla Vacía"
+      "fuente": "La FM"
     },
     "Comercio": {
       "sector": "Económico",
