@@ -1,15 +1,15 @@
 {
-  "fecha": "jueves 13 de agosto de 2026",
+  "fecha": "viernes 14 de agosto de 2026",
   "hora": "17:01",
-  "titular_del_dia": "De la Espriella completa núcleo técnico mientras persiste controversia por cooperación militar con EE.UU.",
-  "resumen": "El gobierno De la Espriella acelera nombramientos en el núcleo técnico del Estado. Carlos Eduardo Sepúlveda asume DNP, reemplazando a Claudia Benavides en coordinación económica. Ángela María Mora toma RTVC (Inravisión), Ricardo Valencia el Dane y Sergio Piñeros la ANLA. Miguel Uribe Londoño va como embajador al Reino Unido. La primera reunión De la Espriella-fiscal Camargo busca marcar distancia con las tensiones del gobierno Petro. Pero emerge nueva controversia: el Congreso advierte que operaciones militares conjuntas con EE.UU. requieren autorización del Senado, desafiando el margen de maniobra presidencial en seguridad. El terremoto mantiene presión: José Manuel Restrepo y Rodrigo Lara recorren Chocó anunciando medidas; la cifra oficial sube a 273 fallecidos, 377 desaparecidos. México confirma que Colombia rechazó sus rescatistas. Petro recibe permiso anual para salir del país, pero debe informar cada viaje. El Pacto Histórico construye su 'gabinete paralelo' bajo liderazgo de Iván Cepeda, formalizando oposición.",
+  "titular_del_dia": "De la Espriella declara insubsistentes a cinco embajadores y completa círculo de viceministros",
+  "resumen": "El gobierno acelera el cierre del equipo institucional. En Interior, Rodrigo Lara completa su círculo: Carlos Gechem (Viceministro General), Jorge Roa (Diálogo Social) y Hitler Chaverra (Secretario General). Son figuras técnicas con experiencia en negociación territorial. En la cúpula policial, De la Espriella reincorpora tres generales del retiro, señal de que busca mano firme tras los cuestionamientos sobre operaciones militares con EEUU. John Milton Rodríguez, pastor evangélico y exsenador, asume como liquidador de MinIgualdad, confirmando el desmantelamiento de esa cartera heredada de Petro. Cinco embajadores (Trinidad y Tobago, Suecia, Haití, Turquía, Paraguay) fueron declarados insubsistentes por no presentar renuncia protocolaria, un gesto de limpieza diplomática. En el frente técnico: Julia Eva Pretelt llega a la Superintendencia de Sociedades. El terremoto domina la agenda: De la Espriella anuncia un gerente especial para Chocó, propone un \"plan Marshall\" de reconstrucción y el Banco Mundial desembolsa US$200 millones. La cifra oficial: 287 muertos.",
   "titulares": [
-    "Carlos Eduardo Sepúlveda confirmado como nuevo director del DNP",
-    "Ángela María Mora asume gerencia de RTVC (Inravisión)",
-    "Ricardo Valencia será director del Dane",
-    "Congreso advierte que operaciones militares con EE.UU. requieren autorización del Senado",
-    "Sheinbaum confirma que Colombia rechazó rescatistas mexicanos",
-    "Pacto Histórico construye 'gabinete paralelo' liderado por Iván Cepeda"
+    "De la Espriella declara insubsistentes a cinco embajadores de la era Petro",
+    "Rodrigo Lara completa equipo en Interior: Gechem, Roa y Chaverra",
+    "John Milton Rodríguez, liquidador de MinIgualdad",
+    "De la Espriella reincorpora tres generales del retiro a cúpula policial",
+    "Julia Eva Pretelt asume Superintendencia de Sociedades",
+    "Registraduría activa unidades móviles gratuitas en zonas del terremoto"
   ],
   "gabinete": {
     "Interior": {
