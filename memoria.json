@@ -1,15 +1,15 @@
 {
-  "fecha": "viernes 14 de agosto de 2026",
+  "fecha": "sábado 15 de agosto de 2026",
   "hora": "17:01",
-  "titular_del_dia": "De la Espriella declara insubsistentes a cinco embajadores y completa círculo de viceministros",
-  "resumen": "El gobierno acelera el cierre del equipo institucional. En Interior, Rodrigo Lara completa su círculo: Carlos Gechem (Viceministro General), Jorge Roa (Diálogo Social) y Hitler Chaverra (Secretario General). Son figuras técnicas con experiencia en negociación territorial. En la cúpula policial, De la Espriella reincorpora tres generales del retiro, señal de que busca mano firme tras los cuestionamientos sobre operaciones militares con EEUU. John Milton Rodríguez, pastor evangélico y exsenador, asume como liquidador de MinIgualdad, confirmando el desmantelamiento de esa cartera heredada de Petro. Cinco embajadores (Trinidad y Tobago, Suecia, Haití, Turquía, Paraguay) fueron declarados insubsistentes por no presentar renuncia protocolaria, un gesto de limpieza diplomática. En el frente técnico: Julia Eva Pretelt llega a la Superintendencia de Sociedades. El terremoto domina la agenda: De la Espriella anuncia un gerente especial para Chocó, propone un \"plan Marshall\" de reconstrucción y el Banco Mundial desembolsa US$200 millones. La cifra oficial: 287 muertos.",
+  "titular_del_dia": "De la Espriella habla con Trump y pide suspender aranceles por terremoto",
+  "resumen": "El presidente estrena diplomacia directa con Washington. Primera conversación con Trump desde la posesión: le agradeció la ayuda (US$11 millones acumulados) y solicitó suspensión de aranceles a productos colombianos por la emergencia. Es un giro pragmático tras las tensiones heredadas de Petro. También contactó a Netanyahu, confirmando el realineamiento hacia Israel que anticipaba Omar Bula. En lo técnico: Julián Buitrago asume la dirección del DNP, figura clave para coordinar el 'plan Marshall' de reconstrucción. Buitrago fue viceministro de Hacienda con Carrasquilla y tiene experiencia en estructuración de megaproyectos. En el frente judicial, un juez ordena definir el desarchivo del proceso contra Ricardo Roa (Viceministro de Diálogo Social en Interior) por presunto direccionamiento de contratos, una señal de alerta temprana para el círculo de Lara. El CNE se mueve: Juan Carlos Wills (Conservador) y Gersel Pérez (Cambio Radical) emergen como candidatos a magistrados, parte del reparto burocrático post-electoral.",
   "titulares": [
-    "De la Espriella declara insubsistentes a cinco embajadores de la era Petro",
-    "Rodrigo Lara completa equipo en Interior: Gechem, Roa y Chaverra",
-    "John Milton Rodríguez, liquidador de MinIgualdad",
-    "De la Espriella reincorpora tres generales del retiro a cúpula policial",
-    "Julia Eva Pretelt asume Superintendencia de Sociedades",
-    "Registraduría activa unidades móviles gratuitas en zonas del terremoto"
+    "De la Espriella habló con Trump y pidió suspensión de aranceles por terremoto",
+    "De la Espriella contactó a Netanyahu en giro diplomático hacia Israel",
+    "Julián Buitrago designado director del DNP con foco en reconstrucción",
+    "Juez ordena definir desarchivo de proceso contra Ricardo Roa por contratos",
+    "Se definen candidatos a CNE: Wills por Conservadores, Pérez por Cambio Radical",
+    "Conectividad celular supera 85% en zonas afectadas por terremoto"
   ],
   "gabinete": {
     "Interior": {
@@ -49,10 +49,10 @@
     },
     "DNP": {
       "sector": "Económico",
-      "nombre_principal": "Carlos Eduardo Sepúlveda",
+      "nombre_principal": "Julián Buitrago",
       "nombre_alternativo": "",
       "estado": "confirmado",
-      "fuente": "La FM"
+      "fuente": "Blu Radio"
     },
     "Comercio": {
       "sector": "Económico",
