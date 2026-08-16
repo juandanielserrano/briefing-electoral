@@ -1,15 +1,15 @@
 {
-  "fecha": "sábado 15 de agosto de 2026",
+  "fecha": "domingo 16 de agosto de 2026",
   "hora": "17:01",
-  "titular_del_dia": "De la Espriella habla con Trump y pide suspender aranceles por terremoto",
-  "resumen": "El presidente estrena diplomacia directa con Washington. Primera conversación con Trump desde la posesión: le agradeció la ayuda (US$11 millones acumulados) y solicitó suspensión de aranceles a productos colombianos por la emergencia. Es un giro pragmático tras las tensiones heredadas de Petro. También contactó a Netanyahu, confirmando el realineamiento hacia Israel que anticipaba Omar Bula. En lo técnico: Julián Buitrago asume la dirección del DNP, figura clave para coordinar el 'plan Marshall' de reconstrucción. Buitrago fue viceministro de Hacienda con Carrasquilla y tiene experiencia en estructuración de megaproyectos. En el frente judicial, un juez ordena definir el desarchivo del proceso contra Ricardo Roa (Viceministro de Diálogo Social en Interior) por presunto direccionamiento de contratos, una señal de alerta temprana para el círculo de Lara. El CNE se mueve: Juan Carlos Wills (Conservador) y Gersel Pérez (Cambio Radical) emergen como candidatos a magistrados, parte del reparto burocrático post-electoral.",
+  "titular_del_dia": "De la Espriella fuerza cambio en MinTIC y agenda anticorrupción con el contralor electo",
+  "resumen": "El presidente activa dos frentes de control interno. Primero, tras llamar la atención sobre nombramientos en MinTIC, la ministra Alexandra Falla aceptó la renuncia de su secretaria general Magda Yolima Amaya apenas tres días después de nombrarla. Es una señal de que De la Espriella vigila los equipos de sus ministros. Segundo, se reunió con Jorge Laverde, contralor electo que asumirá el 27 de agosto: el tema central fue la lucha anticorrupción, anticipando coordinación entre Ejecutivo y órgano de control. Laverde llegó limpio: la Procuraduría archivó el proceso que tenía por un anónimo sobre su patrimonio. En nombramientos estratégicos, De la Espriella designó gerentes para ANI, RTVC, Invima y la Agencia Nacional de Hidrocarburos, completando la maquinaria operativa del Estado. Miguel Uribe Londoño será embajador en Reino Unido, continuando la rotación diplomática. Y para liquidar el MinIgualdad que heredó de Petro, nombró al pastor John Milton Rodríguez, exministro de Vivienda con Duque. La reconstrucción avanza: anunció gerente para Chocó y sigue negociando con Trump la suspensión de aranceles por la emergencia.",
   "titulares": [
-    "De la Espriella habló con Trump y pidió suspensión de aranceles por terremoto",
-    "De la Espriella contactó a Netanyahu en giro diplomático hacia Israel",
-    "Julián Buitrago designado director del DNP con foco en reconstrucción",
-    "Juez ordena definir desarchivo de proceso contra Ricardo Roa por contratos",
-    "Se definen candidatos a CNE: Wills por Conservadores, Pérez por Cambio Radical",
-    "Conectividad celular supera 85% en zonas afectadas por terremoto"
+    "Tras llamado de atención presidencial, ministra TIC acepta renuncia de su secretaria general",
+    "De la Espriella y contralor electo Laverde se reúnen: anticorrupción como eje de coordinación",
+    "Pastor John Milton Rodríguez liquidará el Ministerio de la Igualdad",
+    "De la Espriella nombra gerentes de ANI, RTVC, Invima y Agencia Nacional de Hidrocarburos",
+    "Miguel Uribe Londoño será embajador en Reino Unido",
+    "Presidente anuncia gerente para la reconstrucción del Chocó"
   ],
   "gabinete": {
     "Interior": {
