@@ -1,15 +1,15 @@
 {
-  "fecha": "jueves 27 de agosto de 2026",
+  "fecha": "viernes 28 de agosto de 2026",
   "hora": "17:01",
-  "titular_del_dia": "De la Espriella declara calamidad pública en Tolima y ejecuta bombardeo contra disidencias de Calarcá",
-  "resumen": "El gobierno electo intensifica su perfil de firmeza en seguridad y gestión de emergencias. De la Espriella declaró calamidad pública en Tolima por incendios forestales y confirmó bombardeo contra disidencias de 'Calarcá' en Guaviare: 8 a 11 muertos según fuentes, incluyendo alias 'Urías Perdomo', mano derecha del jefe disidente. El operativo marca continuidad de la línea dura anunciada con nombramiento del general Mora en Defensa. En lo político, el gobierno radicó presupuesto por $634,9-636 billones para 2027 ($89 billones más que 2026), generando división: coalición apoya, Pacto Histórico y sectores de oposición objetan. Tensión institucional: juez ordenó a De la Espriella disculparse por vulnerar neutralidad religiosa al promover velatón oficial por víctimas del terremoto. Hannah Escobar salió del equipo de MinSalud por diferencias con el gobierno. Antonella Farah, aliada cartagenera de Abelardo, será cónsul en Miami. Exministra de Petro Angela María Buitrago cuestionó duramente la Paz Total: 'se sentaban a la mesa y seguían delinquiendo'.",
+  "titular_del_dia": "De la Espriella deroga prohibición del glifosato y anuncia subsidios de $1.050.000 por tres meses para Cali",
+  "resumen": "El gobierno electo intensifica su giro de política pública con dos decisiones simultáneas: derogó la resolución que prohibía aspersión aérea con glifosato —marca formal del fin de la línea antinarcóticos de Petro— y anunció desde Cali subsidios directos de $1.050.000 mensuales durante tres meses para damnificados del terremoto, más un 'banco de materiales' para reconstrucción. La medida replica el modelo ya aplicado en Pereira. En seguridad, Colombia extradita a Chile al cabecilla del Tren de Aragua, alias 'Gocho'. El presupuesto de $636 billones sigue generando resistencia: congresistas opositores piden reunión urgente con Hacienda por supuesto desfinanciamiento de $60 billones. La UNP retiró esquemas de seguridad a tres figuras del petrismo: Beto Coral, Juliana Guerrero y Gabriela Muñoz. División interna en Pacto Histórico por solicitud de Comisión de Acusación de asumir investigación contra Uribe por supuesta creación de paramilitares en Antioquia; el ente negó la petición. Gabinete sin cambios; gobierno mantiene plan de voceros en Casa de Nariño.",
   "titulares": [
-    "De la Espriella declara calamidad pública en Tolima por incendios forestales",
-    "Gobierno confirma bombardeo contra disidencias de Calarcá: entre 8 y 11 muertos en Guaviare",
-    "Gobierno radicó presupuesto por $634,9-636 billones para 2027, $89 billones más que 2026",
-    "Juez ordena a De la Espriella disculparse por vulnerar neutralidad religiosa",
-    "Hannah Escobar sale del equipo de MinSalud por diferencias con el gobierno",
-    "Antonella Farah, aliada de Abelardo en Cartagena, será cónsul en Miami"
+    "Gobierno De la Espriella deroga decreto que prohibía aspersión aérea con glifosato",
+    "De la Espriella anuncia subsidios de $1.050.000 mensuales por tres meses y 'banco de materiales' en Cali",
+    "Colombia extradita a Chile a alias 'Gocho', cabecilla del Tren de Aragua",
+    "UNP retira esquemas de seguridad a Beto Coral, Juliana Guerrero y Gabriela Muñoz",
+    "Congresistas opositores piden reunión urgente con Hacienda por presupuesto 2027",
+    "División en Pacto Histórico por solicitud de Comisión de Acusación sobre caso Uribe por paramilitarismo"
   ],
   "gabinete": {
     "Interior": {
