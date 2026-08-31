@@ -1,15 +1,15 @@
 {
-  "fecha": "domingo 30 de agosto de 2026",
+  "fecha": "lunes 31 de agosto de 2026",
   "hora": "17:01",
-  "titular_del_dia": "De la Espriella ordena 'romper la rosca' en contratación estatal y anuncia nuevo código de tránsito",
-  "resumen": "El segundo consejo de ministros en Barranquilla marca la consolidación del método descentralizado y la narrativa anticorrupción. La instrucción de 'romper la rosca' en contratación estatal busca diferenciarse del gobierno saliente, mientras el anuncio de un nuevo código de tránsito materializa la promesa de reducir multas 50%. La gestión territorial domina: calamidad pública en Tolima por incendios con patrón criminal según la gobernadora, y movilización del CD con Uribe al Chocó entregando ayudas satelitales a damnificados del terremoto. En paralelo, Petro lanza su primera ofensiva como opositor: reclama públicamente a su bancada por 'dormirse' en Comisión de Acusaciones sobre el caso Uribe, señal de tensión interna en el Pacto. Bolívar confirma las dificultades del expresidente, quien escribe un libro sin vivienda propia. La tensión fiscal persiste: congresistas exigen reunión con Hacienda tras conocerse el monto de $636 billones del presupuesto 2027, mientras MinJusticia propone cuatro medidas contra extorsión financiera.",
+  "titular_del_dia": "Carolina Gómez declina vocería y Petro viaja a México mientras el Pacto enfrenta crisis interna",
+  "resumen": "La declinación de Carolina Gómez como vocera presidencial —ella misma afirma haber rechazado el cargo— confirma ajustes de última hora en el equipo comunicacional. Cancillería avanza con designaciones técnicas: Pedro Roa asume como viceministro de Asuntos Migratorios, señal de prioridad en gestión fronteriza. El CNE se posesionará en Barranquilla, manteniendo la narrativa descentralizadora, con conversaciones ya abiertas para definir su presidencia. El estratega Carlos Suárez aclara su rol: no será funcionario pero seguirá vinculado desde asesoría externa. En paralelo, el Pacto Histórico exhibe fracturas: Iván Cepeda envía carta urgente pidiendo unidad tras el estancamiento del caso Uribe en Comisión de Acusaciones, mientras Petro viaja a México con permiso del Senado. El desempleo de julio cayó a 8,1%, dato favorable para la transición. La tramitología presupuestal entra en fase crítica: congresistas inician pulso formal sobre los $636 billones para 2027, con fechas clave ya definidas.",
   "titulares": [
-    "De la Espriella ordena a su gabinete 'romper la rosca' en contratación estatal",
-    "Gobierno electo oficializa preparación de nuevo código nacional de tránsito",
-    "Petro reclama públicamente a su bancada por 'dormirse' en Comisión de Acusaciones",
-    "Gobernadora del Tolima alerta sobre 'plan macabro' detrás de incendios forestales",
-    "Uribe y Centro Democrático entregan ayudas tecnológicas en Chocó",
-    "MinJusticia propone cuatro medidas contra extorsión financiera ante Asobancaria"
+    "Carolina Gómez declina nombramiento como vocera del gobierno De la Espriella",
+    "Canciller Bula posesiona a Pedro Roa como viceministro de Asuntos Migratorios",
+    "CNE se posesionará en Barranquilla con conversaciones abiertas para definir presidente",
+    "Carlos Suárez rechaza cargo de funcionario pero seguirá vinculado al gobierno",
+    "Iván Cepeda envía carta al Pacto Histórico pidiendo unidad ante crisis interna",
+    "Expresidente Petro viaja a México con permiso del Senado"
   ],
   "gabinete": {
     "Interior": {
