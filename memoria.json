@@ -1,15 +1,15 @@
 {
-  "fecha": "miércoles 2 de septiembre de 2026",
+  "fecha": "jueves 3 de septiembre de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Partido de La U se suma al gobierno De la Espriella; tensión por ausencia de ministros en debate presupuestal",
-  "resumen": "La coalición de De la Espriella se amplía con la incorporación del Partido de La U, que aporta 21 curules al bloque oficialista. El movimiento refuerza la mayoría legislativa necesaria para tramitar el Presupuesto 2027 por $636 billones, cuyo debate enfrenta molestia congresional por ausencia de ministros. Trump aprovechó para reivindicar su respaldo temprano al presidente colombiano. En seguridad, De la Espriella articula su estrategia de mano dura: visitó Guaviare tras el bombardeo, anunció ofensiva militar y recibió del MinInterior detalles del Estatuto Antiterrorista con orden de \"arreciar contra estos grupos\". El Papa León XIV llamó para expresar preocupación por el terremoto. Emerge el primer grupo criminal dispuesto al sometimiento: \"Los Pepes\" buscarían acogerse a los términos que defina el gobierno. Mientras, la riña pública entre Cabal y Polo Polo evidencia fracturas en el uribismo. La transición avanza sin sobresaltos institucionales, con gabinete completo salvo Minas y gestión legislativa en marcha.",
+  "titular_del_dia": "Alianza Verde se declara en independencia y el gobierno pierde su primer aliado natural",
+  "resumen": "El gobierno De la Espriella registra su primera fractura política significativa: Alianza Verde se declara en independencia, marcando una derrota de los sectores petristas dentro de esa colectividad y reduciendo la base de apoyo esperada. La crisis de pasaportes escala: un fallo judicial suspende el convenio con Thomas Greg & Sons, hay reservas sólo para cuatro meses, y el Congreso exige explicaciones a Cancillería sobre el modelo alternativo. El gobierno anuncia medidas: apelará, pedirá aclaración y garantizará el servicio. En política internacional, Marco Rubio visitará Colombia el 8 de septiembre en Barranquilla para reunirse con De la Espriella, consolidando el alineamiento con Washington. En gestión administrativa, se revocaron más de 60 contratos firmados a última hora en MinIgualdad con 13 denuncias por irregularidades. MinMinas deroga las resoluciones sobre distritos mineros esenciales, calificándolas de \"mal diseñadas\". Juan Felipe Lemos (La U) asume la presidencia del CNE. La transición avanza con tensiones: gabinete completo salvo Minas, pero surgen los primeros costos políticos de la coalición.",
   "titulares": [
-    "Partido de La U se declara oficialmente de gobierno",
-    "Trump reivindica su apoyo a De la Espriella: 'No era el favorito'",
-    "Molestia en Congreso por ausencia de ministros en debate de presupuesto",
-    "MinInterior: 'La orden del presidente es arreciar contra estos grupos'",
-    "'Los Pepes', primer grupo criminal que busca sometimiento",
-    "Papa León XIV llamó a De la Espriella por situación tras terremoto"
+    "Alianza Verde se declara en independencia del gobierno De la Espriella",
+    "Crisis de pasaportes escala: fallo judicial suspende convenio y hay reservas para solo cuatro meses",
+    "Marco Rubio visitará Colombia el 8 de septiembre para reunirse con De la Espriella en Barranquilla",
+    "Gobierno revoca más de 60 contratos de MinIgualdad y presenta 13 denuncias por irregularidades",
+    "MinMinas deroga resoluciones sobre distritos mineros esenciales calificándolas de 'mal diseñadas'",
+    "Juan Felipe Lemos (La U) elegido presidente del Consejo Nacional Electoral"
   ],
   "gabinete": {
     "Interior": {
