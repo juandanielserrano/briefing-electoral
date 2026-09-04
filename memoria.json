@@ -1,15 +1,15 @@
 {
-  "fecha": "jueves 3 de septiembre de 2026",
+  "fecha": "viernes 4 de septiembre de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Alianza Verde se declara en independencia y el gobierno pierde su primer aliado natural",
-  "resumen": "El gobierno De la Espriella registra su primera fractura política significativa: Alianza Verde se declara en independencia, marcando una derrota de los sectores petristas dentro de esa colectividad y reduciendo la base de apoyo esperada. La crisis de pasaportes escala: un fallo judicial suspende el convenio con Thomas Greg & Sons, hay reservas sólo para cuatro meses, y el Congreso exige explicaciones a Cancillería sobre el modelo alternativo. El gobierno anuncia medidas: apelará, pedirá aclaración y garantizará el servicio. En política internacional, Marco Rubio visitará Colombia el 8 de septiembre en Barranquilla para reunirse con De la Espriella, consolidando el alineamiento con Washington. En gestión administrativa, se revocaron más de 60 contratos firmados a última hora en MinIgualdad con 13 denuncias por irregularidades. MinMinas deroga las resoluciones sobre distritos mineros esenciales, calificándolas de \"mal diseñadas\". Juan Felipe Lemos (La U) asume la presidencia del CNE. La transición avanza con tensiones: gabinete completo salvo Minas, pero surgen los primeros costos políticos de la coalición.",
+  "titular_del_dia": "Cae 'Bendito Menor' en operativo militar y se reactiva debate sobre bombardeos con menores",
+  "resumen": "El gobierno De la Espriella registra su primer golpe militar de alto impacto con la baja de alias 'Bendito Menor', jefe de las Autodefensas de la Sierra Nevada. La operación en La Guajira marca el giro en seguridad: mano dura sobre 'paz total'. Pero el costo político emerge inmediato: Medicina Legal confirma dos menores muertos en bombardeo en Miraflores (Guaviare), y el gobierno solicita revocar la suspensión de bombardeos donde pueda haber menores. En economía, alarma energética: el presidente del Congreso advierte que sin 1,5 billones antes de febrero habrá racionamiento. El gabinete concluye su primera Cumbre de Gobernadores definiendo política en Santurbán: se mantiene la delimitación vigente. En agenda internacional, los embajadores en Washington y ONU asumen cargos antes de la visita de Rubio el domingo. La transición avanza con pragmatismo: se cierran diálogos de paz que no avanzan (Comuneros del Sur, bandas Medellín) mientras Chiribiquete vuelve a operaciones militares tras fracaso de acuerdos. El Congreso presiona: ministros que no asistan a debates presupuestales arriesgan sus recursos.",
   "titulares": [
-    "Alianza Verde se declara en independencia del gobierno De la Espriella",
-    "Crisis de pasaportes escala: fallo judicial suspende convenio y hay reservas para solo cuatro meses",
-    "Marco Rubio visitará Colombia el 8 de septiembre para reunirse con De la Espriella en Barranquilla",
-    "Gobierno revoca más de 60 contratos de MinIgualdad y presenta 13 denuncias por irregularidades",
-    "MinMinas deroga resoluciones sobre distritos mineros esenciales calificándolas de 'mal diseñadas'",
-    "Juan Felipe Lemos (La U) elegido presidente del Consejo Nacional Electoral"
+    "Cae alias 'Bendito Menor' en operativo en La Guajira y Medicina Legal confirma dos menores muertos en bombardeo en Guaviare",
+    "Presidente del Congreso alerta: sin 1,5 billones antes de febrero habrá racionamiento de energía",
+    "Gobierno define futuro del Páramo de Santurbán: mantiene delimitación vigente",
+    "Gobierno cierra mesas de diálogo con Comuneros del Sur y bandas de Medellín; retoma operaciones militares en Chiribiquete",
+    "Congreso advierte a ministros: quien no asista a debates presupuestales arriesga su presupuesto",
+    "Embajadores de Colombia en Estados Unidos y ONU asumen oficialmente sus cargos"
   ],
   "gabinete": {
     "Interior": {
