@@ -1,15 +1,15 @@
 {
-  "fecha": "viernes 4 de septiembre de 2026",
+  "fecha": "sábado 5 de septiembre de 2026",
   "hora": "17:01",
-  "titular_del_dia": "Cae 'Bendito Menor' en operativo militar y se reactiva debate sobre bombardeos con menores",
-  "resumen": "El gobierno De la Espriella registra su primer golpe militar de alto impacto con la baja de alias 'Bendito Menor', jefe de las Autodefensas de la Sierra Nevada. La operación en La Guajira marca el giro en seguridad: mano dura sobre 'paz total'. Pero el costo político emerge inmediato: Medicina Legal confirma dos menores muertos en bombardeo en Miraflores (Guaviare), y el gobierno solicita revocar la suspensión de bombardeos donde pueda haber menores. En economía, alarma energética: el presidente del Congreso advierte que sin 1,5 billones antes de febrero habrá racionamiento. El gabinete concluye su primera Cumbre de Gobernadores definiendo política en Santurbán: se mantiene la delimitación vigente. En agenda internacional, los embajadores en Washington y ONU asumen cargos antes de la visita de Rubio el domingo. La transición avanza con pragmatismo: se cierran diálogos de paz que no avanzan (Comuneros del Sur, bandas Medellín) mientras Chiribiquete vuelve a operaciones militares tras fracaso de acuerdos. El Congreso presiona: ministros que no asistan a debates presupuestales arriesgan sus recursos.",
+  "titular_del_dia": "De la Espriella regaña públicamente al gobernador de Nariño y anuncia $40.000 millones para reconstrucción tras terremoto",
+  "resumen": "La gobernabilidad territorial emerge como campo de batalla del nuevo gobierno. De la Espriella escaló el tono contra Camilo Romero (Nariño), acusándolo de negociaciones clandestinas con estructuras armadas y recordando públicamente su proceso judicial en la Corte Suprema. El gobernador negó todo contacto irregular. El mensaje es inequívoco: cero tolerancia a diálogos territoriales no autorizados, marcando distancia radical con la 'paz total'. La coalición suma 141 votos en el Congreso según El Espectador, consolidando mayoría operativa. En ayuda humanitaria, el gobierno activó $40.000 millones para microempresas afectadas por el terremoto, con Homecenter aportando otros $50.000 millones. La cartera de Minas sigue vacante mientras el frente judicial se complica: un segundo juez, ahora en Guaviare, ordenó suspender bombardeos donde haya menores en riesgo. La doctrina de mano dura enfrenta restricciones judiciales que podrían condicionar la estrategia militar. Los embajadores en Washington y ONU ya están posesionados. El gabinete está completo excepto Minas.",
   "titulares": [
-    "Cae alias 'Bendito Menor' en operativo en La Guajira y Medicina Legal confirma dos menores muertos en bombardeo en Guaviare",
-    "Presidente del Congreso alerta: sin 1,5 billones antes de febrero habrá racionamiento de energía",
-    "Gobierno define futuro del Páramo de Santurbán: mantiene delimitación vigente",
-    "Gobierno cierra mesas de diálogo con Comuneros del Sur y bandas de Medellín; retoma operaciones militares en Chiribiquete",
-    "Congreso advierte a ministros: quien no asista a debates presupuestales arriesga su presupuesto",
-    "Embajadores de Colombia en Estados Unidos y ONU asumen oficialmente sus cargos"
+    "De la Espriella regaña públicamente al gobernador de Nariño y le advierte que 'está advertido' por supuestas negociaciones con grupos armados",
+    "Gobierno anuncia $40.000 millones en plan de reactivación económica para microempresas afectadas por terremoto",
+    "Segundo juez ordena suspender bombardeos donde haya menores en riesgo, ahora en Guaviare",
+    "Gobernabilidad suma 141 votos en el Congreso, así están las cargas por partido",
+    "Avianca confirma que canceló tiquetes de Petro a México por estar en lista OFAC",
+    "Cancillería pide a Rusia y Ucrania frenar reclutamiento de colombianos en conflicto"
   ],
   "gabinete": {
     "Interior": {
